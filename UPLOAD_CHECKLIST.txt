@@ -1,0 +1,20 @@
+GitHub upload folder — prepared 2026-11-01 (America/Vancouver)
+
+Upload the CONTENTS of this folder into the AthPathFinder repository root.
+Do not upload the local complete-project ZIP or nested old project folder.
+
+Before switching the repository to Public:
+1. Confirm the authors' software licence and copyright ownership. No LICENSE
+   has been invented; add the agreed licence and confirmed copyright details.
+2. Confirm redistribution terms for included derived memberships, labels,
+   reference catalogs embedded in models, GO-derived outputs and case query lists.
+3. Original third-party data/input_data snapshots are omitted. Arrange permitted
+   access to exact inputs and document a real verified source when available.
+   Until then, inference and full reproduction require local restoration.
+4. Review historical provenance files for local execution paths. They are retained
+   as evidence and are not current public resource URLs.
+5. Confirm the public repository can be opened while signed out. Then put its
+   actual URL in the paper; do not claim a public release before publication.
+
+Preparation changes only packaging/documentation. Training/scoring code and
+retained model/result bytes are unchanged. No new fits or performance calculations.

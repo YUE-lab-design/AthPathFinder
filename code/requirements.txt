@@ -1,0 +1,8 @@
+# Runtime versions actually used for the repaired implementation (Python 3.11.7).
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.8.0
+lightgbm==4.6.0
+matplotlib==3.9.2
+PyMuPDF==1.25.5
