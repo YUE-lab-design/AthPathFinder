@@ -1,0 +1,11 @@
+{
+  "feature_version": "gene_set_seed_v2",
+  "all_passed": true,
+  "real_long_query_invariance_n": 81,
+  "valid_cli_exit": 0,
+  "invalid_duplicate_unknown_cli_exit": 2,
+  "unknown_cli_reported": true,
+  "unknown_does_not_change_retained_query_prediction": true,
+  "real_zero_overlap_flag_and_unchanged_family": true,
+  "fit_if_missing": false
+}

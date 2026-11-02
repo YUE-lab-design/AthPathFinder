@@ -1,0 +1,28 @@
+{
+  "feature_rule_comparison": {
+    "development": {
+      "n": 700,
+      "changed_queries": 312
+    },
+    "heldout": {
+      "n": 170,
+      "changed_queries": 81
+    }
+  },
+  "rice_explicit_policy_matches_executed_cohort": true,
+  "rice_n": 512,
+  "rice_raw_support_counts": {
+    "Carbohydrate metabolism": 17,
+    "Amino acid metabolism": 15,
+    "Lipid metabolism": 14,
+    "Metabolism of cofactors and vitamins": 12,
+    "Glycan biosynthesis and metabolism": 11,
+    "Biosynthesis of other secondary metabolites": 9,
+    "Metabolism of other amino acids": 8,
+    "Energy metabolism": 7,
+    "Metabolism of terpenoids and polyketides": 7,
+    "Nucleotide metabolism": 2
+  },
+  "rice_explicit_policy": "all ten mapped families retained; FAMILY_MIN comparison is descriptive only",
+  "all_current_retained_sets_at_least_five": true
+}

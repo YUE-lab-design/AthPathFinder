@@ -1,0 +1,11 @@
+{
+  "all_passed": true,
+  "lofo_fits_reloaded": 10,
+  "lofo_group_and_id_separation_verified": true,
+  "outer_holdout_not_used_in_lofo": true,
+  "all_lofo_metrics_recomputed_from_saved_scores": true,
+  "all_exported_lofo_model_scores_reproduced": true,
+  "current_family_f1_matches_current_macro_f1": true,
+  "new_model_classes": 0,
+  "primary_fit_or_gate_changed": false
+}

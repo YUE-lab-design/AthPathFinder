@@ -1,0 +1,14 @@
+{
+  "feature_version": "gene_set_seed_v2",
+  "method": "fixed LightGBM; Stage-1 recognition only",
+  "fits_completed": 10,
+  "model_selection_performed": false,
+  "threshold_selection_performed": false,
+  "data_scope": "original Arabidopsis development cohort only; original outer holdout never used",
+  "control_selection": "seed-42 GroupShuffleSplit with legacy test-size formula; candidate prefix targets held-family size, then complete control groups are retained",
+  "group_policy": "remove entire union of held-family and selected-control similarity groups from training; unambiguous positives only",
+  "family_mean_auroc": 0.8684020710825374,
+  "family_mean_auprc": 0.8544513704006285,
+  "lowest_auroc_family": "Glycan biosynthesis and metabolism",
+  "no_claim": "not a new independent confirmatory cohort, not unseen-family label assignment"
+}

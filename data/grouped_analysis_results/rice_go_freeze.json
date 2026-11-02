@@ -1,0 +1,32 @@
+{
+  "map_file": "rice_union_gene_to_go.tsv.gz",
+  "map_sha256": "b2b03c7c891ebcf2ab1936955b1ecef032b6d06ff91330c3dfe9cfc382b40306",
+  "n_genes": 18263,
+  "n_edges": 99567,
+  "covered_union": 5619,
+  "fraction_union": 0.9785788923719958,
+  "per_source": {
+    "ensembl_biomart_entrez": {
+      "n": 4344,
+      "fraction": 0.7565308254963428
+    },
+    "uniprot_kegg_conv": {
+      "n": 2804,
+      "fraction": 0.4883315917798676
+    },
+    "mygene": {
+      "n": 5437,
+      "fraction": 0.9468826192964124
+    }
+  },
+  "license": "GO term assignments are from Ensembl Plants BioMart, UniProt and mygene.info. KEGG pathway dumps are not redistributed; they remain in a local cache (https://www.kegg.jp/kegg/legal.html). The frozen map stores gene identifiers and GO terms only.",
+  "rebuild": "From checksummed files in code/.cache/external_rice: python evaluate_rice_catalog.py. No live API.",
+  "input_sha256": {
+    "ensembl_biomart_osativa.tsv": "18576d946f103f65c2a268644752936efb07016346264eeab2714ab20e49add5",
+    "kegg_conv_uniprot.txt": "a13bacf265876627796c2962abb7652d6a62740408da789e6e182c81de3c7e3a",
+    "uniprot_osa_all_go.tsv.gz": "271cbc2b695bf96f0aa406937e997387057c9b8c2152afaf751e42ee9e030ca2",
+    "mygene_osa_go.json": "b031fc47d53d23f2746c2a60c28d8406db470af9d240ef2f2477b891f66b2f7b",
+    "link_pathway.txt": "2a2e72efd85b7cd1d04808a1617983511ecd0a7c0b3c843b9e1d562bff39643b",
+    "list_pathway.txt": "de6984af45798a1df3a927202267936ab9b5d91281f3bee1db61af06ec527131"
+  }
+}

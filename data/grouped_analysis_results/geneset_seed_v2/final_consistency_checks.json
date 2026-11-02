@@ -1,0 +1,15 @@
+{
+  "current_n": 170,
+  "stage2_n": 84,
+  "e2e_n": 169,
+  "current_family_predictions_unchanged": true,
+  "historical_memberships_preserved": true,
+  "rice_archived_outer_folds_preserved": true,
+  "rice_family_predictions_unchanged": true,
+  "final_lightgbm_fits": 7,
+  "development_lightgbm_fits": 35,
+  "learned_lightgbm_fits_total": 42,
+  "new_model_classes_added": 0,
+  "feature_version": "gene_set_seed_v2",
+  "all_summary_points_rechecked": true
+}

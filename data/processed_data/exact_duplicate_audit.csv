@@ -1,0 +1,537 @@
+canonical_id,sample_id,decision,family
+canonical::1::1672bdf7ed98,AraCyc::ALACAT2-PWY,retained_unique,Amino acid metabolism
+canonical::1::717b0e67efc2,AraCyc::ALANINE-DEG3-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::717b0e67efc2,AraCyc::ALANINE-SYN2-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::f2c5fe087d7a,AraCyc::ARGSPECAT-PWY,retained_unique,Metabolism of other amino acids
+canonical::1::2f7518e0c8af,AraCyc::ARGSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::497b11151722,AraCyc::ARGSYNBSUB-PWY,retained_unique,Amino acid metabolism
+canonical::1::db7471b8ed2b,AraCyc::ARO-PWY,retained_unique,Amino acid metabolism
+canonical::1::d5ab4a0414e6,AraCyc::ASPARAGINE-DEG1-PWY,retained_unique,Amino acid metabolism
+canonical::1::f0608934855d,AraCyc::ASPARAGINE-DEG1-PWY-1,retained_unique,Amino acid metabolism
+canonical::1::0a0fa843fcf3,AraCyc::ASPARTATE-DEG1-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::0a0fa843fcf3,AraCyc::ASPARTATESYN-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::485b664ffe25,AraCyc::ASPASN-ARA-PWY,retained_unique,Amino acid metabolism
+canonical::1::22dbb8b01711,AraCyc::BRANCHED-CHAIN-AA-SYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::13fb5392034c,AraCyc::BSUBPOLYAMSYN-PWY,retained_unique,Metabolism of other amino acids
+canonical::1::ea2dbcfb6301,AraCyc::CALVIN-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::cf18722d12c0,AraCyc::CAMALEXIN-SYN,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::6853fced7b79,AraCyc::CHLOROPHYLL-SYN,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::0e67b694a246,AraCyc::CITRULBIO-PWY,retained_unique,Amino acid metabolism
+canonical::1::2e140abca010,AraCyc::COA-PWY,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::151114ff02b1,AraCyc::COMPLETE-ARO-ARA-PWY,retained_unique,Amino acid metabolism
+canonical::1::ca664d25ba6a,AraCyc::CYANCAT-PWY,retained_unique,Energy metabolism
+canonical::1::64635ff889d4,AraCyc::CYSTSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::c0a9fca2978d,AraCyc::DETOX1-PWY,retained_unique,Xenobiotics biodegradation and metabolism
+canonical::1::86fadf2c416e,AraCyc::DETOX1-PWY-1,retained_unique,Xenobiotics biodegradation and metabolism
+canonical::1::fcdefa5263f5,AraCyc::DTDPRHAMSYN-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::c03341791a5f,AraCyc::FASYN-ELONG-PWY,retained_unique,Lipid metabolism
+canonical::1::570a83686679,AraCyc::GLUCONEO-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::e9f33955a256,AraCyc::GLUCOSE1PMETAB-PWY,collapsed_exact_duplicate,Carbohydrate metabolism
+canonical::1::e9f33955a256,AraCyc::PWY-5661,collapsed_exact_duplicate,Carbohydrate metabolism
+canonical::1::32a346c31180,AraCyc::GLUTAMINDEG-PWY,retained_unique,Amino acid metabolism
+canonical::1::bee22a98f36b,AraCyc::GLUTORN-PWY,retained_unique,Amino acid metabolism
+canonical::1::6a1694c67102,AraCyc::GLYCLEAV-PWY,retained_unique,Amino acid metabolism
+canonical::1::a0c6a35dcce7,AraCyc::GLYCOLYSIS,retained_unique,Carbohydrate metabolism
+canonical::1::e90f7cef5501,AraCyc::GLYOXYLATE-BYPASS,retained_unique,Carbohydrate metabolism
+canonical::1::d2a7b9bea661,AraCyc::GLYSYN-ALA-PWY,retained_unique,Amino acid metabolism
+canonical::1::57955d8da236,AraCyc::GLYSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::b1d62ad6e425,AraCyc::GLYSYN2-PWY,retained_unique,Amino acid metabolism
+canonical::1::a3da2f68e97a,AraCyc::HEME-BIOSYNTHESIS-II,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::0ba87c8793bb,AraCyc::HISTSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::39e9d999d9dd,AraCyc::HOMOSERSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::7ed8fe63b6b2,AraCyc::ILE-VAL-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::7ed8fe63b6b2,AraCyc::VALSYN-PWY,collapsed_exact_duplicate,Amino acid metabolism
+canonical::1::1a61c127a4fa,AraCyc::ILEUDEG-PWY,retained_unique,Amino acid metabolism
+canonical::1::5badb550b937,AraCyc::ILEUSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::2e9cb908dc96,AraCyc::LEU-DEG2-PWY,retained_unique,Amino acid metabolism
+canonical::1::b93ee7881475,AraCyc::LEUSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::7f5366c6986c,AraCyc::LIPAS-PWY,retained_unique,Lipid metabolism
+canonical::1::1e3a8c383bf3,AraCyc::LIPASYN-PWY,retained_unique,Lipid metabolism
+canonical::1::1a95124168a7,AraCyc::LYSINE-DEG2-PWY,retained_unique,Amino acid metabolism
+canonical::1::9fe3a60d3ff0,AraCyc::MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::35b934d7ec36,AraCyc::METHIONINE-DEG1-PWY,retained_unique,Amino acid metabolism
+canonical::1::b261ef175647,AraCyc::NAGLIPASYN-PWY,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::6efb8de9f475,AraCyc::NONMEVIPP-PWY,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::20705c39c6fb,AraCyc::NONOXIPENT-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::604a67adec40,AraCyc::OXIDATIVEPENT-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::f2e1ee41dd3b,AraCyc::PANTO-PWY,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::d9834bfdcba2,AraCyc::PENTOSE-P-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::274511cb8f0b,AraCyc::PHOTOALL-PWY,retained_unique,Energy metabolism
+canonical::1::7ed38b7f9a62,AraCyc::POLYAMINSYN3-PWY,retained_unique,Metabolism of other amino acids
+canonical::1::8dc7665c4906,AraCyc::PWY-1001,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::277e8dec8eb9,AraCyc::PWY-101,retained_unique,Energy metabolism
+canonical::1::7e6c7fe2e52f,AraCyc::PWY-102,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::738cc9aed41b,AraCyc::PWY-1042,retained_unique,Carbohydrate metabolism
+canonical::1::4062b2b82ced,AraCyc::PWY-1061,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::d8ddde89246e,AraCyc::PWY-112,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::47ab076d343c,AraCyc::PWY-1121,retained_unique,Lipid metabolism
+canonical::1::7072706b5e06,AraCyc::PWY-1187,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::7072706b5e06,AraCyc::PWYQT-4472,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::7072706b5e06,AraCyc::PWYQT-4473,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::7072706b5e06,AraCyc::PWYQT-4474,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::089d7c7c83f5,AraCyc::PWY-1722,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::7ec24f004953,AraCyc::PWY-181,collapsed_exact_duplicate,Energy metabolism
+canonical::1::7ec24f004953,AraCyc::PWY-8363,collapsed_exact_duplicate,Energy metabolism
+canonical::1::e46c64ae67e4,AraCyc::PWY-2161,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::fc145126d3ac,AraCyc::PWY-2181,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::6972b6d866f3,AraCyc::PWY-2261,retained_unique,Metabolism of other amino acids
+canonical::1::6af8ef50977a,AraCyc::PWY-2301,retained_unique,Carbohydrate metabolism
+canonical::1::88e1daf5cca0,AraCyc::PWY-2463,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::5327bb79f409,AraCyc::PWY-2541,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::46a1cc55dabe,AraCyc::PWY-2582,collapsed_exact_duplicate,Metabolism of terpenoids and polyketides
+canonical::1::46a1cc55dabe,AraCyc::PWY-6544,collapsed_exact_duplicate,Metabolism of terpenoids and polyketides
+canonical::1::46a1cc55dabe,AraCyc::PWY-699,collapsed_exact_duplicate,Metabolism of terpenoids and polyketides
+canonical::1::73a36c4e50f7,AraCyc::PWY-2681,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::a3c84ab58468,AraCyc::PWY-282,retained_unique,Lipid metabolism
+canonical::1::217e247ce0dc,AraCyc::PWY-2821,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::81ac21d813e4,AraCyc::PWY-3001,retained_unique,Amino acid metabolism
+canonical::1::93292515888b,AraCyc::PWY-3041,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::3b01c2ca1407,AraCyc::PWY-3101,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::1af67f16371b,AraCyc::PWY-321,retained_unique,Lipid metabolism
+canonical::1::592a2200d8e7,AraCyc::PWY-3461,retained_unique,Amino acid metabolism
+canonical::1::f96dbebec23d,AraCyc::PWY-3462,retained_unique,Amino acid metabolism
+canonical::1::d98b1a9aa7ed,AraCyc::PWY-3481,retained_unique,Amino acid metabolism
+canonical::1::2b8d338d26d4,AraCyc::PWY-3561,retained_unique,Lipid metabolism
+canonical::1::82a4ea5e882c,AraCyc::PWY-3742,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::095bd2897113,AraCyc::PWY-3781,retained_unique,Energy metabolism
+canonical::1::61c862c2eb0f,AraCyc::PWY-3801,retained_unique,Carbohydrate metabolism
+canonical::1::f1aa99b3351c,AraCyc::PWY-3841,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::b9ea4e537cf2,AraCyc::PWY-3941,retained_unique,Metabolism of other amino acids
+canonical::1::ad254e410bef,AraCyc::PWY-401,retained_unique,Lipid metabolism
+canonical::1::125f89b10394,AraCyc::PWY-4041,retained_unique,Metabolism of other amino acids
+canonical::1::2238b252362f,AraCyc::PWY-4081,retained_unique,Metabolism of other amino acids
+canonical::1::1ded38d41676,AraCyc::PWY-4101,retained_unique,Carbohydrate metabolism
+canonical::1::ffd3b894d9e0,AraCyc::PWY-4203,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::7c55638fe831,AraCyc::PWY-4221,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::15a5345e9d0c,AraCyc::PWY-4221ARA,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::3a977936659f,AraCyc::PWY-4302,retained_unique,Energy metabolism
+canonical::1::91c8e9313e64,AraCyc::PWY-4321,retained_unique,Amino acid metabolism
+canonical::1::7f0380ff7da8,AraCyc::PWY-4361,retained_unique,Metabolism of other amino acids
+canonical::1::54e12595d3d7,AraCyc::PWY-4381,retained_unique,Lipid metabolism
+canonical::1::2f259e97cca8,AraCyc::PWY-4541,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::1ad3bd115311,AraCyc::PWY-4562,collapsed_exact_duplicate,Glycan biosynthesis and metabolism
+canonical::1::1ad3bd115311,AraCyc::PWY-4765,collapsed_exact_duplicate,Glycan biosynthesis and metabolism
+canonical::1::1ad3bd115311,AraCyc::PWY-6554,collapsed_exact_duplicate,Glycan biosynthesis and metabolism
+canonical::1::e0481d00a3de,AraCyc::PWY-4661,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::0764850044e8,AraCyc::PWY-4702,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::71cd6bf20141,AraCyc::PWY-4821,retained_unique,Carbohydrate metabolism
+canonical::1::605ddf8e94c5,AraCyc::PWY-4841,retained_unique,Carbohydrate metabolism
+canonical::1::3a8bdce8016c,AraCyc::PWY-4861,retained_unique,Carbohydrate metabolism
+canonical::1::73584d1bad33,AraCyc::PWY-4984,retained_unique,Amino acid metabolism
+canonical::1::e18d9d5e3453,AraCyc::PWY-5004,retained_unique,Amino acid metabolism
+canonical::1::0dcd41cace51,AraCyc::PWY-5027,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::ccddcec367fc,AraCyc::PWY-5035,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::6bff786181e2,AraCyc::PWY-5041,retained_unique,Metabolism of other amino acids
+canonical::1::d94d3ca6952e,AraCyc::PWY-5044,retained_unique,Nucleotide metabolism
+canonical::1::5f9d94de5f74,AraCyc::PWY-5046,retained_unique,Carbohydrate metabolism
+canonical::1::8120f28fb94b,AraCyc::PWY-5049,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::f55faebf663e,AraCyc::PWY-5068,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::f9cb11d2cba6,AraCyc::PWY-5070,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::65dd0114abc5,AraCyc::PWY-5079,retained_unique,Amino acid metabolism
+canonical::1::c33be650189b,AraCyc::PWY-5080,retained_unique,Lipid metabolism
+canonical::1::1bcfc54894bf,AraCyc::PWY-5083,retained_unique,Nucleotide metabolism
+canonical::1::5355c2450722,AraCyc::PWY-5084,retained_unique,Carbohydrate metabolism
+canonical::1::57f61cb947f8,AraCyc::PWY-5097,retained_unique,Amino acid metabolism
+canonical::1::69b9fcde76d4,AraCyc::PWY-5098,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::aa2a7295fd97,AraCyc::PWY-5120,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::ecdb2c58a3a5,AraCyc::PWY-5121,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::39436e7eb66a,AraCyc::PWY-5122,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::7d9670c663af,AraCyc::PWY-5123,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::5fcf9922093f,AraCyc::PWY-5125,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::66ee4e4334bb,AraCyc::PWY-5129,retained_unique,Lipid metabolism
+canonical::1::f341fbecd418,AraCyc::PWY-5136,retained_unique,Lipid metabolism
+canonical::1::9b5c9dcae21f,AraCyc::PWY-5137,retained_unique,Lipid metabolism
+canonical::1::810fad66d4bf,AraCyc::PWY-5138,retained_unique,Lipid metabolism
+canonical::1::7898b08d03b9,AraCyc::PWY-5142,retained_unique,Lipid metabolism
+canonical::1::3c6aaee7fc6e,AraCyc::PWY-5143,retained_unique,Lipid metabolism
+canonical::1::82c28c50e6ad,AraCyc::PWY-5147,retained_unique,Lipid metabolism
+canonical::1::3344955b3cfc,AraCyc::PWY-5156,retained_unique,Lipid metabolism
+canonical::1::e53df1f5fa6e,AraCyc::PWY-5173,retained_unique,Carbohydrate metabolism
+canonical::1::966f63b690b2,AraCyc::PWY-5188,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::16d25e14bb60,AraCyc::PWY-5203,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::362ebf4ca4de,AraCyc::PWY-5267,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::b30c1cd7782f,AraCyc::PWY-5269,retained_unique,Lipid metabolism
+canonical::1::018ce290ed61,AraCyc::PWY-5320,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::335988506ce1,AraCyc::PWY-5321,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::335988506ce1,AraCyc::PWY-6266-ARA,collapsed_exact_duplicate,Biosynthesis of other secondary metabolites
+canonical::1::d3622278375c,AraCyc::PWY-5337,retained_unique,Carbohydrate metabolism
+canonical::1::efbb00d6b407,AraCyc::PWY-5340,retained_unique,Xenobiotics biodegradation and metabolism
+canonical::1::236cbaad91d8,AraCyc::PWY-5350,retained_unique,Energy metabolism
+canonical::1::4fdeaf8459f0,AraCyc::PWY-5366,retained_unique,Lipid metabolism
+canonical::1::ffe0a886b2af,AraCyc::PWY-5381,retained_unique,Nucleotide metabolism
+canonical::1::ee1b91584ed5,AraCyc::PWY-5386,collapsed_exact_duplicate,Carbohydrate metabolism
+canonical::1::ee1b91584ed5,AraCyc::PWY-5386-1,collapsed_exact_duplicate,Carbohydrate metabolism
+canonical::1::c868791c1b2e,AraCyc::PWY-5390,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::e24ab1220281,AraCyc::PWY-5453,retained_unique,Carbohydrate metabolism
+canonical::1::6e7166aac49d,AraCyc::PWY-5464,retained_unique,Carbohydrate metabolism
+canonical::1::7c9c69cf471a,AraCyc::PWY-5484,retained_unique,Carbohydrate metabolism
+canonical::1::4844528050c1,AraCyc::PWY-5486,retained_unique,Carbohydrate metabolism
+canonical::1::79212fdb151d,AraCyc::PWY-561,retained_unique,Carbohydrate metabolism
+canonical::1::5b43d4780b0c,AraCyc::PWY-5659,retained_unique,Carbohydrate metabolism
+canonical::1::a68b699cd7b8,AraCyc::PWY-5667,retained_unique,Lipid metabolism
+canonical::1::48f8278ce908,AraCyc::PWY-5670,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::5fe409485f42,AraCyc::PWY-5687,retained_unique,Nucleotide metabolism
+canonical::1::8b8cde3829f8,AraCyc::PWY-5690,retained_unique,Carbohydrate metabolism
+canonical::1::1df09d09ff03,AraCyc::PWY-5723,retained_unique,Carbohydrate metabolism
+canonical::1::2c08f19cdb81,AraCyc::PWY-5725,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::8c7b81cb1ae9,AraCyc::PWY-5791,collapsed_exact_duplicate,Metabolism of cofactors and vitamins
+canonical::1::8c7b81cb1ae9,AraCyc::PWY-5837,collapsed_exact_duplicate,Metabolism of cofactors and vitamins
+canonical::1::97083d00d682,AraCyc::PWY-5800,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::4f546e361130,AraCyc::PWY-5807,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::de0ba065d777,AraCyc::PWY-5859,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::ddb3f6fdd37c,AraCyc::PWY-5864,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::ce280a4094b4,AraCyc::PWY-5868,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::81b40a5a12f0,AraCyc::PWY-5886,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::e6ad19b03a45,AraCyc::PWY-5918,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::506254c69f0d,AraCyc::PWY-5934,retained_unique,Energy metabolism
+canonical::1::d3cdbf7bab9e,AraCyc::PWY-5947,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::2019f8b2e3ea,AraCyc::PWY-5957,retained_unique,Metabolism of other amino acids
+canonical::1::32a3d49157b3,AraCyc::PWY-5963,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::314521676fcd,AraCyc::PWY-5971,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::314521676fcd,AraCyc::PWY-5989,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::0d7c84627487,AraCyc::PWY-5973,retained_unique,Lipid metabolism
+canonical::1::4547bffd131d,AraCyc::PWY-5980,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::42795b4430ee,AraCyc::PWY-5992,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::3b36159b0d49,AraCyc::PWY-6007,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::b8e0188cac06,AraCyc::PWY-601,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::f301aa279fbb,AraCyc::PWY-6012,retained_unique,Lipid metabolism
+canonical::1::52824ce3b309,AraCyc::PWY-6014,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::52824ce3b309,AraCyc::PWY-6710,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::52824ce3b309,AraCyc::PWY-7634,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::d873437aec30,AraCyc::PWY-6039,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::fb0678de0003,AraCyc::PWY-6040,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::5bdb258caf4b,AraCyc::PWY-6051,retained_unique,Xenobiotics biodegradation and metabolism
+canonical::1::3de3aced44ea,AraCyc::PWY-6115,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::e152fbab8e97,AraCyc::PWY-6117,retained_unique,Metabolism of other amino acids
+canonical::1::51571937d0fd,AraCyc::PWY-6118,retained_unique,Lipid metabolism
+canonical::1::26e5f134c8bf,AraCyc::PWY-6121,retained_unique,Nucleotide metabolism
+canonical::1::552606ae48ea,AraCyc::PWY-6124,retained_unique,Nucleotide metabolism
+canonical::1::bacc9b77aee1,AraCyc::PWY-6147,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::9e4b668b7865,AraCyc::PWY-6163,retained_unique,Amino acid metabolism
+canonical::1::8a8617f3d515,AraCyc::PWY-6199,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::714658666a90,AraCyc::PWY-621,retained_unique,Carbohydrate metabolism
+canonical::1::fe3d3e07b16e,AraCyc::PWY-622,retained_unique,Carbohydrate metabolism
+canonical::1::b07859dd80da,AraCyc::PWY-63,retained_unique,Carbohydrate metabolism
+canonical::1::f2665c80dfeb,AraCyc::PWY-6317,retained_unique,Carbohydrate metabolism
+canonical::1::4b9e333c2da9,AraCyc::PWY-6348,retained_unique,Energy metabolism
+canonical::1::8cfe6cb4b047,AraCyc::PWY-6351,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::b824b260b8f2,AraCyc::PWY-6358,collapsed_exact_duplicate,Glycan biosynthesis and metabolism
+canonical::1::b824b260b8f2,AraCyc::PWY-6363,collapsed_exact_duplicate,Glycan biosynthesis and metabolism
+canonical::1::d9e3335a075e,AraCyc::PWY-6364,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::881d3af84ab4,AraCyc::PWY-6367,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::fa18bf780d04,AraCyc::PWY-6369,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::b22d6854ea82,AraCyc::PWY-641,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::27fc7d39d6d3,AraCyc::PWY-6441,retained_unique,Metabolism of other amino acids
+canonical::1::e25d2d22d807,AraCyc::PWY-6444,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::03a6fb6d0db6,AraCyc::PWY-6475,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::aaa99a1bbc01,AraCyc::PWY-6527,retained_unique,Carbohydrate metabolism
+canonical::1::93999fa1cd97,AraCyc::PWY-6546,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::4db6bb92ec5c,AraCyc::PWY-6549,retained_unique,Energy metabolism
+canonical::1::3168faac0746,AraCyc::PWY-6556,retained_unique,Nucleotide metabolism
+canonical::1::3315c5578ba7,AraCyc::PWY-6595,collapsed_exact_duplicate,Nucleotide metabolism
+canonical::1::3315c5578ba7,AraCyc::PWY-6607,collapsed_exact_duplicate,Nucleotide metabolism
+canonical::1::b1c10ed81340,AraCyc::PWY-6596,retained_unique,Nucleotide metabolism
+canonical::1::ef15bd982119,AraCyc::PWY-6599,retained_unique,Nucleotide metabolism
+canonical::1::b7e8253a23d6,AraCyc::PWY-6605,retained_unique,Nucleotide metabolism
+canonical::1::e21a42296aec,AraCyc::PWY-6606,retained_unique,Nucleotide metabolism
+canonical::1::e5e0314b6512,AraCyc::PWY-6612,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::7f9ec217d995,AraCyc::PWY-6613,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::9adcdec2bbde,AraCyc::PWY-6614,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::c59632b3dca9,AraCyc::PWY-6622,retained_unique,Lipid metabolism
+canonical::1::5d745cc5d714,AraCyc::PWY-6663,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::5c8878f889a6,AraCyc::PWY-6691,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::4751427ce905,AraCyc::PWY-6717,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::ab581856d1d1,AraCyc::PWY-6724,retained_unique,Carbohydrate metabolism
+canonical::1::995cabe9da7e,AraCyc::PWY-6733,retained_unique,Lipid metabolism
+canonical::1::ddf88f077a98,AraCyc::PWY-6745,retained_unique,Metabolism of other amino acids
+canonical::1::154e158a379d,AraCyc::PWY-6754,retained_unique,Metabolism of other amino acids
+canonical::1::a5bc74427928,AraCyc::PWY-6773,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::48ad4a800394,AraCyc::PWY-6786,retained_unique,Xenobiotics biodegradation and metabolism
+canonical::1::23fa38f53fe1,AraCyc::PWY-6787,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::7b3854f7be4c,AraCyc::PWY-6792,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::da21c877ed6a,AraCyc::PWY-6803,retained_unique,Lipid metabolism
+canonical::1::3c55e892f7d6,AraCyc::PWY-6837,retained_unique,Lipid metabolism
+canonical::1::a3d3828e2d32,AraCyc::PWY-6842,retained_unique,Metabolism of other amino acids
+canonical::1::c0c81b196e4f,AraCyc::PWY-6908,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::5539aacf5552,AraCyc::PWY-6922,retained_unique,Amino acid metabolism
+canonical::1::425abe93faea,AraCyc::PWY-6927,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::e842440d0518,AraCyc::PWY-6936,retained_stage1_excluded_stage2_family_conflict,Metabolism of other amino acids
+canonical::1::e842440d0518,KEGG::path:ath00543,retained_stage1_excluded_stage2_family_conflict,Glycan biosynthesis and metabolism
+canonical::1::ebb7b12411f2,AraCyc::PWY-6952,retained_unique,Lipid metabolism
+canonical::1::9eafb75e79ab,AraCyc::PWY-702,retained_unique,Amino acid metabolism
+canonical::1::b5e43fae9d82,AraCyc::PWY-7036,retained_unique,Lipid metabolism
+canonical::1::17c1db120f65,AraCyc::PWY-7039,retained_unique,Lipid metabolism
+canonical::1::9bab7f3bee56,AraCyc::PWY-7047,retained_unique,Carbohydrate metabolism
+canonical::1::cf52201665be,AraCyc::PWY-7048,retained_unique,Carbohydrate metabolism
+canonical::1::6ce9810ccbe8,AraCyc::PWY-7101,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::6e6069f02a0b,AraCyc::PWY-7120,retained_unique,Lipid metabolism
+canonical::1::dbba31ab881a,AraCyc::PWY-7140,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::92314bf73eef,AraCyc::PWY-7176,retained_unique,Nucleotide metabolism
+canonical::1::51fb8645c950,AraCyc::PWY-7177,retained_unique,Nucleotide metabolism
+canonical::1::7c536b727d9a,AraCyc::PWY-7184,collapsed_exact_duplicate,Nucleotide metabolism
+canonical::1::7c536b727d9a,AraCyc::PWY0-166,collapsed_exact_duplicate,Nucleotide metabolism
+canonical::1::5ea30b5a1036,AraCyc::PWY-7185,retained_unique,Nucleotide metabolism
+canonical::1::aa1c89dff2fb,AraCyc::PWY-7193,retained_unique,Nucleotide metabolism
+canonical::1::532b149731a8,AraCyc::PWY-7196,retained_unique,Nucleotide metabolism
+canonical::1::3709be07632f,AraCyc::PWY-7199,retained_unique,Nucleotide metabolism
+canonical::1::87e3d0bef2a0,AraCyc::PWY-7200,retained_unique,Nucleotide metabolism
+canonical::1::fcd2d7356e2c,AraCyc::PWY-7204,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::e12337c6d3c6,AraCyc::PWY-7205,retained_unique,Nucleotide metabolism
+canonical::1::69647f660e76,AraCyc::PWY-7208,retained_unique,Nucleotide metabolism
+canonical::1::b2aa6fc1f26e,AraCyc::PWY-7211,retained_unique,Nucleotide metabolism
+canonical::1::d62237f71517,AraCyc::PWY-7219,retained_unique,Nucleotide metabolism
+canonical::1::01af0dbd831b,AraCyc::PWY-7221,retained_unique,Nucleotide metabolism
+canonical::1::ac5efb5262fe,AraCyc::PWY-7238,retained_unique,Carbohydrate metabolism
+canonical::1::f6a33b4ffc06,AraCyc::PWY-724,retained_unique,Amino acid metabolism
+canonical::1::67b094102aa8,AraCyc::PWY-7298,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::0ab0f1552ea0,AraCyc::PWY-7343,retained_unique,Carbohydrate metabolism
+canonical::1::0cb42a44239e,AraCyc::PWY-7345,retained_unique,Carbohydrate metabolism
+canonical::1::dc035f4d0557,AraCyc::PWY-7346,retained_unique,Carbohydrate metabolism
+canonical::1::4bfe74f45189,AraCyc::PWY-7356,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::84f876c489e7,AraCyc::PWY-7388,retained_unique,Lipid metabolism
+canonical::1::8c4b3ba82f32,AraCyc::PWY-7398,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::9dec81506ea9,AraCyc::PWY-7417,retained_unique,Lipid metabolism
+canonical::1::e61362df7307,AraCyc::PWY-7450,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::ee00c3820db4,AraCyc::PWY-7546,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::d00ac69398ca,AraCyc::PWY-7560,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::aa8ab4bd1199,AraCyc::PWY-7851,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::03a064f1a9dd,AraCyc::PWY-7909,retained_unique,Carbohydrate metabolism
+canonical::1::26216af8a01b,AraCyc::PWY-7980,retained_unique,Energy metabolism
+canonical::1::6d9ce153c2c8,AraCyc::PWY-7995,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::494cf23811a5,AraCyc::PWY-801,retained_unique,Amino acid metabolism
+canonical::1::e30b226130c7,AraCyc::PWY-8011,retained_unique,Amino acid metabolism
+canonical::1::83c21b511752,AraCyc::PWY-8024,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::00e9a92b5ad9,AraCyc::PWY-8142,retained_unique,Carbohydrate metabolism
+canonical::1::25bd74438a02,AraCyc::PWY-8148,retained_unique,Nucleotide metabolism
+canonical::1::0bc44d7a2c46,AraCyc::PWY-8157,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::a1bf7c0c7b51,AraCyc::PWY-8270,retained_unique,Energy metabolism
+canonical::1::054db292e8e8,AraCyc::PWY-8279,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::054db292e8e8,AraCyc::PWY-8280,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::a02f3dcee08f,AraCyc::PWY-8321,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::976cadc53ca8,AraCyc::PWY-8395,retained_unique,Lipid metabolism
+canonical::1::c07e51421121,AraCyc::PWY-8398,retained_unique,Lipid metabolism
+canonical::1::f12c5462ac71,AraCyc::PWY-841,retained_unique,Nucleotide metabolism
+canonical::1::e0cffc6aa8eb,AraCyc::PWY-8458,retained_unique,Carbohydrate metabolism
+canonical::1::38ca1b42475c,AraCyc::PWY-8475,retained_unique,Metabolism of other amino acids
+canonical::1::c8a1032efb62,AraCyc::PWY-882,retained_unique,Carbohydrate metabolism
+canonical::1::a17689d6cdcf,AraCyc::PWY-922,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::5ef72529e376,AraCyc::PWY0-1182,retained_unique,Carbohydrate metabolism
+canonical::1::201facaa2d4e,AraCyc::PWY0-1264,retained_unique,Lipid metabolism
+canonical::1::2a8a01091ae7,AraCyc::PWY0-1319,retained_unique,Lipid metabolism
+canonical::1::2747eed33491,AraCyc::PWY0-1507,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::cb848881c47f,AraCyc::PWY0-1608,retained_unique,Amino acid metabolism
+canonical::1::5400e072dbe7,AraCyc::PWY0-162,retained_unique,Nucleotide metabolism
+canonical::1::fb105fc5608f,AraCyc::PWY0-461,retained_unique,Amino acid metabolism
+canonical::1::b3c9da569f47,AraCyc::PWY0-501,retained_unique,Lipid metabolism
+canonical::1::4c20279254e2,AraCyc::PWY0-662,retained_unique,Nucleotide metabolism
+canonical::1::57b2d51c89ce,AraCyc::PWY18C3-22,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::69a0f80ed60a,AraCyc::PWY18C3-24,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::0da7567d3099,AraCyc::PWY1F-823,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::664c3751a9b8,AraCyc::PWY1ZNC-1,retained_unique,Energy metabolism
+canonical::1::d6afc734372d,AraCyc::PWY3O-4107,retained_unique,Nucleotide metabolism
+canonical::1::3e9ad20b537a,AraCyc::PWY3O-450,retained_unique,Lipid metabolism
+canonical::1::b09dbb1119c1,AraCyc::PWY4FS-2,retained_unique,Lipid metabolism
+canonical::1::728edcf73e6a,AraCyc::PWY4FS-3,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::728edcf73e6a,AraCyc::PWY4FS-4,collapsed_exact_duplicate,Lipid metabolism
+canonical::1::05fffb4cded6,AraCyc::PWY4FS-7,retained_unique,Lipid metabolism
+canonical::1::781d319575f4,AraCyc::PWY4FS-8,retained_unique,Lipid metabolism
+canonical::1::f53363c35675,AraCyc::PWY66-21,retained_unique,Carbohydrate metabolism
+canonical::1::c2ace7fcf653,AraCyc::PWY66-367,retained_unique,Carbohydrate metabolism
+canonical::1::17bc2c50a9c3,AraCyc::PWY66-385,retained_unique,Nucleotide metabolism
+canonical::1::5694cc16e456,AraCyc::PWY66-423,retained_unique,Carbohydrate metabolism
+canonical::1::bbf986cc340b,AraCyc::PWY66-430,retained_unique,Lipid metabolism
+canonical::1::a94155d8d8fb,AraCyc::PWYQT-4429,retained_unique,Carbohydrate metabolism
+canonical::1::006421875c34,AraCyc::PWYQT-4445,retained_unique,Nucleotide metabolism
+canonical::1::a370d1038086,AraCyc::PWYQT-4449,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::bb380ffb30f0,AraCyc::PWYQT-4450,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::50c97be7cdcb,AraCyc::PWYQT-4466,retained_unique,Carbohydrate metabolism
+canonical::1::328e70416574,AraCyc::PWYQT-4471,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::8e8778421770,AraCyc::PWYQT-4475,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::b80139d017cb,AraCyc::PWYQT-4477,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::0cb20cb034e2,AraCyc::PWYQT-4481,retained_unique,Carbohydrate metabolism
+canonical::1::6d8d9e12de5f,AraCyc::PWYQT-4482,retained_unique,Lipid metabolism
+canonical::1::365d96d1ea00,AraCyc::PWYQT-62,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::98dac20c0605,AraCyc::PWYQT-94,retained_unique,Metabolism of other amino acids
+canonical::1::0f14d5ca8e5a,AraCyc::PYRIDNUCSYN-PWY,retained_unique,Nucleotide metabolism
+canonical::1::0a55a4a0b0be,AraCyc::PYRUVDEHYD-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::7e7cc51a02dd,AraCyc::RIBOSYN2-PWY,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::678c8af7d841,AraCyc::SER-GLYSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::3dbb4eafaaa3,AraCyc::SERSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::4314b667a366,AraCyc::SUCSYN-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::86ac730bfde9,AraCyc::THISYNARA-PWY,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::bc06b217bdd9,AraCyc::THRESYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::bf2a23ceff14,AraCyc::TRESYN-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::c69e3c105063,AraCyc::TRIGLSYN-PWY,retained_unique,Lipid metabolism
+canonical::1::3bdcfb8d30a1,AraCyc::TRPSYN-PWY,retained_unique,Amino acid metabolism
+canonical::1::afd000ee6dd0,AraCyc::TYRFUMCAT-PWY,retained_unique,Amino acid metabolism
+canonical::1::e44a2ca9b7e8,AraCyc::UDPNACETYLGALSYN-PWY,retained_unique,Carbohydrate metabolism
+canonical::1::5fa7b96840f0,AraCyc::VALDEG-PWY,retained_unique,Amino acid metabolism
+canonical::1::261292ea1baf,KEGG::path:ath00010,retained_unique,Carbohydrate metabolism
+canonical::1::7da2b994aa7b,KEGG::path:ath00020,retained_unique,Carbohydrate metabolism
+canonical::1::6645437eb6e4,KEGG::path:ath00030,retained_unique,Carbohydrate metabolism
+canonical::1::69b659d22fc4,KEGG::path:ath00040,retained_unique,Carbohydrate metabolism
+canonical::1::ae90c396cdc4,KEGG::path:ath00051,retained_unique,Carbohydrate metabolism
+canonical::1::bd7cbfa3b85d,KEGG::path:ath00052,retained_unique,Carbohydrate metabolism
+canonical::1::60e8439b7392,KEGG::path:ath00053,retained_unique,Carbohydrate metabolism
+canonical::1::450b380a3a82,KEGG::path:ath00061,retained_unique,Lipid metabolism
+canonical::1::b4f29708865c,KEGG::path:ath00062,retained_unique,Lipid metabolism
+canonical::1::23a6cb05a30b,KEGG::path:ath00071,retained_unique,Lipid metabolism
+canonical::1::7da6de7fb5f1,KEGG::path:ath00073,retained_unique,Lipid metabolism
+canonical::1::5c4528ee2428,KEGG::path:ath00100,retained_unique,Lipid metabolism
+canonical::1::cc5c3a161fc8,KEGG::path:ath00130,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::fbc04df12329,KEGG::path:ath00190,retained_unique,Energy metabolism
+canonical::1::3daaac89d797,KEGG::path:ath00195,retained_unique,Energy metabolism
+canonical::1::ca4d31062256,KEGG::path:ath00196,retained_unique,Energy metabolism
+canonical::1::83e513974f5a,KEGG::path:ath00220,retained_unique,Amino acid metabolism
+canonical::1::5d0652390eb4,KEGG::path:ath00230,retained_unique,Nucleotide metabolism
+canonical::1::c890c423f737,KEGG::path:ath00240,retained_unique,Nucleotide metabolism
+canonical::1::794bfc57c8a3,KEGG::path:ath00250,retained_unique,Amino acid metabolism
+canonical::1::8592f6b8a525,KEGG::path:ath00260,retained_unique,Amino acid metabolism
+canonical::1::fd3d6cdc31c2,KEGG::path:ath00261,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::f71e5cc332ce,KEGG::path:ath00270,retained_unique,Amino acid metabolism
+canonical::1::dc02ff594d76,KEGG::path:ath00280,retained_unique,Amino acid metabolism
+canonical::1::1bb63448fdba,KEGG::path:ath00290,retained_unique,Amino acid metabolism
+canonical::1::12c7f1462655,KEGG::path:ath00300,retained_unique,Amino acid metabolism
+canonical::1::fa2845283e73,KEGG::path:ath00310,retained_unique,Amino acid metabolism
+canonical::1::5699ef55b0ae,KEGG::path:ath00330,retained_unique,Amino acid metabolism
+canonical::1::a71c28c2626d,KEGG::path:ath00340,retained_unique,Amino acid metabolism
+canonical::1::2029cc11e0b0,KEGG::path:ath00350,retained_unique,Amino acid metabolism
+canonical::1::b1ac3f856536,KEGG::path:ath00360,retained_unique,Amino acid metabolism
+canonical::1::b0d178a22573,KEGG::path:ath00380,retained_unique,Amino acid metabolism
+canonical::1::f9036e6626bc,KEGG::path:ath00400,retained_unique,Amino acid metabolism
+canonical::1::8fb7341e7fb7,KEGG::path:ath00410,retained_unique,Metabolism of other amino acids
+canonical::1::8409f7d7a1b8,KEGG::path:ath00430,retained_unique,Metabolism of other amino acids
+canonical::1::07516db1b337,KEGG::path:ath00440,retained_unique,Metabolism of other amino acids
+canonical::1::ac8b770bf966,KEGG::path:ath00450,retained_unique,Metabolism of other amino acids
+canonical::1::d6dbb9891079,KEGG::path:ath00460,retained_unique,Metabolism of other amino acids
+canonical::1::9c67cce0f25d,KEGG::path:ath00470,retained_unique,Metabolism of other amino acids
+canonical::1::710b3c2e6575,KEGG::path:ath00480,retained_unique,Metabolism of other amino acids
+canonical::1::807785df7b1d,KEGG::path:ath00500,retained_unique,Carbohydrate metabolism
+canonical::1::ec2680a20b59,KEGG::path:ath00510,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::7e2eb40f2749,KEGG::path:ath00511,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::d9587c9aa9e7,KEGG::path:ath00513,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::21556847b721,KEGG::path:ath00514,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::7a67968c88a0,KEGG::path:ath00520,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::e6a87efacd55,KEGG::path:ath00531,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::c2966dcc4fb5,KEGG::path:ath00540,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::8ade58d41b92,KEGG::path:ath00541,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::736fcfbc01f8,KEGG::path:ath00561,retained_unique,Lipid metabolism
+canonical::1::077b9912affd,KEGG::path:ath00562,retained_unique,Carbohydrate metabolism
+canonical::1::38aaaa18ec5f,KEGG::path:ath00563,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::626b0a6889fc,KEGG::path:ath00564,retained_unique,Lipid metabolism
+canonical::1::69f42ace7047,KEGG::path:ath00565,retained_unique,Lipid metabolism
+canonical::1::6eeb00a90a90,KEGG::path:ath00566,retained_unique,Carbohydrate metabolism
+canonical::1::0e724dc590ff,KEGG::path:ath00590,retained_unique,Lipid metabolism
+canonical::1::fba209fbf60e,KEGG::path:ath00591,retained_unique,Lipid metabolism
+canonical::1::5f4caf6c7fd9,KEGG::path:ath00592,retained_unique,Lipid metabolism
+canonical::1::5da3498025b7,KEGG::path:ath00600,retained_unique,Lipid metabolism
+canonical::1::8d16196a4896,KEGG::path:ath00601,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::0ae1b5cdcd1f,KEGG::path:ath00603,retained_unique,Glycan biosynthesis and metabolism
+canonical::1::a2888202f07c,KEGG::path:ath00620,retained_unique,Carbohydrate metabolism
+canonical::1::eac61e9b144a,KEGG::path:ath00630,retained_unique,Carbohydrate metabolism
+canonical::1::76e1708e8a91,KEGG::path:ath00640,retained_unique,Carbohydrate metabolism
+canonical::1::fbc686821960,KEGG::path:ath00650,retained_unique,Carbohydrate metabolism
+canonical::1::99459d2f9b40,KEGG::path:ath00660,retained_unique,Carbohydrate metabolism
+canonical::1::afce9501c9e3,KEGG::path:ath00670,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::e9b0bf6c532b,KEGG::path:ath00710,retained_unique,Energy metabolism
+canonical::1::0c0135c06467,KEGG::path:ath00730,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::c8eb78711f8b,KEGG::path:ath00740,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::bbe0f7ecedcf,KEGG::path:ath00750,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::22095ed15183,KEGG::path:ath00760,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::d40469d3a8e7,KEGG::path:ath00770,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::ec68a9bb20ea,KEGG::path:ath00780,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::da9049ebd1ca,KEGG::path:ath00785,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::d1fb988be2b4,KEGG::path:ath00790,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::28f2818244a5,KEGG::path:ath00860,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::8d7b3d54b67a,KEGG::path:ath00900,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::9e400ff10d16,KEGG::path:ath00901,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::8498482e8e86,KEGG::path:ath00902,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::e1c476a3692a,KEGG::path:ath00904,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::c56b51e6bf77,KEGG::path:ath00905,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::7f4346b1e108,KEGG::path:ath00906,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::b25a56d08e2b,KEGG::path:ath00908,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::82cd352224f5,KEGG::path:ath00909,retained_unique,Metabolism of terpenoids and polyketides
+canonical::1::e6c44e66c6e4,KEGG::path:ath00910,retained_unique,Energy metabolism
+canonical::1::8074a1b74f03,KEGG::path:ath00920,retained_unique,Energy metabolism
+canonical::1::5a6e5e3fcc50,KEGG::path:ath00940,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::c6d465a0e5d7,KEGG::path:ath00941,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::535c237bb873,KEGG::path:ath00945,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::0a6c42d26316,KEGG::path:ath00950,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::314d6409bc8a,KEGG::path:ath00960,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::6352c8f2ba96,KEGG::path:ath00966,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::014b53da1a9d,KEGG::path:ath00999,retained_unique,Biosynthesis of other secondary metabolites
+canonical::1::db3faa977cf8,KEGG::path:ath01040,retained_unique,Lipid metabolism
+canonical::1::f3546f8246cf,KEGG::path:ath01200,retained_unique,Carbohydrate metabolism
+canonical::1::90ca17edf2aa,KEGG::path:ath01210,retained_unique,Metabolism of other amino acids
+canonical::1::8e625b2d6e90,KEGG::path:ath01212,retained_unique,Lipid metabolism
+canonical::1::e01fa480e502,KEGG::path:ath01230,retained_unique,Amino acid metabolism
+canonical::1::764afc909652,KEGG::path:ath01240,retained_unique,Metabolism of cofactors and vitamins
+canonical::1::191d8af04f52,KEGG::path:ath01250,retained_unique,Carbohydrate metabolism
+canonical::1::febf1148940a,KEGG::path:ath01320,retained_unique,Energy metabolism
+canonical::0::764520291da2,AraCyc::ETHYL-PWY,retained_unique,Environmental Information Processing
+canonical::0::b488f9d4ddca,AraCyc::PWY-1741,retained_unique,Environmental Information Processing
+canonical::0::520f4b8d1361,AraCyc::PWY-1782,retained_unique,Environmental Information Processing
+canonical::0::47f4a5ca65f6,AraCyc::PWY-2021,collapsed_exact_duplicate,Environmental Information Processing
+canonical::0::47f4a5ca65f6,AraCyc::PWY-5788,collapsed_exact_duplicate,Environmental Information Processing
+canonical::0::47f4a5ca65f6,AraCyc::PWY-6219,collapsed_exact_duplicate,Environmental Information Processing
+canonical::0::931f5fb2c28b,AraCyc::PWY-2902,retained_unique,Environmental Information Processing
+canonical::0::71ece8131d91,AraCyc::PWY-5272,retained_unique,Environmental Information Processing
+canonical::0::f4dc99db3b1e,AraCyc::PWY-5410,retained_unique,Environmental Information Processing
+canonical::0::755b4db0385b,AraCyc::PWY-581,retained_unique,Environmental Information Processing
+canonical::0::9d8fb933cf78,AraCyc::PWY-6303,retained_unique,Environmental Information Processing
+canonical::0::957427949773,AraCyc::PWY-6352,retained_unique,Environmental Information Processing
+canonical::0::5ba63d17c167,AraCyc::PWY-695,retained_unique,Environmental Information Processing
+canonical::0::9545c2e30c8b,AraCyc::PWY-735,retained_unique,Environmental Information Processing
+canonical::0::0387b891af61,AraCyc::PWY-7859,retained_unique,Environmental Information Processing
+canonical::0::12a2f9292f81,AraCyc::PWY0A-6303,retained_unique,Environmental Information Processing
+canonical::0::1a276d727d71,AraCyc::PWYDQC-4,retained_unique,Environmental Information Processing
+canonical::0::630abc8f5a15,KEGG::path:ath00970,retained_unique,Genetic Information Processing
+canonical::0::dbaa19d02904,KEGG::path:ath01232,retained_unique,Not Included in Pathway or Brite
+canonical::0::04642cd84248,KEGG::path:ath02010,retained_unique,Environmental Information Processing
+canonical::0::944df06969d1,KEGG::path:ath03008,retained_unique,Genetic Information Processing
+canonical::0::75fa10244c34,KEGG::path:ath03010,retained_unique,Genetic Information Processing
+canonical::0::bd9561563b34,KEGG::path:ath03013,retained_unique,Genetic Information Processing
+canonical::0::ddb90c3ab529,KEGG::path:ath03015,retained_unique,Genetic Information Processing
+canonical::0::e9cd78c18f80,KEGG::path:ath03018,retained_unique,Genetic Information Processing
+canonical::0::dc0845e28e6b,KEGG::path:ath03020,retained_unique,Genetic Information Processing
+canonical::0::32b5a4dfbb7a,KEGG::path:ath03022,retained_unique,Genetic Information Processing
+canonical::0::00c512af7819,KEGG::path:ath03030,retained_unique,Genetic Information Processing
+canonical::0::2e8297224a88,KEGG::path:ath03040,retained_unique,Genetic Information Processing
+canonical::0::804ad52f69ed,KEGG::path:ath03050,retained_unique,Genetic Information Processing
+canonical::0::96e1b56e3e75,KEGG::path:ath03060,retained_unique,Genetic Information Processing
+canonical::0::363033d45661,KEGG::path:ath03082,retained_unique,Genetic Information Processing
+canonical::0::d0c4a64871c1,KEGG::path:ath03083,retained_unique,Genetic Information Processing
+canonical::0::dcb726db279f,KEGG::path:ath03250,retained_unique,Genetic Information Processing
+canonical::0::2f8b7a2625c9,KEGG::path:ath03272,retained_unique,Genetic Information Processing
+canonical::0::89c7c24c3ed3,KEGG::path:ath03410,retained_unique,Genetic Information Processing
+canonical::0::a4fa5f789310,KEGG::path:ath03420,retained_unique,Genetic Information Processing
+canonical::0::cdb8eed95226,KEGG::path:ath03430,retained_unique,Genetic Information Processing
+canonical::0::e23f9e0b3d6a,KEGG::path:ath03440,retained_unique,Genetic Information Processing
+canonical::0::dd9c66bc9fcb,KEGG::path:ath03450,retained_unique,Genetic Information Processing
+canonical::0::85cc097ca760,KEGG::path:ath03460,retained_unique,Genetic Information Processing
+canonical::0::a5c92823e4b1,KEGG::path:ath04016,retained_unique,Environmental Information Processing
+canonical::0::9d23292d9e6b,KEGG::path:ath04070,retained_unique,Environmental Information Processing
+canonical::0::a6d6c314adc2,KEGG::path:ath04075,retained_unique,Environmental Information Processing
+canonical::0::abc238bac979,KEGG::path:ath04081,retained_unique,Environmental Information Processing
+canonical::0::76bebe926324,KEGG::path:ath04082,retained_unique,Environmental Information Processing
+canonical::0::caa0b1f1ad69,KEGG::path:ath04120,retained_unique,Genetic Information Processing
+canonical::0::a8aa14a93cff,KEGG::path:ath04122,retained_unique,Genetic Information Processing
+canonical::0::5e86cb07849f,KEGG::path:ath04130,retained_unique,Genetic Information Processing
+canonical::0::cb740faf0d6d,KEGG::path:ath04136,retained_unique,Cellular Processes
+canonical::0::9e2b8f8847d9,KEGG::path:ath04141,retained_unique,Genetic Information Processing
+canonical::0::cc562c462ffb,KEGG::path:ath04142,retained_unique,Cellular Processes
+canonical::0::2c8182aced66,KEGG::path:ath04144,retained_unique,Cellular Processes
+canonical::0::390f7d58a846,KEGG::path:ath04145,retained_unique,Cellular Processes
+canonical::0::4ad8cb607391,KEGG::path:ath04146,retained_unique,Cellular Processes
+canonical::0::2d025a7c0e57,KEGG::path:ath04148,retained_unique,Cellular Processes
+canonical::0::87be692a88ee,KEGG::path:ath04382,retained_unique,Organismal Systems
+canonical::0::13c956c348aa,KEGG::path:ath04517,retained_unique,Environmental Information Processing
+canonical::0::15cad6dce0a5,KEGG::path:ath04518,retained_unique,Environmental Information Processing
+canonical::0::f61d3345f2b4,KEGG::path:ath04519,retained_unique,Environmental Information Processing
+canonical::0::8cc385ebf391,KEGG::path:ath04620,retained_unique,Organismal Systems
+canonical::0::00f1a19d053a,KEGG::path:ath04626,retained_unique,Organismal Systems
+canonical::0::2ddc49c27ecf,KEGG::path:ath04712,retained_unique,Organismal Systems
+canonical::0::4fc4a29c0b14,KEGG::path:ath04814,retained_unique,Cellular Processes
+canonical::0::e044a6a20b43,KEGG::path:ath04820,retained_unique,Cellular Processes
+canonical::0::76a79180350d,KEGG::path:ath04981,retained_unique,Organismal Systems
+canonical::0::333bbaed092a,KEGG::path:ath05100,retained_unique,Human Diseases

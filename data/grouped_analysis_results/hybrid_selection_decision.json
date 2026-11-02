@@ -1,0 +1,44 @@
+{
+  "stage1": {
+    "method": "Jaccard 1-NN",
+    "cv_auroc": 0.8200571895424837,
+    "cv_auprc": 0.8150889619705852,
+    "lightgbm_cv_auroc": 0.884208557998536,
+    "lightgbm_cv_auprc": 0.8696052279402136,
+    "replace_stage1": false
+  },
+  "independent_hybrid": {
+    "stage1_auroc": 0.8945328719723183,
+    "stage1_auprc": 0.8676497782757262,
+    "stage1_balanced_accuracy": 0.8058823529411765,
+    "stage2_test_n": 84,
+    "stage2_accuracy": 0.7976190476190477,
+    "stage2_balanced_accuracy": 0.7996825396825397,
+    "stage2_macro_f1": 0.7710172490048651,
+    "stage2_weighted_f1": 0.7961946181981564,
+    "end_to_end_accuracy": 0.7176470588235294,
+    "end_to_end_macro_f1": 0.6413514545867488,
+    "end_to_end_weighted_f1": 0.7223848295115264,
+    "method": "LightGBM + Jaccard 1-NN",
+    "stage1_gate": 0.3705337264578923,
+    "stage1_score_kind": "lightgbm_proba",
+    "stage2_kind": "jaccard_1nn_full_development"
+  },
+  "decision": {
+    "keep_stage1_lightgbm": true,
+    "adopt_jaccard_family_on_development": true,
+    "independent_s2_macro_f1": 0.7710172490048651,
+    "independent_e2e_macro_f1": 0.6413514545867488,
+    "independent_s2_improves": true,
+    "independent_e2e_improves": true,
+    "independent_s1_unchanged": true,
+    "replace_deployed": true,
+    "rule": "Replace FAMILY with Jaccard 1-NN only if development grouped-CV mean macro-F1 is clearly better than Extra Trees (+0.02 or both macro-F1 and balanced accuracy, with BA not materially worse) and the independent hybrid then improves both Stage-2 and end-to-end macro-F1 while Stage-1 AUROC stays at the frozen LightGBM value.",
+    "development_jaccard_macro_f1": 0.6487060941593517,
+    "development_jaccard_balanced_accuracy": 0.6589462481962481,
+    "development_extra_trees_macro_f1": 0.4797068660373486,
+    "development_extra_trees_balanced_accuracy": 0.5156194083694083,
+    "development_jaccard_s1_auroc": 0.8200571895424837,
+    "development_lightgbm_s1_auroc": 0.884208557998536
+  }
+}

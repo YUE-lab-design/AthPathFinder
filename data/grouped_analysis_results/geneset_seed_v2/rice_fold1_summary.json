@@ -1,0 +1,32 @@
+{
+  "implementation": "gene_set_seed_v2",
+  "point": {
+    "endpoint_version": "closed_catalog_v2",
+    "output_families": [
+      "Amino acid metabolism",
+      "Biosynthesis of other secondary metabolites",
+      "Carbohydrate metabolism",
+      "Energy metabolism",
+      "Glycan biosynthesis and metabolism",
+      "Lipid metabolism",
+      "Metabolism of cofactors and vitamins",
+      "Metabolism of other amino acids",
+      "Metabolism of terpenoids and polyketides",
+      "Nucleotide metabolism"
+    ],
+    "stage1_test_n": 101,
+    "stage2_test_n": 20,
+    "stage1_auroc": 0.8876543209876543,
+    "stage1_auprc": 0.5891968564201536,
+    "stage1_balanced_accuracy": 0.7959876543209876,
+    "stage2_accuracy": 0.45,
+    "stage2_balanced_accuracy": 0.2962962962962963,
+    "stage2_macro_f1": 0.2533333333333333,
+    "stage2_weighted_f1": 0.42666666666666664,
+    "end_to_end_n": 101,
+    "end_to_end_excluded_n": 0,
+    "end_to_end_accuracy": 0.594059405940594,
+    "end_to_end_macro_f1": 0.2274921271676625,
+    "end_to_end_weighted_f1": 0.6785421028428976
+  }
+}

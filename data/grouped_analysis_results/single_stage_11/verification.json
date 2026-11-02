@@ -1,0 +1,10 @@
+{
+  "all_passed": true,
+  "reloaded_fits": 2,
+  "heldout_predictions_reproduced": 169,
+  "all_11_probabilities_reproduced": true,
+  "archived_outer_and_development_fold_memberships_verified": true,
+  "training_test_groups_disjoint": true,
+  "development_only_threshold_reproduced": true,
+  "new_model_fits_in_verification": 0
+}

@@ -1,0 +1,5 @@
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+{'all_passed': True, 'reloaded_fits': 2, 'heldout_predictions_reproduced': 169, 'all_11_probabilities_reproduced': True, 'archived_outer_and_development_fold_memberships_verified': True, 'training_test_groups_disjoint': True, 'development_only_threshold_reproduced': True, 'new_model_fits_in_verification': 0}

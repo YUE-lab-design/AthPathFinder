@@ -1,0 +1,12 @@
+{
+  "source_label_records": 536,
+  "retained_after_raw_membership_and_five_gene_filter": 536,
+  "canonical_metabolic_pathways": 445,
+  "canonical_curated_nonmetabolic_controls": 65,
+  "stage2_family_eligible_pathways": 444,
+  "exact_duplicate_records_collapsed": 26,
+  "ambiguous_exact_set_family_groups": 1,
+  "similarity_threshold": 0.8,
+  "similarity_groups": 477,
+  "near_duplicate_pairs": 34
+}

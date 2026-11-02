@@ -1,0 +1,130 @@
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+single_stage_11 development fold 1 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+matched_binary development fold 1 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+single_stage_11 development fold 2 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+matched_binary development fold 2 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+single_stage_11 development fold 3 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+matched_binary development fold 3 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+single_stage_11 development fold 4 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+matched_binary development fold 4 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+single_stage_11 development fold 5 complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+matched_binary development fold 5 complete
+single_stage_11 full-development fit complete
+matched_binary full-development fit complete
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+/opt/anaconda3/lib/python3.11/site-packages/sklearn/utils/validation.py:2691: UserWarning: X does not have valid feature names, but LGBMClassifier was fitted with feature names
+  warnings.warn(
+{
+  "n_development_matched": 695,
+  "n_test": 169,
+  "matched_screening_threshold": 0.22039891092034705,
+  "models": {
+    "single_stage_11": {
+      "macro_f1": {
+        "point": 0.43600023449128317,
+        "low": 0.3313029987890003,
+        "high": 0.5213236828791451
+      },
+      "weighted_f1": {
+        "point": 0.6268977666333863,
+        "low": 0.5371020823215552,
+        "high": 0.709838635646616
+      },
+      "accuracy": {
+        "point": 0.6331360946745562,
+        "low": 0.5561324237560192,
+        "high": 0.7151377803770469
+      }
+    },
+    "matched_two_stage": {
+      "macro_f1": {
+        "point": 0.6628019296632054,
+        "low": 0.5426083625726684,
+        "high": 0.7383844804044368
+      },
+      "weighted_f1": {
+        "point": 0.7356828701863155,
+        "low": 0.6704350197542654,
+        "high": 0.8027861996819249
+      },
+      "accuracy": {
+        "point": 0.727810650887574,
+        "low": 0.6566265060240963,
+        "high": 0.7928994082840237
+      }
+    },
+    "original_two_stage": {
+      "macro_f1": {
+        "point": 0.6608455204220279,
+        "low": 0.541812281153836,
+        "high": 0.737150419484301
+      },
+      "weighted_f1": {
+        "point": 0.7418921408260105,
+        "low": 0.677367097856176,
+        "high": 0.8074714095657719
+      },
+      "accuracy": {
+        "point": 0.7337278106508875,
+        "low": 0.6686046511627907,
+        "high": 0.7988165680473372
+      }
+    }
+  },
+  "paired_differences": {
+    "matched_two_stage_minus_single_stage_11": {
+      "macro_f1": {
+        "point": 0.22680169517192222,
+        "low": 0.10684971513448405,
+        "high": 0.33604079690142347
+      },
+      "weighted_f1": {
+        "point": 0.10878510355292925,
+        "low": 0.024120079320810024,
+        "high": 0.20691914328106437
+      },
+      "accuracy": {
+        "point": 0.09467455621301779,
+        "low": 0.012048192771084376,
+        "high": 0.18023255813953487
+      }
+    },
+    "original_two_stage_minus_single_stage_11": {
+      "macro_f1": {
+        "point": 0.22484528593074476,
+        "low": 0.10642240730476081,
+        "high": 0.33343267505608815
+      },
+      "weighted_f1": {
+        "point": 0.11499437419262426,
+        "low": 0.0320394587992621,
+        "high": 0.2105365406349009
+      },
+      "accuracy": {
+        "point": 0.10059171597633132,
+        "low": 0.018072289156626505,
+        "high": 0.18343195266272183
+      }
+    }
+  }
+}

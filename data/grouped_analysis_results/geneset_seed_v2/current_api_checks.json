@@ -1,0 +1,5 @@
+{
+  "short_queries_rejected": true,
+  "unknown_gene_discard_reported": true,
+  "five_retained_required": true
+}

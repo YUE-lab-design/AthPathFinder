@@ -1,0 +1,22 @@
+test_all_controls_retained_and_absent_labels_fixed (test_closed_catalog_scoring.ClosedCatalogTests.test_all_controls_retained_and_absent_labels_fixed) ... ok
+test_ineligible_is_excluded_even_when_label_is_in_alphabet (test_closed_catalog_scoring.ClosedCatalogTests.test_ineligible_is_excluded_even_when_label_is_in_alphabet) ... /opt/anaconda3/lib/python3.11/site-packages/sklearn/metrics/_classification.py:620: UserWarning: A single label was found in 'y_true' and 'y_pred'. For the confusion matrix to have the correct shape, use the 'labels' parameter to pass all known labels.
+  warnings.warn(
+ok
+test_string_eligibility (test_closed_catalog_scoring.ClosedCatalogTests.test_string_eligibility) ... ok
+test_wrong_output_alphabet_fails (test_closed_catalog_scoring.ClosedCatalogTests.test_wrong_output_alphabet_fails) ... ok
+test_api_predictions_ignore_name_order_duplicates (test_gene_set_seed_v2.GeneSetSeedTests.test_api_predictions_ignore_name_order_duplicates) ... ok
+test_cli_invalid_input_is_nonzero_and_clear (test_gene_set_seed_v2.GeneSetSeedTests.test_cli_invalid_input_is_nonzero_and_clear) ... ok
+test_empty_catalog_is_error (test_gene_set_seed_v2.GeneSetSeedTests.test_empty_catalog_is_error) ... ok
+test_five_retained_is_valid (test_gene_set_seed_v2.GeneSetSeedTests.test_five_retained_is_valid) ... ok
+test_four_retained_is_error_even_with_duplicates_or_unknown (test_gene_set_seed_v2.GeneSetSeedTests.test_four_retained_is_error_even_with_duplicates_or_unknown) ... ok
+test_legacy_model_is_not_silently_loaded (test_gene_set_seed_v2.GeneSetSeedTests.test_legacy_model_is_not_silently_loaded) ... ok
+test_long_set_features_ignore_names_order_duplicates_and_case (test_gene_set_seed_v2.GeneSetSeedTests.test_long_set_features_ignore_names_order_duplicates_and_case) ... ok
+test_rice_retains_low_support_families_explicitly (test_gene_set_seed_v2.GeneSetSeedTests.test_rice_retains_low_support_families_explicitly) ... ok
+test_tie_keeps_stored_reference_order (test_gene_set_seed_v2.GeneSetSeedTests.test_tie_keeps_stored_reference_order) ... ok
+test_unknown_genes_discarded_and_reported (test_gene_set_seed_v2.GeneSetSeedTests.test_unknown_genes_discarded_and_reported) ... ok
+test_zero_overlap_keeps_first_label_and_sets_flag (test_gene_set_seed_v2.GeneSetSeedTests.test_zero_overlap_keeps_first_label_and_sets_flag) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.890s
+
+OK

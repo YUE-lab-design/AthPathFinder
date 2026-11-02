@@ -1,0 +1,38 @@
+{
+  "counts": {
+    "pathway_rejected": 5,
+    "control_accepted": 24,
+    "family_wrong_after_acceptance": 16,
+    "family_wrong_before_gate": 17
+  },
+  "controls": {
+    "annotation_sparse_control": {
+      "n": 12,
+      "accepted": 1
+    },
+    "cross_pathway_mixture": {
+      "n": 12,
+      "accepted": 7
+    },
+    "curated_nonmetabolic_control": {
+      "n": 13,
+      "accepted": 3
+    },
+    "go_coherent_control": {
+      "n": 12,
+      "accepted": 3
+    },
+    "partial_pathway": {
+      "n": 13,
+      "accepted": 9
+    },
+    "random_gene_set": {
+      "n": 11,
+      "accepted": 0
+    },
+    "shuffled_pathway": {
+      "n": 12,
+      "accepted": 1
+    }
+  }
+}

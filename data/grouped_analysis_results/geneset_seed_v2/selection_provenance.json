@@ -1,0 +1,12 @@
+{
+  "original_decision_sha256": "59ccc18346ecb157672abbbceda83e88dfc1795b692b5573818684df856310ca",
+  "archived_rule": "Replace FAMILY with Jaccard 1-NN only if development grouped-CV mean macro-F1 is clearly better than Extra Trees (+0.02 or both macro-F1 and balanced accuracy, with BA not materially worse) and the independent hybrid then improves both Stage-2 and end-to-end macro-F1 while Stage-1 AUROC stays at the frozen LightGBM value.",
+  "replace_deployed": true,
+  "independent_s2_improves": true,
+  "independent_e2e_improves": true,
+  "checked_against": [
+    "code/evaluate_hybrid_selection.py",
+    "code/athpathfinder/evaluation.py"
+  ],
+  "conclusion": "Original final family-head adoption consulted held-out Stage-2 and end-to-end metrics. The repaired fixed architecture is evaluated exploratorily on the same holdout; this refit is not an independent confirmatory validation."
+}

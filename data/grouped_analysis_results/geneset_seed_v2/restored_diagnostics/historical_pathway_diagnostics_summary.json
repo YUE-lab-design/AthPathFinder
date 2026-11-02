@@ -1,0 +1,9 @@
+{
+  "n_pathways": 20,
+  "joint_correct": 10,
+  "lower_overlap_n": 16,
+  "lower_overlap_joint_correct": 9,
+  "historical_reference_pathways": 291,
+  "pathway_only": true,
+  "controls_excluded_from_this_diagnostic_only": true
+}

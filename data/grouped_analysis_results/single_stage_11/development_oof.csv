@@ -1,0 +1,696 @@
+sample_id,similarity_group,label,family,fold,single_stage_pred,matched_stage1_score
+canonical::1::717b0e67efc2,similarity_group_0002,1,Amino acid metabolism,3,Metabolism of other amino acids,0.7601478539279029
+canonical::1::f2c5fe087d7a,similarity_group_0003,1,Metabolism of other amino acids,2,Metabolism of other amino acids,0.9499364034794093
+canonical::1::2f7518e0c8af,similarity_group_0004,1,Amino acid metabolism,4,Amino acid metabolism,0.8098580509064034
+canonical::1::497b11151722,similarity_group_0004,1,Amino acid metabolism,4,Amino acid metabolism,0.773446523743905
+canonical::1::d5ab4a0414e6,similarity_group_0006,1,Amino acid metabolism,5,Metabolism of other amino acids,0.8915855732374959
+canonical::1::0a0fa843fcf3,similarity_group_0008,1,Amino acid metabolism,2,Metabolism of other amino acids,0.9687183608272341
+canonical::1::485b664ffe25,similarity_group_0009,1,Amino acid metabolism,1,Metabolism of other amino acids,0.9014307620059046
+canonical::1::22dbb8b01711,similarity_group_0010,1,Amino acid metabolism,2,Amino acid metabolism,0.9251879561011436
+canonical::1::13fb5392034c,similarity_group_0011,1,Metabolism of other amino acids,3,Non-metabolic,0.22039891092034705
+canonical::1::ea2dbcfb6301,similarity_group_0012,1,Carbohydrate metabolism,3,Carbohydrate metabolism,0.9415707657769894
+canonical::1::cf18722d12c0,similarity_group_0013,1,Biosynthesis of other secondary metabolites,2,Non-metabolic,0.6546186713441688
+canonical::1::6853fced7b79,similarity_group_0014,1,Metabolism of cofactors and vitamins,5,Non-metabolic,0.37222302168167976
+canonical::1::0e67b694a246,similarity_group_0015,1,Amino acid metabolism,4,Metabolism of cofactors and vitamins,0.903944913652289
+canonical::1::2e140abca010,similarity_group_0016,1,Metabolism of cofactors and vitamins,1,Metabolism of terpenoids and polyketides,0.9399176718885796
+canonical::1::ca664d25ba6a,similarity_group_0018,1,Energy metabolism,3,Carbohydrate metabolism,0.9400209779952928
+canonical::1::64635ff889d4,similarity_group_0019,1,Amino acid metabolism,5,Amino acid metabolism,0.9667290000217366
+canonical::1::fcdefa5263f5,similarity_group_0022,1,Carbohydrate metabolism,3,Carbohydrate metabolism,0.941266959783732
+canonical::1::c03341791a5f,similarity_group_0023,1,Lipid metabolism,4,Lipid metabolism,0.225122428215587
+canonical::1::570a83686679,similarity_group_0024,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.8335476323575508
+canonical::1::e9f33955a256,similarity_group_0025,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.9319219468896951
+canonical::1::32a346c31180,similarity_group_0015,1,Amino acid metabolism,4,Non-metabolic,0.8704548103978332
+canonical::1::bee22a98f36b,similarity_group_0026,1,Amino acid metabolism,1,Non-metabolic,0.4116089403399309
+canonical::1::6a1694c67102,similarity_group_0027,1,Amino acid metabolism,5,Carbohydrate metabolism,0.9693001580164795
+canonical::1::a0c6a35dcce7,similarity_group_0028,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.9628006447113306
+canonical::1::e90f7cef5501,similarity_group_0029,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.9862671447259338
+canonical::1::d2a7b9bea661,similarity_group_0030,1,Amino acid metabolism,3,Carbohydrate metabolism,0.9666700850018299
+canonical::1::a3da2f68e97a,similarity_group_0033,1,Metabolism of cofactors and vitamins,5,Metabolism of cofactors and vitamins,0.8685199439077405
+canonical::1::0ba87c8793bb,similarity_group_0034,1,Amino acid metabolism,1,Amino acid metabolism,0.9839892275399778
+canonical::1::7ed8fe63b6b2,similarity_group_0036,1,Amino acid metabolism,4,Amino acid metabolism,0.9350246210554688
+canonical::1::1a61c127a4fa,similarity_group_0037,1,Amino acid metabolism,1,Non-metabolic,0.8868196386182605
+canonical::1::5badb550b937,similarity_group_0036,1,Amino acid metabolism,4,Amino acid metabolism,0.9863071440329213
+canonical::1::2e9cb908dc96,similarity_group_0038,1,Amino acid metabolism,2,Non-metabolic,0.6381217607131177
+canonical::1::b93ee7881475,similarity_group_0010,1,Amino acid metabolism,2,Amino acid metabolism,0.8362696607904279
+canonical::1::1e3a8c383bf3,similarity_group_0040,1,Lipid metabolism,3,Non-metabolic,0.8132699500878608
+canonical::1::1a95124168a7,similarity_group_0041,1,Amino acid metabolism,5,Non-metabolic,0.44716335543481694
+canonical::1::9fe3a60d3ff0,similarity_group_0042,1,Glycan biosynthesis and metabolism,2,Glycan biosynthesis and metabolism,0.7860119222576989
+canonical::1::b261ef175647,similarity_group_0044,1,Glycan biosynthesis and metabolism,1,Metabolism of terpenoids and polyketides,0.93334935199937
+canonical::1::6efb8de9f475,similarity_group_0045,1,Metabolism of terpenoids and polyketides,3,Amino acid metabolism,0.9825088188977297
+canonical::1::20705c39c6fb,similarity_group_0046,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.9867818899743837
+canonical::1::f2e1ee41dd3b,similarity_group_0048,1,Metabolism of cofactors and vitamins,5,Non-metabolic,0.38337110579568295
+canonical::1::d9834bfdcba2,similarity_group_0049,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.9915184551759673
+canonical::1::274511cb8f0b,similarity_group_0050,1,Energy metabolism,1,Carbohydrate metabolism,0.9702410411921699
+canonical::1::7ed38b7f9a62,similarity_group_0051,1,Metabolism of other amino acids,4,Metabolism of other amino acids,0.8600836179961825
+canonical::1::277e8dec8eb9,similarity_group_0053,1,Energy metabolism,3,Energy metabolism,0.9841441011686699
+canonical::1::7e6c7fe2e52f,similarity_group_0054,1,Metabolism of terpenoids and polyketides,5,Metabolism of terpenoids and polyketides,0.9549272565683766
+canonical::1::738cc9aed41b,similarity_group_0055,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.9591350440947837
+canonical::1::4062b2b82ced,similarity_group_0056,1,Glycan biosynthesis and metabolism,1,Glycan biosynthesis and metabolism,0.6881341415151082
+canonical::1::d8ddde89246e,similarity_group_0057,1,Metabolism of terpenoids and polyketides,2,Metabolism of terpenoids and polyketides,0.9301944647518946
+canonical::1::7072706b5e06,similarity_group_0059,1,Biosynthesis of other secondary metabolites,5,Biosynthesis of other secondary metabolites,0.7402123211906582
+canonical::1::089d7c7c83f5,similarity_group_0060,1,Metabolism of cofactors and vitamins,4,Biosynthesis of other secondary metabolites,0.9720760303739097
+canonical::1::7ec24f004953,similarity_group_0061,1,Energy metabolism,3,Metabolism of cofactors and vitamins,0.9064830999154448
+canonical::1::e46c64ae67e4,similarity_group_0062,1,Metabolism of cofactors and vitamins,1,Amino acid metabolism,0.994821481519521
+canonical::1::fc145126d3ac,similarity_group_0063,1,Biosynthesis of other secondary metabolites,2,Biosynthesis of other secondary metabolites,0.3703762594039187
+canonical::1::6972b6d866f3,similarity_group_0064,1,Metabolism of other amino acids,3,Non-metabolic,0.9756539770913254
+canonical::1::88e1daf5cca0,similarity_group_0066,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.1330486204161075
+canonical::1::5327bb79f409,similarity_group_0067,1,Metabolism of terpenoids and polyketides,1,Non-metabolic,0.633106698348642
+canonical::1::46a1cc55dabe,similarity_group_0068,1,Metabolism of terpenoids and polyketides,2,Metabolism of terpenoids and polyketides,0.7947156499680095
+canonical::1::73a36c4e50f7,similarity_group_0069,1,Metabolism of terpenoids and polyketides,3,Energy metabolism,0.9155130143246215
+canonical::1::217e247ce0dc,similarity_group_0071,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.8701290700394607
+canonical::1::93292515888b,similarity_group_0073,1,Metabolism of terpenoids and polyketides,1,Metabolism of terpenoids and polyketides,0.8941783450377389
+canonical::1::3b01c2ca1407,similarity_group_0074,1,Biosynthesis of other secondary metabolites,5,Biosynthesis of other secondary metabolites,0.8443129675871253
+canonical::1::1af67f16371b,similarity_group_0075,1,Lipid metabolism,2,Lipid metabolism,0.9787849880142441
+canonical::1::592a2200d8e7,similarity_group_0076,1,Amino acid metabolism,4,Amino acid metabolism,0.9828909494002022
+canonical::1::f96dbebec23d,similarity_group_0077,1,Amino acid metabolism,3,Amino acid metabolism,0.993429155892156
+canonical::1::d98b1a9aa7ed,similarity_group_0077,1,Amino acid metabolism,3,Amino acid metabolism,0.9931768653989945
+canonical::1::2b8d338d26d4,similarity_group_0078,1,Lipid metabolism,5,Non-metabolic,0.32137492257835704
+canonical::1::82a4ea5e882c,similarity_group_0079,1,Metabolism of cofactors and vitamins,4,Amino acid metabolism,0.9653848609570829
+canonical::1::095bd2897113,similarity_group_0080,1,Energy metabolism,3,Nucleotide metabolism,0.9134056662872181
+canonical::1::f1aa99b3351c,similarity_group_0082,1,Metabolism of cofactors and vitamins,1,Carbohydrate metabolism,0.9876911043385195
+canonical::1::b9ea4e537cf2,similarity_group_0083,1,Metabolism of other amino acids,4,Metabolism of terpenoids and polyketides,0.45648957835732185
+canonical::1::ad254e410bef,similarity_group_0084,1,Lipid metabolism,3,Non-metabolic,0.7432353721458069
+canonical::1::125f89b10394,similarity_group_0085,1,Metabolism of other amino acids,2,Metabolism of other amino acids,0.8940546061712734
+canonical::1::2238b252362f,similarity_group_0086,1,Metabolism of other amino acids,5,Non-metabolic,0.8686993607631758
+canonical::1::1ded38d41676,similarity_group_0087,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.6691648743425005
+canonical::1::7c55638fe831,similarity_group_0089,1,Metabolism of cofactors and vitamins,4,Metabolism of cofactors and vitamins,0.777535335595118
+canonical::1::15a5345e9d0c,similarity_group_0090,1,Metabolism of cofactors and vitamins,2,Metabolism of cofactors and vitamins,0.9524799468344076
+canonical::1::91c8e9313e64,similarity_group_0092,1,Amino acid metabolism,1,Metabolism of other amino acids,0.9594500487180317
+canonical::1::7f0380ff7da8,similarity_group_0093,1,Metabolism of other amino acids,5,Nucleotide metabolism,0.9159000393147372
+canonical::1::2f259e97cca8,similarity_group_0095,1,Glycan biosynthesis and metabolism,5,Glycan biosynthesis and metabolism,0.6136462080243775
+canonical::1::1ad3bd115311,similarity_group_0096,1,Glycan biosynthesis and metabolism,2,Glycan biosynthesis and metabolism,0.9292436943399637
+canonical::1::e0481d00a3de,similarity_group_0097,1,Glycan biosynthesis and metabolism,3,Glycan biosynthesis and metabolism,0.694517931299795
+canonical::1::0764850044e8,similarity_group_0098,1,Glycan biosynthesis and metabolism,4,Non-metabolic,0.00777532408096612
+canonical::1::71cd6bf20141,similarity_group_0099,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.8946401351850926
+canonical::1::3a8bdce8016c,similarity_group_0101,1,Carbohydrate metabolism,2,Non-metabolic,0.1931696191681272
+canonical::1::73584d1bad33,similarity_group_0102,1,Amino acid metabolism,4,Metabolism of other amino acids,0.9804004684091376
+canonical::1::e18d9d5e3453,similarity_group_0015,1,Amino acid metabolism,4,Non-metabolic,0.19566040963038558
+canonical::1::0dcd41cace51,similarity_group_0103,1,Metabolism of cofactors and vitamins,5,Metabolism of cofactors and vitamins,0.9572577368019607
+canonical::1::ccddcec367fc,similarity_group_0104,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.9655775310267771
+canonical::1::6bff786181e2,similarity_group_0105,1,Metabolism of other amino acids,5,Amino acid metabolism,0.8388301631789321
+canonical::1::5f9d94de5f74,similarity_group_0107,1,Carbohydrate metabolism,1,Amino acid metabolism,0.8644908934705897
+canonical::1::8120f28fb94b,similarity_group_0108,1,Biosynthesis of other secondary metabolites,2,Amino acid metabolism,0.9577705208008006
+canonical::1::f9cb11d2cba6,similarity_group_0110,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.8385984894557154
+canonical::1::65dd0114abc5,similarity_group_0111,1,Amino acid metabolism,4,Amino acid metabolism,0.9914513036502831
+canonical::1::c33be650189b,similarity_group_0112,1,Lipid metabolism,1,Metabolism of terpenoids and polyketides,0.9408460637067537
+canonical::1::1bcfc54894bf,similarity_group_0113,1,Nucleotide metabolism,5,Energy metabolism,0.9103813593931616
+canonical::1::5355c2450722,similarity_group_0114,1,Carbohydrate metabolism,1,Energy metabolism,0.9749614609639218
+canonical::1::57f61cb947f8,similarity_group_0115,1,Amino acid metabolism,2,Biosynthesis of other secondary metabolites,0.9942369976147735
+canonical::1::aa2a7295fd97,similarity_group_0117,1,Metabolism of terpenoids and polyketides,2,Metabolism of terpenoids and polyketides,0.9834019414309314
+canonical::1::ecdb2c58a3a5,similarity_group_0118,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.9764075008542915
+canonical::1::39436e7eb66a,similarity_group_0119,1,Metabolism of terpenoids and polyketides,5,Metabolism of terpenoids and polyketides,0.9903773278108958
+canonical::1::7d9670c663af,similarity_group_0119,1,Metabolism of terpenoids and polyketides,5,Metabolism of terpenoids and polyketides,0.9853700286484618
+canonical::1::5fcf9922093f,similarity_group_0120,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.8883851666433236
+canonical::1::f341fbecd418,similarity_group_0122,1,Lipid metabolism,4,Lipid metabolism,0.8448319610337313
+canonical::1::9b5c9dcae21f,similarity_group_0123,1,Lipid metabolism,2,Amino acid metabolism,0.7794658993438747
+canonical::1::810fad66d4bf,similarity_group_0124,1,Lipid metabolism,4,Lipid metabolism,0.925746290901877
+canonical::1::7898b08d03b9,similarity_group_0125,1,Lipid metabolism,5,Lipid metabolism,0.8471696103615742
+canonical::1::3c6aaee7fc6e,similarity_group_0126,1,Lipid metabolism,3,Lipid metabolism,0.8746760063644744
+canonical::1::82c28c50e6ad,similarity_group_0127,1,Lipid metabolism,1,Lipid metabolism,0.962094835461434
+canonical::1::e53df1f5fa6e,similarity_group_0129,1,Carbohydrate metabolism,4,Metabolism of cofactors and vitamins,0.9503067995308133
+canonical::1::966f63b690b2,similarity_group_0130,1,Metabolism of cofactors and vitamins,2,Amino acid metabolism,0.9932525417088888
+canonical::1::16d25e14bb60,similarity_group_0131,1,Metabolism of terpenoids and polyketides,3,Glycan biosynthesis and metabolism,0.706339523304545
+canonical::1::362ebf4ca4de,similarity_group_0132,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.32020983670250625
+canonical::1::b30c1cd7782f,similarity_group_0133,1,Lipid metabolism,1,Lipid metabolism,0.8667108929661638
+canonical::1::018ce290ed61,similarity_group_0134,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.8517821222623757
+canonical::1::d3622278375c,similarity_group_0136,1,Carbohydrate metabolism,2,Glycan biosynthesis and metabolism,0.9893133087660534
+canonical::1::4fdeaf8459f0,similarity_group_0125,1,Lipid metabolism,5,Metabolism of terpenoids and polyketides,0.7857554473115792
+canonical::1::ffe0a886b2af,similarity_group_0139,1,Nucleotide metabolism,4,Nucleotide metabolism,0.9767727959845874
+canonical::1::ee1b91584ed5,similarity_group_0140,1,Carbohydrate metabolism,1,Metabolism of cofactors and vitamins,0.8953155009251209
+canonical::1::c868791c1b2e,similarity_group_0141,1,Biosynthesis of other secondary metabolites,3,Non-metabolic,0.8128231586954262
+canonical::1::e24ab1220281,similarity_group_0142,1,Carbohydrate metabolism,5,Non-metabolic,0.6788819927631916
+canonical::1::6e7166aac49d,similarity_group_0143,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.7551921060023363
+canonical::1::7c9c69cf471a,similarity_group_0028,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.9795040739245838
+canonical::1::4844528050c1,similarity_group_0144,1,Carbohydrate metabolism,5,Amino acid metabolism,0.9755233809003235
+canonical::1::5b43d4780b0c,similarity_group_0146,1,Carbohydrate metabolism,3,Non-metabolic,0.9686532035438379
+canonical::1::a68b699cd7b8,similarity_group_0147,1,Lipid metabolism,5,Lipid metabolism,0.8473530485161804
+canonical::1::48f8278ce908,similarity_group_0148,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.895459566534962
+canonical::1::8b8cde3829f8,similarity_group_0150,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.9700419189134121
+canonical::1::1df09d09ff03,similarity_group_0151,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.9183589698643542
+canonical::1::2c08f19cdb81,similarity_group_0152,1,Metabolism of terpenoids and polyketides,1,Amino acid metabolism,0.8682050488178586
+canonical::1::8c7b81cb1ae9,similarity_group_0153,1,Metabolism of cofactors and vitamins,2,Lipid metabolism,0.9716600958663966
+canonical::1::4f546e361130,similarity_group_0155,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.9692624550257086
+canonical::1::ddb3f6fdd37c,similarity_group_0157,1,Metabolism of cofactors and vitamins,5,Non-metabolic,0.533202603255571
+canonical::1::ce280a4094b4,similarity_group_0158,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.9565747306082939
+canonical::1::81b40a5a12f0,similarity_group_0159,1,Biosynthesis of other secondary metabolites,5,Metabolism of other amino acids,0.7114700620902159
+canonical::1::e6ad19b03a45,similarity_group_0160,1,Metabolism of cofactors and vitamins,1,Metabolism of cofactors and vitamins,0.9873337218693128
+canonical::1::506254c69f0d,similarity_group_0161,1,Energy metabolism,4,Metabolism of terpenoids and polyketides,0.9591356585031917
+canonical::1::2019f8b2e3ea,similarity_group_0163,1,Metabolism of other amino acids,1,Non-metabolic,0.5016493976363422
+canonical::1::32a3d49157b3,similarity_group_0164,1,Metabolism of cofactors and vitamins,2,Non-metabolic,0.5003785337745474
+canonical::1::314521676fcd,similarity_group_0165,1,Lipid metabolism,3,Lipid metabolism,0.9517891727092128
+canonical::1::0d7c84627487,similarity_group_0166,1,Lipid metabolism,1,Lipid metabolism,0.4355504124880746
+canonical::1::4547bffd131d,similarity_group_0167,1,Glycan biosynthesis and metabolism,2,Glycan biosynthesis and metabolism,0.822893136217141
+canonical::1::3b36159b0d49,similarity_group_0169,1,Metabolism of terpenoids and polyketides,5,Non-metabolic,0.5426145077106581
+canonical::1::b8e0188cac06,similarity_group_0170,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.8758455966309617
+canonical::1::f301aa279fbb,similarity_group_0171,1,Lipid metabolism,5,Non-metabolic,0.019201757414956073
+canonical::1::52824ce3b309,similarity_group_0172,1,Lipid metabolism,3,Lipid metabolism,0.28429292221570246
+canonical::1::fb0678de0003,similarity_group_0158,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.9132248275425723
+canonical::1::3de3aced44ea,similarity_group_0175,1,Metabolism of terpenoids and polyketides,1,Metabolism of terpenoids and polyketides,0.5526555723227468
+canonical::1::e152fbab8e97,similarity_group_0176,1,Metabolism of other amino acids,4,Nucleotide metabolism,0.9707755601480147
+canonical::1::51571937d0fd,similarity_group_0177,1,Lipid metabolism,2,Non-metabolic,0.7722577504433539
+canonical::1::552606ae48ea,similarity_group_0179,1,Nucleotide metabolism,3,Amino acid metabolism,0.9878995974823782
+canonical::1::bacc9b77aee1,similarity_group_0180,1,Metabolism of cofactors and vitamins,3,Non-metabolic,0.16942132124571718
+canonical::1::9e4b668b7865,similarity_group_0181,1,Amino acid metabolism,5,Metabolism of terpenoids and polyketides,0.9943431334485818
+canonical::1::8a8617f3d515,similarity_group_0182,1,Biosynthesis of other secondary metabolites,2,Biosynthesis of other secondary metabolites,0.37176246181531647
+canonical::1::fe3d3e07b16e,similarity_group_0184,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.9726759139503044
+canonical::1::b07859dd80da,similarity_group_0185,1,Carbohydrate metabolism,1,Metabolism of terpenoids and polyketides,0.8279163207674602
+canonical::1::f2665c80dfeb,similarity_group_0186,1,Carbohydrate metabolism,3,Nucleotide metabolism,0.966704094702626
+canonical::1::4b9e333c2da9,similarity_group_0187,1,Energy metabolism,4,Glycan biosynthesis and metabolism,0.9703934866713919
+canonical::1::b824b260b8f2,similarity_group_0189,1,Glycan biosynthesis and metabolism,5,Non-metabolic,0.6763855425112952
+canonical::1::d9e3335a075e,similarity_group_0190,1,Glycan biosynthesis and metabolism,2,Biosynthesis of other secondary metabolites,0.4789882801908048
+canonical::1::881d3af84ab4,similarity_group_0191,1,Glycan biosynthesis and metabolism,1,Nucleotide metabolism,0.8689738826877429
+canonical::1::fa18bf780d04,similarity_group_0095,1,Glycan biosynthesis and metabolism,5,Non-metabolic,0.4820975191589662
+canonical::1::b22d6854ea82,similarity_group_0192,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.8244244312043554
+canonical::1::e25d2d22d807,similarity_group_0194,1,Biosynthesis of other secondary metabolites,3,Non-metabolic,0.04038307659362845
+canonical::1::03a6fb6d0db6,similarity_group_0195,1,Metabolism of terpenoids and polyketides,4,Lipid metabolism,0.7346262264658949
+canonical::1::aaa99a1bbc01,similarity_group_0196,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.23663306838853732
+canonical::1::93999fa1cd97,similarity_group_0197,1,Metabolism of terpenoids and polyketides,5,Non-metabolic,0.5548267160811026
+canonical::1::4db6bb92ec5c,similarity_group_0198,1,Energy metabolism,1,Carbohydrate metabolism,0.9956792106589161
+canonical::1::3168faac0746,similarity_group_0199,1,Nucleotide metabolism,3,Nucleotide metabolism,0.7321218337012513
+canonical::1::ef15bd982119,similarity_group_0200,1,Nucleotide metabolism,4,Non-metabolic,0.01878809767586951
+canonical::1::b7e8253a23d6,similarity_group_0201,1,Nucleotide metabolism,2,Biosynthesis of other secondary metabolites,0.9572087141720241
+canonical::1::e5e0314b6512,similarity_group_0202,1,Metabolism of cofactors and vitamins,4,Metabolism of cofactors and vitamins,0.9008864622143821
+canonical::1::9adcdec2bbde,similarity_group_0204,1,Metabolism of cofactors and vitamins,5,Metabolism of cofactors and vitamins,0.8851229895376747
+canonical::1::c59632b3dca9,similarity_group_0205,1,Lipid metabolism,1,Lipid metabolism,0.31204164275862234
+canonical::1::5c8878f889a6,similarity_group_0117,1,Metabolism of terpenoids and polyketides,2,Metabolism of terpenoids and polyketides,0.931516219994363
+canonical::1::4751427ce905,similarity_group_0207,1,Glycan biosynthesis and metabolism,2,Biosynthesis of other secondary metabolites,0.9254694558795208
+canonical::1::ab581856d1d1,similarity_group_0208,1,Carbohydrate metabolism,3,Amino acid metabolism,0.9014405390612309
+canonical::1::995cabe9da7e,similarity_group_0209,1,Lipid metabolism,3,Lipid metabolism,0.9690690592398428
+canonical::1::ddf88f077a98,similarity_group_0210,1,Metabolism of other amino acids,2,Non-metabolic,0.7412452920806551
+canonical::1::154e158a379d,similarity_group_0211,1,Metabolism of other amino acids,4,Metabolism of other amino acids,0.9218185622769375
+canonical::1::a5bc74427928,similarity_group_0212,1,Glycan biosynthesis and metabolism,5,Non-metabolic,0.2900983004401309
+canonical::1::7b3854f7be4c,similarity_group_0215,1,Biosynthesis of other secondary metabolites,3,Nucleotide metabolism,0.7635810790098561
+canonical::1::3c55e892f7d6,similarity_group_0217,1,Lipid metabolism,2,Lipid metabolism,0.6449503300885048
+canonical::1::a3d3828e2d32,similarity_group_0218,1,Metabolism of other amino acids,3,Biosynthesis of other secondary metabolites,0.8434500337124283
+canonical::1::c0c81b196e4f,similarity_group_0219,1,Metabolism of cofactors and vitamins,5,Metabolism of cofactors and vitamins,0.8040286324085416
+canonical::1::425abe93faea,similarity_group_0221,1,Metabolism of cofactors and vitamins,4,Non-metabolic,0.2429780617725803
+canonical::1::ebb7b12411f2,similarity_group_0223,1,Lipid metabolism,1,Non-metabolic,0.9338526641390449
+canonical::1::9eafb75e79ab,similarity_group_0224,1,Amino acid metabolism,1,Non-metabolic,0.3801887563423871
+canonical::1::b5e43fae9d82,similarity_group_0225,1,Lipid metabolism,5,Non-metabolic,0.7229981833471423
+canonical::1::6ce9810ccbe8,similarity_group_0229,1,Metabolism of terpenoids and polyketides,2,Metabolism of cofactors and vitamins,0.8627626630843014
+canonical::1::6e6069f02a0b,similarity_group_0230,1,Lipid metabolism,4,Non-metabolic,0.27723647183535566
+canonical::1::dbba31ab881a,similarity_group_0231,1,Biosynthesis of other secondary metabolites,1,Biosynthesis of other secondary metabolites,0.7364342395410053
+canonical::1::92314bf73eef,similarity_group_0232,1,Nucleotide metabolism,1,Nucleotide metabolism,0.9342313888644943
+canonical::1::51fb8645c950,similarity_group_0233,1,Nucleotide metabolism,5,Nucleotide metabolism,0.8272749601773169
+canonical::1::7c536b727d9a,similarity_group_0234,1,Nucleotide metabolism,2,Nucleotide metabolism,0.9031091663728049
+canonical::1::5ea30b5a1036,similarity_group_0235,1,Nucleotide metabolism,3,Nucleotide metabolism,0.9608193727953968
+canonical::1::aa1c89dff2fb,similarity_group_0236,1,Nucleotide metabolism,4,Nucleotide metabolism,0.9361909309368831
+canonical::1::3709be07632f,similarity_group_0238,1,Nucleotide metabolism,1,Biosynthesis of other secondary metabolites,0.9690931813320194
+canonical::1::87e3d0bef2a0,similarity_group_0238,1,Nucleotide metabolism,1,Biosynthesis of other secondary metabolites,0.9863559425362178
+canonical::1::fcd2d7356e2c,similarity_group_0239,1,Metabolism of cofactors and vitamins,3,Non-metabolic,0.8256847840867013
+canonical::1::e12337c6d3c6,similarity_group_0240,1,Nucleotide metabolism,5,Nucleotide metabolism,0.6879178451914264
+canonical::1::b2aa6fc1f26e,similarity_group_0242,1,Nucleotide metabolism,2,Nucleotide metabolism,0.6263270415261767
+canonical::1::d62237f71517,similarity_group_0243,1,Nucleotide metabolism,5,Metabolism of terpenoids and polyketides,0.8349840220565412
+canonical::1::01af0dbd831b,similarity_group_0244,1,Nucleotide metabolism,4,Carbohydrate metabolism,0.9555888138648321
+canonical::1::ac5efb5262fe,similarity_group_0245,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.7401227012347489
+canonical::1::f6a33b4ffc06,similarity_group_0246,1,Amino acid metabolism,2,Amino acid metabolism,0.9926115886149098
+canonical::1::0ab0f1552ea0,similarity_group_0248,1,Carbohydrate metabolism,3,Carbohydrate metabolism,0.9678837601787188
+canonical::1::0cb42a44239e,similarity_group_0249,1,Carbohydrate metabolism,5,Carbohydrate metabolism,0.7634210029212086
+canonical::1::dc035f4d0557,similarity_group_0250,1,Carbohydrate metabolism,4,Carbohydrate metabolism,0.7941501494300826
+canonical::1::4bfe74f45189,similarity_group_0251,1,Metabolism of cofactors and vitamins,2,Metabolism of cofactors and vitamins,0.9019027493359726
+canonical::1::84f876c489e7,similarity_group_0023,1,Lipid metabolism,4,Lipid metabolism,0.5617726854420874
+canonical::1::8c4b3ba82f32,similarity_group_0252,1,Biosynthesis of other secondary metabolites,3,Nucleotide metabolism,0.914066144871822
+canonical::1::9dec81506ea9,similarity_group_0253,1,Lipid metabolism,1,Non-metabolic,0.6611806769673088
+canonical::1::e61362df7307,similarity_group_0254,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.6423337595705939
+canonical::1::d00ac69398ca,similarity_group_0045,1,Metabolism of terpenoids and polyketides,3,Metabolism of cofactors and vitamins,0.9667314870863953
+canonical::1::aa8ab4bd1199,similarity_group_0016,1,Metabolism of cofactors and vitamins,1,Metabolism of terpenoids and polyketides,0.952363634215834
+canonical::1::03a064f1a9dd,similarity_group_0256,1,Carbohydrate metabolism,4,Nucleotide metabolism,0.9486605526816599
+canonical::1::26216af8a01b,similarity_group_0257,1,Energy metabolism,1,Metabolism of cofactors and vitamins,0.7528987642340457
+canonical::1::494cf23811a5,similarity_group_0259,1,Amino acid metabolism,2,Non-metabolic,0.14055079680961102
+canonical::1::e30b226130c7,similarity_group_0260,1,Amino acid metabolism,3,Metabolism of cofactors and vitamins,0.9177963947950849
+canonical::1::83c21b511752,similarity_group_0261,1,Biosynthesis of other secondary metabolites,4,Non-metabolic,0.15806142827276323
+canonical::1::25bd74438a02,similarity_group_0263,1,Nucleotide metabolism,5,Metabolism of other amino acids,0.8728650075291501
+canonical::1::0bc44d7a2c46,similarity_group_0158,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.799037784078369
+canonical::1::a1bf7c0c7b51,similarity_group_0264,1,Energy metabolism,1,Energy metabolism,0.8221924866728219
+canonical::1::054db292e8e8,similarity_group_0165,1,Lipid metabolism,3,Lipid metabolism,0.8526872297423101
+canonical::1::a02f3dcee08f,similarity_group_0265,1,Biosynthesis of other secondary metabolites,4,Biosynthesis of other secondary metabolites,0.9524389797094629
+canonical::1::976cadc53ca8,similarity_group_0266,1,Lipid metabolism,2,Biosynthesis of other secondary metabolites,0.6189371043578582
+canonical::1::c07e51421121,similarity_group_0266,1,Lipid metabolism,2,Non-metabolic,0.6931262954123831
+canonical::1::e0cffc6aa8eb,similarity_group_0268,1,Carbohydrate metabolism,3,Amino acid metabolism,0.8748022934697564
+canonical::1::38ca1b42475c,similarity_group_0269,1,Metabolism of other amino acids,4,Biosynthesis of other secondary metabolites,0.9823865604663639
+canonical::1::c8a1032efb62,similarity_group_0270,1,Carbohydrate metabolism,5,Non-metabolic,0.4855979033928907
+canonical::1::a17689d6cdcf,similarity_group_0271,1,Metabolism of terpenoids and polyketides,5,Non-metabolic,0.59888800005825
+canonical::1::201facaa2d4e,similarity_group_0273,1,Lipid metabolism,1,Lipid metabolism,0.857851128722935
+canonical::1::2a8a01091ae7,similarity_group_0274,1,Lipid metabolism,3,Lipid metabolism,0.8450884391228682
+canonical::1::cb848881c47f,similarity_group_0276,1,Amino acid metabolism,2,Energy metabolism,0.994514672815519
+canonical::1::5400e072dbe7,similarity_group_0277,1,Nucleotide metabolism,5,Nucleotide metabolism,0.8847171840564941
+canonical::1::fb105fc5608f,similarity_group_0278,1,Amino acid metabolism,4,Nucleotide metabolism,0.9317993573006174
+canonical::1::b3c9da569f47,similarity_group_0279,1,Lipid metabolism,1,Non-metabolic,0.6554785140202896
+canonical::1::4c20279254e2,similarity_group_0280,1,Nucleotide metabolism,3,Energy metabolism,0.9409925065273872
+canonical::1::69a0f80ed60a,similarity_group_0282,1,Biosynthesis of other secondary metabolites,4,Non-metabolic,0.5508178007805837
+canonical::1::0da7567d3099,similarity_group_0283,1,Biosynthesis of other secondary metabolites,2,Non-metabolic,0.319689349071912
+canonical::1::664c3751a9b8,similarity_group_0137,1,Energy metabolism,1,Amino acid metabolism,0.9745554394991379
+canonical::1::d6afc734372d,similarity_group_0284,1,Nucleotide metabolism,5,Non-metabolic,0.2912400844635732
+canonical::1::3e9ad20b537a,similarity_group_0285,1,Lipid metabolism,4,Nucleotide metabolism,0.9825864960377841
+canonical::1::728edcf73e6a,similarity_group_0287,1,Lipid metabolism,1,Glycan biosynthesis and metabolism,0.9547504243447033
+canonical::1::05fffb4cded6,similarity_group_0288,1,Lipid metabolism,2,Lipid metabolism,0.8798608057991096
+canonical::1::781d319575f4,similarity_group_0147,1,Lipid metabolism,5,Lipid metabolism,0.8042748867582091
+canonical::1::f53363c35675,similarity_group_0289,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.6390432798334923
+canonical::1::c2ace7fcf653,similarity_group_0290,1,Carbohydrate metabolism,5,Non-metabolic,0.10584342921687527
+canonical::1::17bc2c50a9c3,similarity_group_0291,1,Nucleotide metabolism,3,Metabolism of cofactors and vitamins,0.9946374608610381
+canonical::1::bbf986cc340b,similarity_group_0166,1,Lipid metabolism,1,Lipid metabolism,0.18906932172581442
+canonical::1::a94155d8d8fb,similarity_group_0293,1,Carbohydrate metabolism,2,Energy metabolism,0.8812424117538505
+canonical::1::006421875c34,similarity_group_0294,1,Nucleotide metabolism,4,Amino acid metabolism,0.9604518716799026
+canonical::1::a370d1038086,similarity_group_0119,1,Metabolism of terpenoids and polyketides,5,Metabolism of terpenoids and polyketides,0.968936867469489
+canonical::1::bb380ffb30f0,similarity_group_0295,1,Biosynthesis of other secondary metabolites,5,Metabolism of terpenoids and polyketides,0.9967216874263637
+canonical::1::50c97be7cdcb,similarity_group_0296,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.393191968346844
+canonical::1::8e8778421770,similarity_group_0059,1,Biosynthesis of other secondary metabolites,5,Biosynthesis of other secondary metabolites,0.7748809975236495
+canonical::1::b80139d017cb,similarity_group_0298,1,Biosynthesis of other secondary metabolites,3,Biosynthesis of other secondary metabolites,0.6831357945156522
+canonical::1::0cb20cb034e2,similarity_group_0150,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.9789940437569506
+canonical::1::6d8d9e12de5f,similarity_group_0299,1,Lipid metabolism,2,Metabolism of terpenoids and polyketides,0.9263096334013479
+canonical::1::365d96d1ea00,similarity_group_0160,1,Metabolism of cofactors and vitamins,1,Metabolism of cofactors and vitamins,0.9976724964927431
+canonical::1::98dac20c0605,similarity_group_0011,1,Metabolism of other amino acids,3,Metabolism of other amino acids,0.30927207584890576
+canonical::1::0f14d5ca8e5a,similarity_group_0300,1,Nucleotide metabolism,5,Lipid metabolism,0.41264984240977604
+canonical::1::0a55a4a0b0be,similarity_group_0129,1,Carbohydrate metabolism,4,Amino acid metabolism,0.9961862778119863
+canonical::1::678c8af7d841,similarity_group_0302,1,Amino acid metabolism,3,Amino acid metabolism,0.9749097685429371
+canonical::1::3dbb4eafaaa3,similarity_group_0303,1,Amino acid metabolism,4,Amino acid metabolism,0.9926111278167067
+canonical::1::86ac730bfde9,similarity_group_0305,1,Metabolism of cofactors and vitamins,1,Non-metabolic,0.6608339193208956
+canonical::1::bc06b217bdd9,similarity_group_0306,1,Amino acid metabolism,1,Amino acid metabolism,0.9719550046682791
+canonical::1::bf2a23ceff14,similarity_group_0307,1,Carbohydrate metabolism,3,Glycan biosynthesis and metabolism,0.9338705148395573
+canonical::1::c69e3c105063,similarity_group_0308,1,Lipid metabolism,2,Lipid metabolism,0.6821992764442593
+canonical::1::3bdcfb8d30a1,similarity_group_0309,1,Amino acid metabolism,4,Non-metabolic,0.8673054708566584
+canonical::1::afd000ee6dd0,similarity_group_0310,1,Amino acid metabolism,5,Non-metabolic,0.4162260233066741
+canonical::1::e44a2ca9b7e8,similarity_group_0311,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.641918157960939
+canonical::1::5fa7b96840f0,similarity_group_0312,1,Amino acid metabolism,2,Non-metabolic,0.671425314166258
+canonical::1::261292ea1baf,similarity_group_0313,1,Carbohydrate metabolism,3,Carbohydrate metabolism,0.9723887046831323
+canonical::1::6645437eb6e4,similarity_group_0315,1,Carbohydrate metabolism,1,Carbohydrate metabolism,0.5944389088665258
+canonical::1::69b659d22fc4,similarity_group_0316,1,Carbohydrate metabolism,2,Biosynthesis of other secondary metabolites,0.7454541484994636
+canonical::1::ae90c396cdc4,similarity_group_0317,1,Carbohydrate metabolism,4,Non-metabolic,0.8557370261240029
+canonical::1::60e8439b7392,similarity_group_0319,1,Carbohydrate metabolism,5,Non-metabolic,0.5646467959391422
+canonical::1::450b380a3a82,similarity_group_0320,1,Lipid metabolism,3,Lipid metabolism,0.9706644954635527
+canonical::1::b4f29708865c,similarity_group_0321,1,Lipid metabolism,2,Lipid metabolism,0.909608000096009
+canonical::1::23a6cb05a30b,similarity_group_0322,1,Lipid metabolism,4,Lipid metabolism,0.9812458886561443
+canonical::1::7da6de7fb5f1,similarity_group_0323,1,Lipid metabolism,5,Biosynthesis of other secondary metabolites,0.8915426156787497
+canonical::1::5c4528ee2428,similarity_group_0324,1,Lipid metabolism,1,Non-metabolic,0.7995889777602371
+canonical::1::fbc04df12329,similarity_group_0326,1,Energy metabolism,2,Non-metabolic,0.34832474822279175
+canonical::1::3daaac89d797,similarity_group_0327,1,Energy metabolism,1,Energy metabolism,0.8957960667598468
+canonical::1::ca4d31062256,similarity_group_0328,1,Energy metabolism,2,Non-metabolic,0.5101307513999581
+canonical::1::5d0652390eb4,similarity_group_0330,1,Nucleotide metabolism,3,Carbohydrate metabolism,0.9945699617581301
+canonical::1::c890c423f737,similarity_group_0331,1,Nucleotide metabolism,4,Non-metabolic,0.10434147257022885
+canonical::1::794bfc57c8a3,similarity_group_0332,1,Amino acid metabolism,5,Amino acid metabolism,0.9454561627120401
+canonical::1::8592f6b8a525,similarity_group_0333,1,Amino acid metabolism,3,Amino acid metabolism,0.8762056795796117
+canonical::1::fd3d6cdc31c2,similarity_group_0334,1,Biosynthesis of other secondary metabolites,4,Amino acid metabolism,0.9973819796330515
+canonical::1::dc02ff594d76,similarity_group_0336,1,Amino acid metabolism,5,Non-metabolic,0.32767966480902555
+canonical::1::1bb63448fdba,similarity_group_0337,1,Amino acid metabolism,1,Metabolism of cofactors and vitamins,0.9803005467385413
+canonical::1::12c7f1462655,similarity_group_0115,1,Amino acid metabolism,2,Biosynthesis of other secondary metabolites,0.9960916610517186
+canonical::1::fa2845283e73,similarity_group_0338,1,Amino acid metabolism,3,Non-metabolic,0.19422792665829605
+canonical::1::5699ef55b0ae,similarity_group_0339,1,Amino acid metabolism,2,Amino acid metabolism,0.9799949534623038
+canonical::1::a71c28c2626d,similarity_group_0340,1,Amino acid metabolism,4,Amino acid metabolism,0.9860034914221487
+canonical::1::b1ac3f856536,similarity_group_0342,1,Amino acid metabolism,5,Amino acid metabolism,0.9000068414171465
+canonical::1::f9036e6626bc,similarity_group_0344,1,Amino acid metabolism,1,Metabolism of cofactors and vitamins,0.9976790629414695
+canonical::1::8fb7341e7fb7,similarity_group_0345,1,Metabolism of other amino acids,4,Biosynthesis of other secondary metabolites,0.8524339507082924
+canonical::1::8409f7d7a1b8,similarity_group_0346,1,Metabolism of other amino acids,2,Nucleotide metabolism,0.9568616564932457
+canonical::1::ac8b770bf966,similarity_group_0348,1,Metabolism of other amino acids,3,Amino acid metabolism,0.9596459203854134
+canonical::1::d6dbb9891079,similarity_group_0349,1,Metabolism of other amino acids,5,Non-metabolic,0.8933635385796106
+canonical::1::9c67cce0f25d,similarity_group_0350,1,Metabolism of other amino acids,1,Amino acid metabolism,0.9913626776480104
+canonical::1::710b3c2e6575,similarity_group_0351,1,Metabolism of other amino acids,3,Amino acid metabolism,0.9873554759886143
+canonical::1::807785df7b1d,similarity_group_0352,1,Carbohydrate metabolism,4,Non-metabolic,0.818553774296024
+canonical::1::d9587c9aa9e7,similarity_group_0355,1,Glycan biosynthesis and metabolism,2,Metabolism of terpenoids and polyketides,0.81697718862413
+canonical::1::21556847b721,similarity_group_0356,1,Glycan biosynthesis and metabolism,5,Glycan biosynthesis and metabolism,0.23647629211830276
+canonical::1::7a67968c88a0,similarity_group_0357,1,Glycan biosynthesis and metabolism,1,Carbohydrate metabolism,0.7426526058132663
+canonical::1::e6a87efacd55,similarity_group_0358,1,Glycan biosynthesis and metabolism,5,Carbohydrate metabolism,0.9460401163902337
+canonical::1::c2966dcc4fb5,similarity_group_0044,1,Glycan biosynthesis and metabolism,1,Metabolism of terpenoids and polyketides,0.8580053628839097
+canonical::1::8ade58d41b92,similarity_group_0359,1,Glycan biosynthesis and metabolism,2,Non-metabolic,0.36510378787901004
+canonical::1::736fcfbc01f8,similarity_group_0360,1,Lipid metabolism,3,Lipid metabolism,0.7005964240467076
+canonical::1::38aaaa18ec5f,similarity_group_0362,1,Glycan biosynthesis and metabolism,4,Glycan biosynthesis and metabolism,0.5164557148910308
+canonical::1::626b0a6889fc,similarity_group_0363,1,Lipid metabolism,1,Non-metabolic,0.07323086025543507
+canonical::1::69f42ace7047,similarity_group_0364,1,Lipid metabolism,5,Non-metabolic,0.11671138124396747
+canonical::1::0e724dc590ff,similarity_group_0366,1,Lipid metabolism,1,Non-metabolic,0.2614243753577746
+canonical::1::fba209fbf60e,similarity_group_0367,1,Lipid metabolism,2,Non-metabolic,0.19970597458389253
+canonical::1::5f4caf6c7fd9,similarity_group_0368,1,Lipid metabolism,3,Non-metabolic,0.09026613247396152
+canonical::1::5da3498025b7,similarity_group_0369,1,Lipid metabolism,3,Glycan biosynthesis and metabolism,0.789021950148522
+canonical::1::8d16196a4896,similarity_group_0370,1,Glycan biosynthesis and metabolism,4,Non-metabolic,0.0705169808461256
+canonical::1::a2888202f07c,similarity_group_0372,1,Carbohydrate metabolism,2,Carbohydrate metabolism,0.9505053156024436
+canonical::1::eac61e9b144a,similarity_group_0373,1,Carbohydrate metabolism,5,Energy metabolism,0.9126565098167687
+canonical::1::fbc686821960,similarity_group_0375,1,Carbohydrate metabolism,1,Amino acid metabolism,0.7226669765853306
+canonical::1::99459d2f9b40,similarity_group_0376,1,Carbohydrate metabolism,2,Metabolism of other amino acids,0.9264078666217987
+canonical::1::afce9501c9e3,similarity_group_0377,1,Metabolism of cofactors and vitamins,1,Energy metabolism,0.9616531167721697
+canonical::1::e9b0bf6c532b,similarity_group_0378,1,Energy metabolism,3,Carbohydrate metabolism,0.7868543258688823
+canonical::1::0c0135c06467,similarity_group_0379,1,Metabolism of cofactors and vitamins,4,Energy metabolism,0.9226422586425004
+canonical::1::bbe0f7ecedcf,similarity_group_0381,1,Metabolism of cofactors and vitamins,2,Metabolism of cofactors and vitamins,0.9325031487655061
+canonical::1::22095ed15183,similarity_group_0382,1,Metabolism of cofactors and vitamins,4,Non-metabolic,0.5032753536340114
+canonical::1::d40469d3a8e7,similarity_group_0383,1,Metabolism of cofactors and vitamins,2,Amino acid metabolism,0.986255136628173
+canonical::1::ec68a9bb20ea,similarity_group_0384,1,Metabolism of cofactors and vitamins,5,Lipid metabolism,0.8811538522452268
+canonical::1::da9049ebd1ca,similarity_group_0385,1,Metabolism of cofactors and vitamins,3,Carbohydrate metabolism,0.9403084466641337
+canonical::1::d1fb988be2b4,similarity_group_0386,1,Metabolism of cofactors and vitamins,3,Non-metabolic,0.9286034382761429
+canonical::1::8d7b3d54b67a,similarity_group_0388,1,Metabolism of terpenoids and polyketides,4,Lipid metabolism,0.9608686948196042
+canonical::1::9e400ff10d16,similarity_group_0389,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.7730399350304944
+canonical::1::8498482e8e86,similarity_group_0390,1,Metabolism of terpenoids and polyketides,1,Non-metabolic,0.8575636209996241
+canonical::1::c56b51e6bf77,similarity_group_0392,1,Metabolism of terpenoids and polyketides,4,Metabolism of terpenoids and polyketides,0.7822673994848639
+canonical::1::7f4346b1e108,similarity_group_0393,1,Metabolism of terpenoids and polyketides,5,Metabolism of terpenoids and polyketides,0.962543378484732
+canonical::1::b25a56d08e2b,similarity_group_0394,1,Metabolism of terpenoids and polyketides,2,Non-metabolic,0.5627540404351453
+canonical::1::82cd352224f5,similarity_group_0395,1,Metabolism of terpenoids and polyketides,3,Metabolism of terpenoids and polyketides,0.6541283330372929
+canonical::1::8074a1b74f03,similarity_group_0397,1,Energy metabolism,1,Amino acid metabolism,0.9953021119394914
+canonical::1::5a6e5e3fcc50,similarity_group_0398,1,Biosynthesis of other secondary metabolites,3,Non-metabolic,0.8331472825461728
+canonical::1::c6d465a0e5d7,similarity_group_0399,1,Biosynthesis of other secondary metabolites,4,Non-metabolic,0.084503785440542
+canonical::1::0a6c42d26316,similarity_group_0401,1,Biosynthesis of other secondary metabolites,1,Metabolism of other amino acids,0.9368908162980916
+canonical::1::314d6409bc8a,similarity_group_0402,1,Biosynthesis of other secondary metabolites,3,Metabolism of other amino acids,0.8360856412453872
+canonical::1::6352c8f2ba96,similarity_group_0403,1,Biosynthesis of other secondary metabolites,5,Non-metabolic,0.603257423950068
+canonical::1::014b53da1a9d,similarity_group_0404,1,Biosynthesis of other secondary metabolites,2,Metabolism of other amino acids,0.8616560913046576
+canonical::1::db3faa977cf8,similarity_group_0405,1,Lipid metabolism,4,Non-metabolic,0.21855462992679545
+canonical::1::90ca17edf2aa,similarity_group_0407,1,Metabolism of other amino acids,1,Carbohydrate metabolism,0.8438384910183083
+canonical::1::8e625b2d6e90,similarity_group_0408,1,Lipid metabolism,5,Lipid metabolism,0.5722931586855047
+canonical::1::e01fa480e502,similarity_group_0409,1,Amino acid metabolism,2,Carbohydrate metabolism,0.704321329141823
+canonical::1::764afc909652,similarity_group_0410,1,Metabolism of cofactors and vitamins,3,Non-metabolic,0.2315218417980775
+canonical::1::191d8af04f52,similarity_group_0411,1,Carbohydrate metabolism,4,Non-metabolic,0.18249147868617605
+canonical::1::febf1148940a,similarity_group_0412,1,Energy metabolism,1,Amino acid metabolism,0.9926372815853628
+canonical::0::b488f9d4ddca,similarity_group_0414,0,Environmental Information Processing,5,Non-metabolic,0.7491825504782534
+canonical::0::520f4b8d1361,similarity_group_0415,0,Environmental Information Processing,3,Biosynthesis of other secondary metabolites,0.674200088423288
+canonical::0::47f4a5ca65f6,similarity_group_0416,0,Environmental Information Processing,2,Lipid metabolism,0.9300694593596042
+canonical::0::931f5fb2c28b,similarity_group_0417,0,Environmental Information Processing,4,Biosynthesis of other secondary metabolites,0.870559793685449
+canonical::0::71ece8131d91,similarity_group_0418,0,Environmental Information Processing,4,Biosynthesis of other secondary metabolites,0.7582477864791758
+canonical::0::755b4db0385b,similarity_group_0420,0,Environmental Information Processing,3,Biosynthesis of other secondary metabolites,0.5526777353818719
+canonical::0::9d8fb933cf78,similarity_group_0421,0,Environmental Information Processing,5,Non-metabolic,0.1351576798515509
+canonical::0::5ba63d17c167,similarity_group_0423,0,Environmental Information Processing,1,Amino acid metabolism,0.6687106451038456
+canonical::0::9545c2e30c8b,similarity_group_0424,0,Environmental Information Processing,1,Lipid metabolism,0.8669195379140059
+canonical::0::0387b891af61,similarity_group_0425,0,Environmental Information Processing,4,Non-metabolic,0.8131960172409262
+canonical::0::12a2f9292f81,similarity_group_0426,0,Environmental Information Processing,2,Non-metabolic,0.39822214615856855
+canonical::0::630abc8f5a15,similarity_group_0428,0,Genetic Information Processing,2,Non-metabolic,0.6595488890043365
+canonical::0::dbaa19d02904,similarity_group_0429,0,Not Included in Pathway or Brite,3,Nucleotide metabolism,0.9133697744166246
+canonical::0::04642cd84248,similarity_group_0430,0,Environmental Information Processing,3,Non-metabolic,0.16529316630627167
+canonical::0::944df06969d1,similarity_group_0431,0,Genetic Information Processing,5,Non-metabolic,0.031604176478187834
+canonical::0::75fa10244c34,similarity_group_0432,0,Genetic Information Processing,1,Non-metabolic,0.8450114440296652
+canonical::0::ddb90c3ab529,similarity_group_0434,0,Genetic Information Processing,3,Non-metabolic,0.010787548921392654
+canonical::0::e9cd78c18f80,similarity_group_0435,0,Genetic Information Processing,4,Non-metabolic,0.015558851021899306
+canonical::0::32b5a4dfbb7a,similarity_group_0437,0,Genetic Information Processing,2,Non-metabolic,0.025999150811507495
+canonical::0::00c512af7819,similarity_group_0438,0,Genetic Information Processing,4,Non-metabolic,0.011416476111843864
+canonical::0::2e8297224a88,similarity_group_0439,0,Genetic Information Processing,5,Non-metabolic,0.007839029259189834
+canonical::0::804ad52f69ed,similarity_group_0440,0,Genetic Information Processing,2,Non-metabolic,0.19425679745839833
+canonical::0::96e1b56e3e75,similarity_group_0441,0,Genetic Information Processing,1,Lipid metabolism,0.7510660723978787
+canonical::0::d0c4a64871c1,similarity_group_0443,0,Genetic Information Processing,5,Non-metabolic,0.00382780143445134
+canonical::0::dcb726db279f,similarity_group_0444,0,Genetic Information Processing,2,Non-metabolic,0.012680900937390785
+canonical::0::2f8b7a2625c9,similarity_group_0445,0,Genetic Information Processing,3,Non-metabolic,0.17591445419939716
+canonical::0::89c7c24c3ed3,similarity_group_0446,0,Genetic Information Processing,4,Non-metabolic,0.07319288377151968
+canonical::0::a4fa5f789310,similarity_group_0447,0,Genetic Information Processing,5,Non-metabolic,0.01956199446574073
+canonical::0::cdb8eed95226,similarity_group_0448,0,Genetic Information Processing,1,Non-metabolic,0.11407292797947878
+canonical::0::e23f9e0b3d6a,similarity_group_0449,0,Genetic Information Processing,2,Non-metabolic,0.016685851484403585
+canonical::0::dd9c66bc9fcb,similarity_group_0450,0,Genetic Information Processing,4,Non-metabolic,0.04056261911757125
+canonical::0::a5c92823e4b1,similarity_group_0452,0,Environmental Information Processing,1,Non-metabolic,0.007893356564165835
+canonical::0::9d23292d9e6b,similarity_group_0453,0,Environmental Information Processing,3,Non-metabolic,0.1624900265704252
+canonical::0::a6d6c314adc2,similarity_group_0454,0,Environmental Information Processing,2,Non-metabolic,0.01621765502068931
+canonical::0::76bebe926324,similarity_group_0456,0,Environmental Information Processing,5,Non-metabolic,0.265171454859997
+canonical::0::caa0b1f1ad69,similarity_group_0457,0,Genetic Information Processing,5,Non-metabolic,0.07870398650004959
+canonical::0::a8aa14a93cff,similarity_group_0458,0,Genetic Information Processing,3,Nucleotide metabolism,0.7099247756828311
+canonical::0::5e86cb07849f,similarity_group_0459,0,Genetic Information Processing,4,Non-metabolic,0.03262402200737558
+canonical::0::cb740faf0d6d,similarity_group_0460,0,Cellular Processes,3,Non-metabolic,0.03054972332461124
+canonical::0::9e2b8f8847d9,similarity_group_0461,0,Genetic Information Processing,1,Non-metabolic,0.1024776076357333
+canonical::0::cc562c462ffb,similarity_group_0462,0,Cellular Processes,2,Non-metabolic,0.04273924130470268
+canonical::0::4ad8cb607391,similarity_group_0465,0,Cellular Processes,4,Non-metabolic,0.7526310929126023
+canonical::0::2d025a7c0e57,similarity_group_0466,0,Cellular Processes,2,Non-metabolic,0.01664213362656501
+canonical::0::87be692a88ee,similarity_group_0467,0,Organismal Systems,5,Non-metabolic,0.2479387340731644
+canonical::0::15cad6dce0a5,similarity_group_0469,0,Environmental Information Processing,1,Non-metabolic,0.05829319248811162
+canonical::0::f61d3345f2b4,similarity_group_0470,0,Environmental Information Processing,3,Non-metabolic,0.007149244653991023
+canonical::0::8cc385ebf391,similarity_group_0471,0,Organismal Systems,4,Non-metabolic,0.03042321747977136
+canonical::0::2ddc49c27ecf,similarity_group_0473,0,Organismal Systems,5,Non-metabolic,0.004037861726945878
+canonical::0::4fc4a29c0b14,similarity_group_0474,0,Cellular Processes,1,Non-metabolic,0.2990500698969563
+canonical::0::e044a6a20b43,similarity_group_0475,0,Cellular Processes,1,Non-metabolic,0.40871008329847597
+canonical::0::76a79180350d,similarity_group_0476,0,Organismal Systems,2,Non-metabolic,0.20981312250891943
+canonical::0::333bbaed092a,similarity_group_0477,0,Human Diseases,5,Non-metabolic,0.07534689701431785
+grouped_360::random_gene_set::0002,similarity_group_0479,0,Control,3,Non-metabolic,0.14820685141751783
+grouped_360::random_gene_set::0003,similarity_group_0480,0,Control,4,Non-metabolic,0.014374614685511645
+grouped_360::random_gene_set::0004,similarity_group_0481,0,Control,5,Non-metabolic,0.007689162057419569
+grouped_360::random_gene_set::0005,similarity_group_0482,0,Control,1,Non-metabolic,0.010356397881826901
+grouped_360::random_gene_set::0006,similarity_group_0483,0,Control,2,Non-metabolic,0.02164662168102975
+grouped_360::random_gene_set::0007,similarity_group_0484,0,Control,3,Non-metabolic,0.15774736571869452
+grouped_360::random_gene_set::0008,similarity_group_0485,0,Control,4,Non-metabolic,0.012421514081850674
+grouped_360::random_gene_set::0010,similarity_group_0487,0,Control,2,Non-metabolic,0.020157689435047726
+grouped_360::random_gene_set::0011,similarity_group_0488,0,Control,3,Non-metabolic,0.14458220569536537
+grouped_360::random_gene_set::0012,similarity_group_0489,0,Control,4,Non-metabolic,0.024135808613787016
+grouped_360::random_gene_set::0013,similarity_group_0490,0,Control,5,Non-metabolic,0.005714940132065614
+grouped_360::random_gene_set::0014,similarity_group_0491,0,Control,1,Non-metabolic,0.005419275314692924
+grouped_360::random_gene_set::0017,similarity_group_0494,0,Control,4,Non-metabolic,0.021594795688505943
+grouped_360::random_gene_set::0018,similarity_group_0495,0,Control,5,Non-metabolic,0.0015891944335261116
+grouped_360::random_gene_set::0019,similarity_group_0496,0,Control,2,Non-metabolic,0.03325940308233132
+grouped_360::random_gene_set::0020,similarity_group_0497,0,Control,4,Non-metabolic,0.008613828657597047
+grouped_360::random_gene_set::0021,similarity_group_0498,0,Control,3,Non-metabolic,0.4135628425020029
+grouped_360::random_gene_set::0022,similarity_group_0499,0,Control,1,Non-metabolic,0.013009474301414362
+grouped_360::random_gene_set::0024,similarity_group_0501,0,Control,2,Non-metabolic,0.37796271216818106
+grouped_360::random_gene_set::0025,similarity_group_0502,0,Control,5,Non-metabolic,0.02811720445710731
+grouped_360::random_gene_set::0026,similarity_group_0503,0,Control,4,Non-metabolic,0.019710744473293944
+grouped_360::random_gene_set::0028,similarity_group_0505,0,Control,2,Non-metabolic,0.07192549960484562
+grouped_360::random_gene_set::0029,similarity_group_0506,0,Control,3,Non-metabolic,0.007664618416160773
+grouped_360::random_gene_set::0030,similarity_group_0507,0,Control,5,Non-metabolic,0.07069527280260758
+grouped_360::random_gene_set::0032,similarity_group_0509,0,Control,3,Non-metabolic,0.21948797552139002
+grouped_360::random_gene_set::0033,similarity_group_0510,0,Control,1,Non-metabolic,0.18331909816218014
+grouped_360::random_gene_set::0034,similarity_group_0511,0,Control,5,Non-metabolic,0.17770850626197637
+grouped_360::random_gene_set::0035,similarity_group_0512,0,Control,1,Non-metabolic,0.003665580857593444
+grouped_360::random_gene_set::0037,similarity_group_0514,0,Control,2,Non-metabolic,0.00559634519606818
+grouped_360::random_gene_set::0038,similarity_group_0515,0,Control,1,Non-metabolic,0.04808444002144712
+grouped_360::random_gene_set::0039,similarity_group_0516,0,Control,4,Non-metabolic,0.01951875634719103
+grouped_360::random_gene_set::0040,similarity_group_0517,0,Control,3,Non-metabolic,0.0213279901576868
+grouped_360::random_gene_set::0041,similarity_group_0518,0,Control,1,Non-metabolic,0.07041979248657816
+grouped_360::random_gene_set::0043,similarity_group_0520,0,Control,5,Non-metabolic,0.05592538861260937
+grouped_360::random_gene_set::0044,similarity_group_0521,0,Control,2,Non-metabolic,0.01082602675914928
+grouped_360::random_gene_set::0045,similarity_group_0522,0,Control,4,Non-metabolic,0.38707459147102025
+grouped_360::random_gene_set::0046,similarity_group_0523,0,Control,1,Non-metabolic,0.05864391917770674
+grouped_360::random_gene_set::0048,similarity_group_0525,0,Control,3,Non-metabolic,0.0106198903576379
+grouped_360::random_gene_set::0049,similarity_group_0526,0,Control,5,Non-metabolic,0.009369150554856391
+grouped_360::random_gene_set::0050,similarity_group_0527,0,Control,4,Non-metabolic,0.01836268114751685
+grouped_360::random_gene_set::0051,similarity_group_0528,0,Control,2,Non-metabolic,0.00570826053471944
+grouped_360::random_gene_set::0052,similarity_group_0529,0,Control,5,Non-metabolic,0.01702619313553425
+grouped_360::random_gene_set::0053,similarity_group_0530,0,Control,5,Non-metabolic,0.01124985652707791
+grouped_360::random_gene_set::0054,similarity_group_0531,0,Control,3,Non-metabolic,0.32167703494287253
+grouped_360::random_gene_set::0056,similarity_group_0533,0,Control,1,Non-metabolic,0.07964152513701961
+grouped_360::random_gene_set::0057,similarity_group_0534,0,Control,2,Non-metabolic,0.005749711229509152
+grouped_360::random_gene_set::0058,similarity_group_0535,0,Control,3,Non-metabolic,0.33654101276349313
+grouped_360::random_gene_set::0059,similarity_group_0536,0,Control,4,Non-metabolic,0.06647865875838888
+grouped_360::random_gene_set::0060,similarity_group_0537,0,Control,4,Non-metabolic,0.011415154279122399
+grouped_360::shuffled_pathway::0003,similarity_group_0540,0,Control,1,Metabolism of cofactors and vitamins,0.6175551774802966
+grouped_360::shuffled_pathway::0004,similarity_group_0541,0,Control,2,Lipid metabolism,0.37673103536922825
+grouped_360::shuffled_pathway::0005,similarity_group_0542,0,Control,3,Non-metabolic,0.034791284713151405
+grouped_360::shuffled_pathway::0006,similarity_group_0543,0,Control,5,Non-metabolic,0.1057707185609833
+grouped_360::shuffled_pathway::0008,similarity_group_0545,0,Control,1,Non-metabolic,0.047488895034294244
+grouped_360::shuffled_pathway::0009,similarity_group_0546,0,Control,3,Non-metabolic,0.011000791390967213
+grouped_360::shuffled_pathway::0010,similarity_group_0547,0,Control,2,Non-metabolic,0.03308148039530939
+grouped_360::shuffled_pathway::0011,similarity_group_0548,0,Control,4,Non-metabolic,0.05598972667392887
+grouped_360::shuffled_pathway::0012,similarity_group_0549,0,Control,5,Non-metabolic,0.009302621512482564
+grouped_360::shuffled_pathway::0014,similarity_group_0551,0,Control,2,Non-metabolic,0.09805174857583265
+grouped_360::shuffled_pathway::0015,similarity_group_0552,0,Control,1,Non-metabolic,0.005520756161903048
+grouped_360::shuffled_pathway::0017,similarity_group_0554,0,Control,2,Non-metabolic,0.02849866288374334
+grouped_360::shuffled_pathway::0018,similarity_group_0555,0,Control,4,Non-metabolic,0.05907073502453335
+grouped_360::shuffled_pathway::0019,similarity_group_0556,0,Control,4,Non-metabolic,0.015843611742480404
+grouped_360::shuffled_pathway::0020,similarity_group_0557,0,Control,3,Non-metabolic,0.03571587502008494
+grouped_360::shuffled_pathway::0021,similarity_group_0558,0,Control,5,Non-metabolic,0.0459851672073922
+grouped_360::shuffled_pathway::0023,similarity_group_0560,0,Control,1,Non-metabolic,0.0074761966019241104
+grouped_360::shuffled_pathway::0024,similarity_group_0561,0,Control,2,Non-metabolic,0.022015067637056296
+grouped_360::shuffled_pathway::0026,similarity_group_0563,0,Control,4,Non-metabolic,0.011479688557231336
+grouped_360::shuffled_pathway::0027,similarity_group_0564,0,Control,3,Non-metabolic,0.0139742302053516
+grouped_360::shuffled_pathway::0028,similarity_group_0565,0,Control,5,Non-metabolic,0.0565181644451841
+grouped_360::shuffled_pathway::0030,similarity_group_0567,0,Control,1,Non-metabolic,0.2062548709008094
+grouped_360::shuffled_pathway::0031,similarity_group_0568,0,Control,2,Non-metabolic,0.04686838034305849
+grouped_360::shuffled_pathway::0032,similarity_group_0569,0,Control,4,Non-metabolic,0.01024361550515178
+grouped_360::shuffled_pathway::0034,similarity_group_0571,0,Control,5,Non-metabolic,0.027859541548597162
+grouped_360::shuffled_pathway::0035,similarity_group_0572,0,Control,3,Non-metabolic,0.10451755696818556
+grouped_360::shuffled_pathway::0036,similarity_group_0573,0,Control,1,Non-metabolic,0.32035341936951806
+grouped_360::shuffled_pathway::0037,similarity_group_0574,0,Control,2,Non-metabolic,0.18218174368088894
+grouped_360::shuffled_pathway::0038,similarity_group_0575,0,Control,4,Non-metabolic,0.004327241656336499
+grouped_360::shuffled_pathway::0039,similarity_group_0576,0,Control,5,Non-metabolic,0.043404475204123015
+grouped_360::shuffled_pathway::0040,similarity_group_0577,0,Control,1,Non-metabolic,0.010608479786912085
+grouped_360::shuffled_pathway::0041,similarity_group_0578,0,Control,2,Non-metabolic,0.10015672502942102
+grouped_360::shuffled_pathway::0043,similarity_group_0580,0,Control,3,Non-metabolic,0.02473048241945487
+grouped_360::shuffled_pathway::0044,similarity_group_0581,0,Control,3,Non-metabolic,0.014897017032859472
+grouped_360::shuffled_pathway::0045,similarity_group_0582,0,Control,5,Non-metabolic,0.011850353841667
+grouped_360::shuffled_pathway::0046,similarity_group_0583,0,Control,4,Non-metabolic,0.011532714607788472
+grouped_360::shuffled_pathway::0047,similarity_group_0584,0,Control,1,Non-metabolic,0.12584377990401674
+grouped_360::shuffled_pathway::0048,similarity_group_0585,0,Control,2,Non-metabolic,0.03749801167421307
+grouped_360::shuffled_pathway::0050,similarity_group_0587,0,Control,4,Non-metabolic,0.035415547241476344
+grouped_360::shuffled_pathway::0051,similarity_group_0588,0,Control,5,Non-metabolic,0.149404748070398
+grouped_360::shuffled_pathway::0052,similarity_group_0589,0,Control,2,Non-metabolic,0.016097605750508844
+grouped_360::shuffled_pathway::0053,similarity_group_0590,0,Control,1,Non-metabolic,0.01040096007983716
+grouped_360::shuffled_pathway::0054,similarity_group_0591,0,Control,3,Non-metabolic,0.032698779619797586
+grouped_360::shuffled_pathway::0056,similarity_group_0593,0,Control,5,Non-metabolic,0.12444057216674784
+grouped_360::shuffled_pathway::0057,similarity_group_0594,0,Control,3,Non-metabolic,0.011897448013590503
+grouped_360::shuffled_pathway::0058,similarity_group_0595,0,Control,4,Non-metabolic,0.007062956648922409
+grouped_360::shuffled_pathway::0059,similarity_group_0596,0,Control,1,Non-metabolic,0.005926377908559164
+grouped_360::shuffled_pathway::0060,similarity_group_0597,0,Control,2,Non-metabolic,0.030506660383049833
+grouped_360::partial_pathway::0002,similarity_group_0599,0,Control,2,Metabolism of terpenoids and polyketides,0.884060099595712
+grouped_360::partial_pathway::0004,similarity_group_0601,0,Control,4,Non-metabolic,0.6296904220305974
+grouped_360::partial_pathway::0005,similarity_group_0602,0,Control,3,Non-metabolic,0.8815578799712875
+grouped_360::partial_pathway::0006,similarity_group_0603,0,Control,5,Non-metabolic,0.7921935859752873
+grouped_360::partial_pathway::0007,similarity_group_0604,0,Control,1,Non-metabolic,0.7156682113655093
+grouped_360::partial_pathway::0009,similarity_group_0606,0,Control,4,Lipid metabolism,0.8948737971222074
+grouped_360::partial_pathway::0010,similarity_group_0607,0,Control,3,Amino acid metabolism,0.789277055906043
+grouped_360::partial_pathway::0011,similarity_group_0608,0,Control,5,Amino acid metabolism,0.8873018972171013
+grouped_360::partial_pathway::0012,similarity_group_0609,0,Control,2,Non-metabolic,0.11486988644993819
+grouped_360::partial_pathway::0014,similarity_group_0611,0,Control,3,Non-metabolic,0.6714916110301846
+grouped_360::partial_pathway::0015,similarity_group_0612,0,Control,1,Non-metabolic,0.45729667852298583
+grouped_360::partial_pathway::0016,similarity_group_0613,0,Control,4,Carbohydrate metabolism,0.8817337484033111
+grouped_360::partial_pathway::0017,similarity_group_0614,0,Control,3,Amino acid metabolism,0.5958828705278549
+grouped_360::partial_pathway::0018,similarity_group_0615,0,Control,5,Non-metabolic,0.06014868435669125
+grouped_360::partial_pathway::0020,similarity_group_0617,0,Control,2,Non-metabolic,0.559017065151097
+grouped_360::partial_pathway::0021,similarity_group_0618,0,Control,3,Non-metabolic,0.703393764904462
+grouped_360::partial_pathway::0022,similarity_group_0619,0,Control,4,Non-metabolic,0.10573530254796709
+grouped_360::partial_pathway::0024,similarity_group_0621,0,Control,1,Amino acid metabolism,0.6297111883077231
+grouped_360::partial_pathway::0025,similarity_group_0622,0,Control,5,Non-metabolic,0.10390950727589662
+grouped_360::partial_pathway::0026,similarity_group_0623,0,Control,1,Non-metabolic,0.6792211870466245
+grouped_360::partial_pathway::0027,similarity_group_0624,0,Control,2,Non-metabolic,0.448730212368644
+grouped_360::partial_pathway::0028,similarity_group_0625,0,Control,1,Non-metabolic,0.5709317737762328
+grouped_360::partial_pathway::0030,similarity_group_0627,0,Control,3,Amino acid metabolism,0.7505319728698162
+grouped_360::partial_pathway::0031,similarity_group_0628,0,Control,4,Non-metabolic,0.2581453423708978
+grouped_360::partial_pathway::0033,similarity_group_0630,0,Control,3,Non-metabolic,0.5925767428723433
+grouped_360::partial_pathway::0034,similarity_group_0631,0,Control,2,Carbohydrate metabolism,0.8529579639585855
+grouped_360::partial_pathway::0035,similarity_group_0632,0,Control,5,Non-metabolic,0.20707826768578166
+grouped_360::partial_pathway::0036,similarity_group_0633,0,Control,4,Non-metabolic,0.06654313782666277
+grouped_360::partial_pathway::0038,similarity_group_0635,0,Control,1,Biosynthesis of other secondary metabolites,0.47110319727308136
+grouped_360::partial_pathway::0039,similarity_group_0636,0,Control,2,Metabolism of other amino acids,0.6730904735330715
+grouped_360::partial_pathway::0040,similarity_group_0637,0,Control,3,Amino acid metabolism,0.9599074662265388
+grouped_360::partial_pathway::0041,similarity_group_0638,0,Control,1,Nucleotide metabolism,0.9178359952403343
+grouped_360::partial_pathway::0042,similarity_group_0639,0,Control,2,Lipid metabolism,0.9229366055950039
+grouped_360::partial_pathway::0043,similarity_group_0640,0,Control,5,Biosynthesis of other secondary metabolites,0.5369988780372027
+grouped_360::partial_pathway::0045,similarity_group_0642,0,Control,4,Non-metabolic,0.7946548066073249
+grouped_360::partial_pathway::0046,similarity_group_0643,0,Control,3,Lipid metabolism,0.9093894183866809
+grouped_360::partial_pathway::0047,similarity_group_0644,0,Control,4,Nucleotide metabolism,0.8028044552260089
+grouped_360::partial_pathway::0049,similarity_group_0646,0,Control,5,Non-metabolic,0.49841140234328885
+grouped_360::partial_pathway::0050,similarity_group_0647,0,Control,5,Metabolism of other amino acids,0.7993819880212699
+grouped_360::partial_pathway::0051,similarity_group_0648,0,Control,1,Nucleotide metabolism,0.955620320939438
+grouped_360::partial_pathway::0052,similarity_group_0649,0,Control,2,Non-metabolic,0.6734770804564048
+grouped_360::partial_pathway::0054,similarity_group_0651,0,Control,1,Carbohydrate metabolism,0.9688360248013993
+grouped_360::partial_pathway::0055,similarity_group_0652,0,Control,3,Non-metabolic,0.5702425140046965
+grouped_360::partial_pathway::0056,similarity_group_0653,0,Control,2,Non-metabolic,0.011279373027580279
+grouped_360::partial_pathway::0058,similarity_group_0655,0,Control,4,Carbohydrate metabolism,0.8448044474164021
+grouped_360::partial_pathway::0059,similarity_group_0656,0,Control,5,Lipid metabolism,0.8615598992285084
+grouped_360::partial_pathway::0060,similarity_group_0657,0,Control,1,Amino acid metabolism,0.8661161040147145
+grouped_360::cross_pathway_mixture::0001,similarity_group_0658,0,Control,3,Non-metabolic,0.21562044320671772
+grouped_360::cross_pathway_mixture::0003,similarity_group_0660,0,Control,4,Non-metabolic,0.7065198555023474
+grouped_360::cross_pathway_mixture::0004,similarity_group_0661,0,Control,2,Non-metabolic,0.05879371646953588
+grouped_360::cross_pathway_mixture::0005,similarity_group_0662,0,Control,5,Non-metabolic,0.4988149961729999
+grouped_360::cross_pathway_mixture::0006,similarity_group_0663,0,Control,3,Non-metabolic,0.07365255889684437
+grouped_360::cross_pathway_mixture::0008,similarity_group_0665,0,Control,4,Non-metabolic,0.18704775592404393
+grouped_360::cross_pathway_mixture::0009,similarity_group_0666,0,Control,1,Non-metabolic,0.11861618784730842
+grouped_360::cross_pathway_mixture::0010,similarity_group_0667,0,Control,2,Carbohydrate metabolism,0.8289779755212892
+grouped_360::cross_pathway_mixture::0011,similarity_group_0668,0,Control,3,Non-metabolic,0.12021554332434156
+grouped_360::cross_pathway_mixture::0012,similarity_group_0669,0,Control,5,Lipid metabolism,0.993463592525354
+grouped_360::cross_pathway_mixture::0014,similarity_group_0671,0,Control,4,Lipid metabolism,0.6492628585348308
+grouped_360::cross_pathway_mixture::0015,similarity_group_0672,0,Control,1,Non-metabolic,0.11838653941611424
+grouped_360::cross_pathway_mixture::0016,similarity_group_0673,0,Control,2,Carbohydrate metabolism,0.09293174080914612
+grouped_360::cross_pathway_mixture::0017,similarity_group_0674,0,Control,1,Non-metabolic,0.8169309426055441
+grouped_360::cross_pathway_mixture::0019,similarity_group_0676,0,Control,5,Non-metabolic,0.07348381011465924
+grouped_360::cross_pathway_mixture::0020,similarity_group_0677,0,Control,3,Non-metabolic,0.5685678211455172
+grouped_360::cross_pathway_mixture::0021,similarity_group_0678,0,Control,3,Metabolism of other amino acids,0.9697785892230016
+grouped_360::cross_pathway_mixture::0022,similarity_group_0679,0,Control,4,Amino acid metabolism,0.9676869299971866
+grouped_360::cross_pathway_mixture::0023,similarity_group_0680,0,Control,5,Lipid metabolism,0.855816016051857
+grouped_360::cross_pathway_mixture::0026,similarity_group_0683,0,Control,5,Non-metabolic,0.43829121466507515
+grouped_360::cross_pathway_mixture::0027,similarity_group_0684,0,Control,2,Non-metabolic,0.04611503617767401
+grouped_360::cross_pathway_mixture::0028,similarity_group_0685,0,Control,4,Carbohydrate metabolism,0.9729397249716252
+grouped_360::cross_pathway_mixture::0029,similarity_group_0686,0,Control,1,Non-metabolic,0.4871127494414313
+grouped_360::cross_pathway_mixture::0031,similarity_group_0688,0,Control,2,Lipid metabolism,0.16573150315489488
+grouped_360::cross_pathway_mixture::0032,similarity_group_0689,0,Control,4,Biosynthesis of other secondary metabolites,0.5984393127120674
+grouped_360::cross_pathway_mixture::0034,similarity_group_0691,0,Control,3,Lipid metabolism,0.4992180390093107
+grouped_360::cross_pathway_mixture::0035,similarity_group_0692,0,Control,5,Non-metabolic,0.7988363028864602
+grouped_360::cross_pathway_mixture::0036,similarity_group_0693,0,Control,1,Biosynthesis of other secondary metabolites,0.6049517040307454
+grouped_360::cross_pathway_mixture::0037,similarity_group_0694,0,Control,2,Non-metabolic,0.604931136119351
+grouped_360::cross_pathway_mixture::0038,similarity_group_0695,0,Control,3,Carbohydrate metabolism,0.6346579983895877
+grouped_360::cross_pathway_mixture::0039,similarity_group_0696,0,Control,4,Non-metabolic,0.17539874497682242
+grouped_360::cross_pathway_mixture::0040,similarity_group_0697,0,Control,5,Non-metabolic,0.8515104588204994
+grouped_360::cross_pathway_mixture::0041,similarity_group_0698,0,Control,2,Non-metabolic,0.08192051190772484
+grouped_360::cross_pathway_mixture::0043,similarity_group_0700,0,Control,1,Biosynthesis of other secondary metabolites,0.5868412041448567
+grouped_360::cross_pathway_mixture::0044,similarity_group_0701,0,Control,3,Non-metabolic,0.0706190368687662
+grouped_360::cross_pathway_mixture::0045,similarity_group_0702,0,Control,4,Non-metabolic,0.48899898604084424
+grouped_360::cross_pathway_mixture::0047,similarity_group_0704,0,Control,5,Metabolism of cofactors and vitamins,0.9260602162327248
+grouped_360::cross_pathway_mixture::0048,similarity_group_0705,0,Control,1,Non-metabolic,0.36069806447300357
+grouped_360::cross_pathway_mixture::0049,similarity_group_0706,0,Control,2,Carbohydrate metabolism,0.044436011666217114
+grouped_360::cross_pathway_mixture::0050,similarity_group_0707,0,Control,3,Non-metabolic,0.8480106648046932
+grouped_360::cross_pathway_mixture::0051,similarity_group_0708,0,Control,3,Non-metabolic,0.03727861666766112
+grouped_360::cross_pathway_mixture::0053,similarity_group_0710,0,Control,4,Non-metabolic,0.1109966624887047
+grouped_360::cross_pathway_mixture::0054,similarity_group_0711,0,Control,3,Non-metabolic,0.16284127933509734
+grouped_360::cross_pathway_mixture::0056,similarity_group_0713,0,Control,2,Amino acid metabolism,0.8869518565514417
+grouped_360::cross_pathway_mixture::0057,similarity_group_0714,0,Control,5,Non-metabolic,0.6156253771616128
+grouped_360::cross_pathway_mixture::0058,similarity_group_0715,0,Control,4,Non-metabolic,0.4607172532005522
+grouped_360::cross_pathway_mixture::0059,similarity_group_0716,0,Control,1,Amino acid metabolism,0.8501400224275666
+grouped_360::cross_pathway_mixture::0060,similarity_group_0717,0,Control,5,Non-metabolic,0.09828651249331914
+grouped_360::go_coherent_control::0002,similarity_group_0719,0,Control,2,Non-metabolic,0.48353427457909637
+grouped_360::go_coherent_control::0003,similarity_group_0720,0,Control,3,Non-metabolic,0.06507563414405786
+grouped_360::go_coherent_control::0004,similarity_group_0721,0,Control,4,Non-metabolic,0.003435903727695366
+grouped_360::go_coherent_control::0005,similarity_group_0722,0,Control,5,Non-metabolic,0.057625108229499046
+grouped_360::go_coherent_control::0006,similarity_group_0723,0,Control,1,Energy metabolism,0.8528676745354509
+grouped_360::go_coherent_control::0008,similarity_group_0725,0,Control,5,Non-metabolic,0.0013096499877394373
+grouped_360::go_coherent_control::0009,similarity_group_0726,0,Control,1,Non-metabolic,0.008378031275311086
+grouped_360::go_coherent_control::0011,similarity_group_0728,0,Control,2,Non-metabolic,0.35146346972717024
+grouped_360::go_coherent_control::0012,similarity_group_0726,0,Control,1,Non-metabolic,0.006907014168535683
+grouped_360::go_coherent_control::0013,similarity_group_0729,0,Control,3,Non-metabolic,0.8216475394704973
+grouped_360::go_coherent_control::0014,similarity_group_0730,0,Control,4,Non-metabolic,0.035300600114704664
+grouped_360::go_coherent_control::0015,similarity_group_0731,0,Control,3,Non-metabolic,0.0007107240041707294
+grouped_360::go_coherent_control::0016,similarity_group_0732,0,Control,1,Non-metabolic,0.41220048608755455
+grouped_360::go_coherent_control::0017,similarity_group_0733,0,Control,5,Non-metabolic,0.0024656205320958513
+grouped_360::go_coherent_control::0018,similarity_group_0734,0,Control,4,Non-metabolic,0.06832297662792075
+grouped_360::go_coherent_control::0019,similarity_group_0735,0,Control,1,Non-metabolic,0.08817632460564723
+grouped_360::go_coherent_control::0021,similarity_group_0737,0,Control,2,Non-metabolic,0.004475798198315252
+grouped_360::go_coherent_control::0022,similarity_group_0738,0,Control,2,Non-metabolic,0.020651434552820102
+grouped_360::go_coherent_control::0023,similarity_group_0739,0,Control,3,Non-metabolic,0.1450931376677013
+grouped_360::go_coherent_control::0025,similarity_group_0741,0,Control,5,Non-metabolic,0.005931898136838008
+grouped_360::go_coherent_control::0026,similarity_group_0742,0,Control,4,Non-metabolic,0.04867062397069234
+grouped_360::go_coherent_control::0027,similarity_group_0743,0,Control,2,Non-metabolic,0.7225959802274942
+grouped_360::go_coherent_control::0028,similarity_group_0744,0,Control,1,Non-metabolic,0.005017352212201755
+grouped_360::go_coherent_control::0031,similarity_group_0747,0,Control,3,Glycan biosynthesis and metabolism,0.6980137093718708
+grouped_360::go_coherent_control::0032,similarity_group_0748,0,Control,4,Non-metabolic,0.05281573374413605
+grouped_360::go_coherent_control::0033,similarity_group_0749,0,Control,5,Metabolism of other amino acids,0.6594398314337779
+grouped_360::go_coherent_control::0034,similarity_group_0750,0,Control,1,Non-metabolic,0.015084532678173468
+grouped_360::go_coherent_control::0035,similarity_group_0751,0,Control,4,Lipid metabolism,0.950282835643357
+grouped_360::go_coherent_control::0036,similarity_group_0752,0,Control,2,Non-metabolic,0.11300427346719094
+grouped_360::go_coherent_control::0037,similarity_group_0753,0,Control,5,Non-metabolic,0.04708576127310843
+grouped_360::go_coherent_control::0038,similarity_group_0754,0,Control,3,Non-metabolic,0.001152651057502808
+grouped_360::go_coherent_control::0040,similarity_group_0756,0,Control,3,Non-metabolic,0.862076281443065
+grouped_360::go_coherent_control::0041,similarity_group_0757,0,Control,1,Non-metabolic,0.13923968606405918
+grouped_360::go_coherent_control::0042,similarity_group_0758,0,Control,2,Metabolism of terpenoids and polyketides,0.9336101861938033
+grouped_360::go_coherent_control::0043,similarity_group_0759,0,Control,4,Non-metabolic,0.041983768689237116
+grouped_360::go_coherent_control::0046,similarity_group_0762,0,Control,5,Non-metabolic,0.004326332908555856
+grouped_360::go_coherent_control::0047,similarity_group_0763,0,Control,4,Lipid metabolism,0.9979692056609618
+grouped_360::go_coherent_control::0048,similarity_group_0764,0,Control,4,Non-metabolic,0.001677072531354185
+grouped_360::go_coherent_control::0049,similarity_group_0765,0,Control,1,Non-metabolic,0.0380429643584427
+grouped_360::go_coherent_control::0050,similarity_group_0766,0,Control,5,Non-metabolic,0.1166813053784655
+grouped_360::go_coherent_control::0052,similarity_group_0768,0,Control,2,Non-metabolic,0.018158820486815715
+grouped_360::go_coherent_control::0053,similarity_group_0769,0,Control,3,Non-metabolic,0.008677961032958861
+grouped_360::go_coherent_control::0055,similarity_group_0771,0,Control,5,Non-metabolic,0.007993880643846069
+grouped_360::go_coherent_control::0056,similarity_group_0772,0,Control,1,Glycan biosynthesis and metabolism,0.14610536187720385
+grouped_360::go_coherent_control::0057,similarity_group_0773,0,Control,2,Non-metabolic,0.266175525224353
+grouped_360::go_coherent_control::0058,similarity_group_0774,0,Control,4,Non-metabolic,0.728527875008107
+grouped_360::go_coherent_control::0059,similarity_group_0775,0,Control,2,Non-metabolic,0.7255325106930192
+grouped_360::go_coherent_control::0060,similarity_group_0776,0,Control,3,Non-metabolic,0.0005611206671325503
+grouped_360::annotation_sparse_control::0001,similarity_group_0777,0,Control,5,Non-metabolic,0.028140785359981706
+grouped_360::annotation_sparse_control::0003,similarity_group_0779,0,Control,2,Non-metabolic,0.08068404096549815
+grouped_360::annotation_sparse_control::0004,similarity_group_0780,0,Control,5,Non-metabolic,0.04588453757614685
+grouped_360::annotation_sparse_control::0006,similarity_group_0782,0,Control,1,Non-metabolic,0.013581635257834868
+grouped_360::annotation_sparse_control::0007,similarity_group_0783,0,Control,4,Non-metabolic,0.010188319494796767
+grouped_360::annotation_sparse_control::0008,similarity_group_0784,0,Control,3,Non-metabolic,0.0072274754775839955
+grouped_360::annotation_sparse_control::0009,similarity_group_0785,0,Control,3,Non-metabolic,0.01513039201367606
+grouped_360::annotation_sparse_control::0010,similarity_group_0786,0,Control,5,Non-metabolic,0.006448316786687464
+grouped_360::annotation_sparse_control::0011,similarity_group_0787,0,Control,1,Non-metabolic,0.25070855190058866
+grouped_360::annotation_sparse_control::0012,similarity_group_0788,0,Control,2,Non-metabolic,0.030062509285030892
+grouped_360::annotation_sparse_control::0014,similarity_group_0790,0,Control,3,Non-metabolic,0.016198897735822615
+grouped_360::annotation_sparse_control::0015,similarity_group_0791,0,Control,1,Non-metabolic,0.057562059567256726
+grouped_360::annotation_sparse_control::0016,similarity_group_0792,0,Control,4,Non-metabolic,0.005391284989853141
+grouped_360::annotation_sparse_control::0017,similarity_group_0793,0,Control,5,Non-metabolic,0.007200324945264739
+grouped_360::annotation_sparse_control::0019,similarity_group_0795,0,Control,1,Non-metabolic,0.011144219573994226
+grouped_360::annotation_sparse_control::0021,similarity_group_0797,0,Control,2,Non-metabolic,0.06450001828729253
+grouped_360::annotation_sparse_control::0022,similarity_group_0798,0,Control,1,Non-metabolic,0.00827826138980978
+grouped_360::annotation_sparse_control::0023,similarity_group_0799,0,Control,2,Non-metabolic,0.07459902312352834
+grouped_360::annotation_sparse_control::0024,similarity_group_0800,0,Control,3,Non-metabolic,0.006038022366900336
+grouped_360::annotation_sparse_control::0025,similarity_group_0801,0,Control,4,Metabolism of terpenoids and polyketides,0.3233618177552089
+grouped_360::annotation_sparse_control::0027,similarity_group_0803,0,Control,5,Non-metabolic,0.02303534042770594
+grouped_360::annotation_sparse_control::0028,similarity_group_0804,0,Control,2,Non-metabolic,0.015299269699323742
+grouped_360::annotation_sparse_control::0029,similarity_group_0805,0,Control,1,Non-metabolic,0.02588123078591201
+grouped_360::annotation_sparse_control::0030,similarity_group_0806,0,Control,5,Non-metabolic,0.007524779202355026
+grouped_360::annotation_sparse_control::0031,similarity_group_0807,0,Control,1,Non-metabolic,0.008290365250765453
+grouped_360::annotation_sparse_control::0032,similarity_group_0808,0,Control,3,Non-metabolic,0.009469189885750082
+grouped_360::annotation_sparse_control::0033,similarity_group_0809,0,Control,4,Non-metabolic,0.016144999417859542
+grouped_360::annotation_sparse_control::0035,similarity_group_0811,0,Control,2,Non-metabolic,0.030680554759471537
+grouped_360::annotation_sparse_control::0036,similarity_group_0812,0,Control,3,Non-metabolic,0.48586922998682563
+grouped_360::annotation_sparse_control::0038,similarity_group_0814,0,Control,4,Non-metabolic,0.0383830662933608
+grouped_360::annotation_sparse_control::0039,similarity_group_0815,0,Control,5,Non-metabolic,0.00461234542625933
+grouped_360::annotation_sparse_control::0040,similarity_group_0816,0,Control,2,Non-metabolic,0.14928020036662765
+grouped_360::annotation_sparse_control::0042,similarity_group_0818,0,Control,3,Non-metabolic,0.0076384698581622905
+grouped_360::annotation_sparse_control::0043,similarity_group_0819,0,Control,5,Non-metabolic,0.012649779508693677
+grouped_360::annotation_sparse_control::0044,similarity_group_0820,0,Control,1,Non-metabolic,0.03239517601808008
+grouped_360::annotation_sparse_control::0045,similarity_group_0821,0,Control,4,Non-metabolic,0.0027847763873891066
+grouped_360::annotation_sparse_control::0047,similarity_group_0823,0,Control,5,Non-metabolic,0.0032110455504191105
+grouped_360::annotation_sparse_control::0048,similarity_group_0824,0,Control,1,Non-metabolic,0.023855628190245125
+grouped_360::annotation_sparse_control::0049,similarity_group_0825,0,Control,2,Non-metabolic,0.04566922702915587
+grouped_360::annotation_sparse_control::0050,similarity_group_0826,0,Control,3,Non-metabolic,0.005897614409570776
+grouped_360::annotation_sparse_control::0052,similarity_group_0828,0,Control,4,Non-metabolic,0.0118829619054423
+grouped_360::annotation_sparse_control::0053,similarity_group_0829,0,Control,2,Non-metabolic,0.03053666470324313
+grouped_360::annotation_sparse_control::0054,similarity_group_0830,0,Control,5,Non-metabolic,0.00885681835432899
+grouped_360::annotation_sparse_control::0055,similarity_group_0831,0,Control,5,Non-metabolic,0.006017309598246148
+grouped_360::annotation_sparse_control::0056,similarity_group_0832,0,Control,1,Non-metabolic,0.17118903591136236
+grouped_360::annotation_sparse_control::0057,similarity_group_0833,0,Control,3,Non-metabolic,0.017706519380326503
+grouped_360::annotation_sparse_control::0059,similarity_group_0835,0,Control,4,Non-metabolic,0.004037247858726298
+grouped_360::annotation_sparse_control::0060,similarity_group_0836,0,Control,4,Non-metabolic,0.15405097349820704

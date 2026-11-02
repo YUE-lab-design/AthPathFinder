@@ -1,0 +1,276 @@
+sample_id,family,stage1_score,stage1_pass,stage2_pred,end_to_end_correct
+AraCyc::PWY-8280,Lipid metabolism,0.7089438644492672,1,Lipid metabolism,True
+AraCyc::ILE-VAL-PWY,Amino acid metabolism,0.9998098021310824,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-5046,Carbohydrate metabolism,0.9987669047975831,1,Amino acid metabolism,False
+AraCyc::PWY-6012,Lipid metabolism,0.15487248671173434,0,Carbohydrate metabolism,False
+AraCyc::THRESYN-PWY,Amino acid metabolism,0.9999104250132195,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-6612,Metabolism of cofactors and vitamins,0.9987248116888642,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-4541,Glycan biosynthesis and metabolism,0.026755750775522363,0,Carbohydrate metabolism,False
+AraCyc::PWY4FS-7,Lipid metabolism,0.995250693480302,1,Lipid metabolism,True
+AraCyc::CHLOROPHYLL-SYN,Metabolism of cofactors and vitamins,0.9875364038564236,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6358,Glycan biosynthesis and metabolism,0.074420969506773,0,Energy metabolism,False
+AraCyc::PWY-5098,Metabolism of cofactors and vitamins,0.9966094309572044,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-4203,Biosynthesis of other secondary metabolites,0.1360630363016769,0,Lipid metabolism,False
+AraCyc::PWYQT-94,Metabolism of other amino acids,0.9471895617459724,1,Metabolism of other amino acids,True
+AraCyc::PWY-7995,Biosynthesis of other secondary metabolites,0.9987490841912282,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-4381,Lipid metabolism,0.9995210709588778,1,Lipid metabolism,True
+AraCyc::PWY-7219,Nucleotide metabolism,0.9913034234144223,1,Nucleotide metabolism,True
+AraCyc::PWY-5142,Lipid metabolism,0.0041878825834934805,0,Lipid metabolism,False
+AraCyc::LEUSYN-PWY,Amino acid metabolism,0.9934104937361379,1,Amino acid metabolism,True
+AraCyc::PWY-6266-ARA,Biosynthesis of other secondary metabolites,0.996935547509928,1,Metabolism of terpenoids and polyketides,False
+AraCyc::COA-PWY,Metabolism of cofactors and vitamins,0.9987051381863512,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6787,Biosynthesis of other secondary metabolites,0.9640872825600252,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-7343,Carbohydrate metabolism,0.9982248298741973,1,Carbohydrate metabolism,True
+AraCyc::PYRIDNUCSYN-PWY,Nucleotide metabolism,0.9933984264894862,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-4302,Energy metabolism,0.9624632533003864,1,Carbohydrate metabolism,False
+AraCyc::PWY-6199,Biosynthesis of other secondary metabolites,0.9254287838787925,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-6527,Carbohydrate metabolism,0.9775224869503272,1,Carbohydrate metabolism,True
+AraCyc::PWYQT-4466,Carbohydrate metabolism,0.9996157120056901,1,Carbohydrate metabolism,True
+AraCyc::PWY-8011,Amino acid metabolism,0.9992353267115257,1,Carbohydrate metabolism,False
+AraCyc::PWY-7196,Nucleotide metabolism,0.9966052626857312,1,Nucleotide metabolism,True
+AraCyc::PWY-5989,Lipid metabolism,0.7592822886112621,1,Lipid metabolism,True
+AraCyc::PWYQT-62,Metabolism of cofactors and vitamins,0.9991908782258363,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6363,Glycan biosynthesis and metabolism,0.074420969506773,0,Energy metabolism,False
+AraCyc::PWY-5350,Energy metabolism,0.9992984433498687,1,Amino acid metabolism,False
+AraCyc::PWY-4562,Glycan biosynthesis and metabolism,0.9778028015146802,1,Carbohydrate metabolism,False
+AraCyc::PWY0-461,Amino acid metabolism,0.9827754957534269,1,Carbohydrate metabolism,False
+AraCyc::PWY-3462,Amino acid metabolism,0.9995001423936313,1,Amino acid metabolism,True
+AraCyc::PWY-5080,Lipid metabolism,0.9984671117847548,1,Amino acid metabolism,False
+AraCyc::PWY18C3-24,Biosynthesis of other secondary metabolites,0.976039056265461,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-6317,Carbohydrate metabolism,0.9815437514948989,1,Carbohydrate metabolism,True
+AraCyc::PWY-5136,Lipid metabolism,0.9994329285193897,1,Amino acid metabolism,False
+AraCyc::PWY-4861,Carbohydrate metabolism,0.998801619349165,1,Glycan biosynthesis and metabolism,False
+AraCyc::PWY-101,Energy metabolism,0.9996855033074559,1,Energy metabolism,True
+AraCyc::PWYQT-4482,Lipid metabolism,0.9989284009161277,1,Lipid metabolism,True
+AraCyc::PWY-6842,Metabolism of other amino acids,0.9979594596985025,1,Metabolism of other amino acids,True
+AraCyc::SUCSYN-PWY,Carbohydrate metabolism,0.9986350261846137,1,Carbohydrate metabolism,True
+AraCyc::TYRFUMCAT-PWY,Amino acid metabolism,0.9998072869502316,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY0-1608,Amino acid metabolism,0.9999041405494306,1,Amino acid metabolism,True
+AraCyc::PWYQT-4429,Carbohydrate metabolism,0.9997287801375689,1,Energy metabolism,False
+AraCyc::PWY-841,Nucleotide metabolism,0.9983220826925537,1,Nucleotide metabolism,True
+AraCyc::PWY-8148,Nucleotide metabolism,0.5570437633908835,1,Carbohydrate metabolism,False
+AraCyc::PANTO-PWY,Metabolism of cofactors and vitamins,0.9612658646472966,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-5886,Biosynthesis of other secondary metabolites,0.9968029517919631,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-4221,Metabolism of cofactors and vitamins,0.9996382243531562,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-8363,Energy metabolism,0.9998030769397374,1,Amino acid metabolism,False
+AraCyc::PWY4FS-8,Lipid metabolism,0.9986754780611847,1,Lipid metabolism,True
+AraCyc::PWY-7200,Nucleotide metabolism,0.9783424430223377,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-8458,Carbohydrate metabolism,0.9953583774359119,1,Carbohydrate metabolism,True
+AraCyc::GLUTAMINDEG-PWY,Amino acid metabolism,0.9998710941137771,1,Amino acid metabolism,True
+AraCyc::PWY-7185,Nucleotide metabolism,0.9995030199219377,1,Nucleotide metabolism,True
+AraCyc::PWY-1042,Carbohydrate metabolism,0.9991785369622148,1,Carbohydrate metabolism,True
+AraCyc::PWY-7177,Nucleotide metabolism,0.7758973940890886,1,Nucleotide metabolism,True
+AraCyc::PWY-7909,Carbohydrate metabolism,0.9997203211730646,1,Nucleotide metabolism,False
+AraCyc::GLYCOLYSIS,Carbohydrate metabolism,0.999033579021839,1,Carbohydrate metabolism,True
+AraCyc::PWY-63,Carbohydrate metabolism,0.9282966736275793,1,Glycan biosynthesis and metabolism,False
+AraCyc::PWY-7398,Biosynthesis of other secondary metabolites,0.998444425460018,1,Biosynthesis of other secondary metabolites,True
+AraCyc::ILEUDEG-PWY,Amino acid metabolism,0.9996426885053228,1,Amino acid metabolism,True
+AraCyc::PWY-6837,Lipid metabolism,0.9986393206443258,1,Lipid metabolism,True
+AraCyc::PWY-5188,Metabolism of cofactors and vitamins,0.9993207267563841,1,Metabolism of cofactors and vitamins,True
+AraCyc::CITRULBIO-PWY,Amino acid metabolism,0.9998574610750954,1,Amino acid metabolism,True
+AraCyc::PWY-8270,Energy metabolism,0.9745606934497942,1,Energy metabolism,True
+AraCyc::ASPASN-ARA-PWY,Amino acid metabolism,0.9988075659396859,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-6595,Nucleotide metabolism,0.9992078137337514,1,Nucleotide metabolism,True
+AraCyc::PWY-5049,Biosynthesis of other secondary metabolites,0.9915000445721819,1,Carbohydrate metabolism,False
+AraCyc::PWY-6007,Metabolism of terpenoids and polyketides,0.9619746239698398,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-3841,Metabolism of cofactors and vitamins,0.9999293017012771,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6147,Metabolism of cofactors and vitamins,0.9575379640397296,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6606,Nucleotide metabolism,0.9992216542563717,1,Nucleotide metabolism,True
+AraCyc::POLYAMINSYN3-PWY,Metabolism of other amino acids,0.15177165396738618,0,Metabolism of other amino acids,False
+AraCyc::PWY-7345,Carbohydrate metabolism,0.999464422855687,1,Carbohydrate metabolism,True
+AraCyc::PWY-7184,Nucleotide metabolism,0.9987415183063661,1,Metabolism of cofactors and vitamins,False
+AraCyc::NONMEVIPP-PWY,Metabolism of terpenoids and polyketides,0.9998165526949461,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY0-1264,Lipid metabolism,0.9976452976866599,1,Lipid metabolism,True
+AraCyc::PWY-5173,Carbohydrate metabolism,0.9998265458528849,1,Carbohydrate metabolism,True
+AraCyc::ARGSYNBSUB-PWY,Amino acid metabolism,0.9743570575915499,1,Amino acid metabolism,True
+AraCyc::NAGLIPASYN-PWY,Glycan biosynthesis and metabolism,0.9893507026160496,1,Carbohydrate metabolism,False
+AraCyc::PWY-5661,Carbohydrate metabolism,0.9978415874340558,1,Carbohydrate metabolism,True
+AraCyc::PWY-7356,Metabolism of cofactors and vitamins,0.988969364811178,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-5122,Metabolism of terpenoids and polyketides,0.9990084424903696,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-6733,Lipid metabolism,0.9748635919566536,1,Lipid metabolism,True
+AraCyc::ASPARTATE-DEG1-PWY,Amino acid metabolism,0.9996996600968648,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-4101,Carbohydrate metabolism,0.9974171746354137,1,Carbohydrate metabolism,True
+AraCyc::PWY-5125,Biosynthesis of other secondary metabolites,0.9895385803193837,1,Biosynthesis of other secondary metabolites,True
+AraCyc::BRANCHED-CHAIN-AA-SYN-PWY,Amino acid metabolism,0.9992051059487765,1,Amino acid metabolism,True
+AraCyc::PWY-4841,Carbohydrate metabolism,0.9974026854741695,1,Carbohydrate metabolism,True
+AraCyc::PWY-5143,Lipid metabolism,0.9994547513037897,1,Lipid metabolism,True
+AraCyc::PWY-7634,Lipid metabolism,0.9892788240507173,1,Lipid metabolism,True
+AraCyc::PWY1ZNC-1,Energy metabolism,0.999579295317179,1,Energy metabolism,True
+AraCyc::PWY-6622,Lipid metabolism,0.9977348915402654,1,Lipid metabolism,True
+AraCyc::PWY-6773,Glycan biosynthesis and metabolism,0.9795951786516239,1,Carbohydrate metabolism,False
+AraCyc::PWY-5390,Biosynthesis of other secondary metabolites,0.9879261381300641,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-3481,Amino acid metabolism,0.9996683469724253,1,Amino acid metabolism,True
+AraCyc::PWY-6556,Nucleotide metabolism,0.9768986480906713,1,Nucleotide metabolism,True
+AraCyc::PWY-401,Lipid metabolism,0.9994969608819025,1,Lipid metabolism,True
+AraCyc::PWY-7417,Lipid metabolism,0.9529408215604325,1,Lipid metabolism,True
+AraCyc::ASPARAGINE-DEG1-PWY-1,Amino acid metabolism,0.9996768695239342,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-5464,Carbohydrate metabolism,0.9998308842929331,1,Carbohydrate metabolism,True
+AraCyc::PWY-6554,Glycan biosynthesis and metabolism,0.9778028015146802,1,Carbohydrate metabolism,False
+AraCyc::PWY-5097,Amino acid metabolism,0.9997700401051159,1,Amino acid metabolism,True
+AraCyc::PWY-7204,Metabolism of cofactors and vitamins,0.9995994918028972,1,Carbohydrate metabolism,False
+AraCyc::CYSTSYN-PWY,Amino acid metabolism,0.9999102725133756,1,Energy metabolism,False
+AraCyc::PWY-7346,Carbohydrate metabolism,0.9972881872485251,1,Carbohydrate metabolism,True
+AraCyc::PWY-5453,Carbohydrate metabolism,0.9998847310184602,1,Lipid metabolism,False
+AraCyc::PWY-6691,Metabolism of terpenoids and polyketides,0.9981744921514263,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-7101,Metabolism of terpenoids and polyketides,0.02867116386162527,0,Carbohydrate metabolism,False
+AraCyc::ALANINE-SYN2-PWY,Amino acid metabolism,0.9096449477103454,1,Amino acid metabolism,True
+AraCyc::PWY-2463,Biosynthesis of other secondary metabolites,0.9224467436485487,1,Biosynthesis of other secondary metabolites,True
+AraCyc::GLYSYN-PWY,Amino acid metabolism,0.9993203207195331,1,Amino acid metabolism,True
+AraCyc::PWY-641,Biosynthesis of other secondary metabolites,0.980949703759074,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-7211,Nucleotide metabolism,0.9964886137744424,1,Nucleotide metabolism,True
+AraCyc::PWY-8395,Lipid metabolism,0.9961816011395426,1,Lipid metabolism,True
+AraCyc::PWY-6040,Biosynthesis of other secondary metabolites,0.8393230130209217,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-3461,Amino acid metabolism,0.9996668198049751,1,Amino acid metabolism,True
+AraCyc::SERSYN-PWY,Amino acid metabolism,0.9988176112642935,1,Metabolism of cofactors and vitamins,False
+AraCyc::SER-GLYSYN-PWY,Amino acid metabolism,0.9993986370907367,1,Amino acid metabolism,True
+AraCyc::PWY-5079,Amino acid metabolism,0.9990191892018694,1,Carbohydrate metabolism,False
+AraCyc::PWY-2582,Metabolism of terpenoids and polyketides,0.9989867516785673,1,Metabolism of terpenoids and polyketides,True
+AraCyc::HEME-BIOSYNTHESIS-II,Metabolism of cofactors and vitamins,0.9966682209236142,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-6039,Biosynthesis of other secondary metabolites,0.9990924251285718,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-5807,Metabolism of terpenoids and polyketides,0.9915698473107801,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-5934,Energy metabolism,0.9974310454157024,1,Carbohydrate metabolism,False
+AraCyc::PWY-8398,Lipid metabolism,0.9990364260447004,1,Lipid metabolism,True
+AraCyc::BSUBPOLYAMSYN-PWY,Metabolism of other amino acids,0.9892844609688833,1,Metabolism of other amino acids,True
+AraCyc::PWY-8157,Biosynthesis of other secondary metabolites,0.9807964963672988,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-5123,Metabolism of terpenoids and polyketides,0.9977010353790087,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-6614,Metabolism of cofactors and vitamins,0.9926348024201389,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-4041,Metabolism of other amino acids,0.9989963610846865,1,Metabolism of other amino acids,True
+AraCyc::PWY-2301,Carbohydrate metabolism,0.9994173777450329,1,Glycan biosynthesis and metabolism,False
+AraCyc::PWY-5121,Metabolism of terpenoids and polyketides,0.9997633921659617,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY0-166,Nucleotide metabolism,0.9987415183063661,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-6724,Carbohydrate metabolism,0.9983393946828287,1,Carbohydrate metabolism,True
+AraCyc::PWY66-423,Carbohydrate metabolism,0.9962449026022004,1,Carbohydrate metabolism,True
+AraCyc::GLUTORN-PWY,Amino acid metabolism,0.9335399336217205,1,Amino acid metabolism,True
+AraCyc::HISTSYN-PWY,Amino acid metabolism,0.9994625340881654,1,Amino acid metabolism,True
+AraCyc::PWY-922,Metabolism of terpenoids and polyketides,0.9995914272369437,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-5864,Metabolism of cofactors and vitamins,0.998346696811034,1,Metabolism of terpenoids and polyketides,False
+AraCyc::TRIGLSYN-PWY,Lipid metabolism,0.7522502635971163,1,Lipid metabolism,True
+AraCyc::PWY-5321,Biosynthesis of other secondary metabolites,0.997908703205306,1,Metabolism of terpenoids and polyketides,False
+AraCyc::PWY-7199,Nucleotide metabolism,0.8991656917899195,1,Biosynthesis of other secondary metabolites,False
+AraCyc::ALACAT2-PWY,Amino acid metabolism,0.9910476949164749,1,Amino acid metabolism,True
+AraCyc::PWY-7298,Biosynthesis of other secondary metabolites,0.33360977112827916,0,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-6475,Metabolism of terpenoids and polyketides,0.9977241391043666,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-5320,Biosynthesis of other secondary metabolites,0.9959876936289325,1,Metabolism of terpenoids and polyketides,False
+AraCyc::PWY-6351,Glycan biosynthesis and metabolism,0.008880532516873112,0,Carbohydrate metabolism,False
+AraCyc::PWY-6369,Glycan biosynthesis and metabolism,0.02010911134306391,0,Carbohydrate metabolism,False
+AraCyc::GLUCONEO-PWY,Carbohydrate metabolism,0.9719047199256897,1,Energy metabolism,False
+AraCyc::PWY-621,Carbohydrate metabolism,0.9980803084557933,1,Carbohydrate metabolism,True
+AraCyc::PWY-8321,Biosynthesis of other secondary metabolites,0.1831468094943713,0,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-7208,Nucleotide metabolism,0.998994907871334,1,Nucleotide metabolism,True
+AraCyc::PWY-6549,Energy metabolism,0.9997760417101539,1,Carbohydrate metabolism,False
+AraCyc::PWY-5366,Lipid metabolism,0.004561722772992942,0,Lipid metabolism,False
+AraCyc::PWY66-21,Carbohydrate metabolism,0.9997785903008994,1,Carbohydrate metabolism,True
+AraCyc::HOMOSERSYN-PWY,Amino acid metabolism,0.9997384037185343,1,Amino acid metabolism,True
+AraCyc::ALANINE-DEG3-PWY,Amino acid metabolism,0.9096449477103454,1,Amino acid metabolism,True
+AraCyc::VALSYN-PWY,Amino acid metabolism,0.9998098021310824,1,Metabolism of cofactors and vitamins,False
+AraCyc::GLUCOSE1PMETAB-PWY,Carbohydrate metabolism,0.9978415874340558,1,Carbohydrate metabolism,True
+AraCyc::PWY-7048,Carbohydrate metabolism,0.9998439900693162,1,Carbohydrate metabolism,True
+AraCyc::PWY-5004,Amino acid metabolism,0.9998697082983216,1,Amino acid metabolism,True
+AraCyc::ILEUSYN-PWY,Amino acid metabolism,0.9991218937455735,1,Metabolism of cofactors and vitamins,False
+AraCyc::UDPNACETYLGALSYN-PWY,Carbohydrate metabolism,0.99944601945704,1,Carbohydrate metabolism,True
+AraCyc::PWY-7120,Lipid metabolism,0.13291526408140866,0,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-8475,Metabolism of other amino acids,0.9762056048685658,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-7047,Carbohydrate metabolism,0.9996881064132671,1,Carbohydrate metabolism,True
+AraCyc::PWY-4361,Metabolism of other amino acids,0.9994780572823617,1,Amino acid metabolism,False
+AraCyc::PWY-7980,Energy metabolism,0.9993841993447484,1,Energy metabolism,True
+AraCyc::PWY-6922,Amino acid metabolism,0.9638885244347337,1,Amino acid metabolism,True
+AraCyc::PWY-1722,Metabolism of cofactors and vitamins,0.9992917013289101,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY66-385,Nucleotide metabolism,0.999899211561411,1,Metabolism of cofactors and vitamins,False
+AraCyc::GLYCLEAV-PWY,Amino acid metabolism,0.9995684462785785,1,Amino acid metabolism,True
+AraCyc::PWY-6367,Glycan biosynthesis and metabolism,0.9854975870025219,1,Lipid metabolism,False
+AraCyc::PWY-4321,Amino acid metabolism,0.9965690739341385,1,Metabolism of other amino acids,False
+AraCyc::PWY-7193,Nucleotide metabolism,0.9969611152079185,1,Nucleotide metabolism,True
+AraCyc::PWY-8024,Biosynthesis of other secondary metabolites,0.9715660126315152,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-5484,Carbohydrate metabolism,0.998785204754966,1,Carbohydrate metabolism,True
+AraCyc::PWY-699,Metabolism of terpenoids and polyketides,0.9989867516785673,1,Metabolism of terpenoids and polyketides,True
+AraCyc::ASPARAGINE-DEG1-PWY,Amino acid metabolism,0.9805886202786163,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-5044,Nucleotide metabolism,0.999826162175244,1,Nucleotide metabolism,True
+AraCyc::PWY-5963,Metabolism of cofactors and vitamins,0.9954666347022757,1,Carbohydrate metabolism,False
+AraCyc::METHIONINE-DEG1-PWY,Amino acid metabolism,0.9992029403226538,1,Amino acid metabolism,True
+AraCyc::PWY-1121,Lipid metabolism,0.9995720524798338,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-7140,Biosynthesis of other secondary metabolites,0.9968764738802194,1,Metabolism of terpenoids and polyketides,False
+AraCyc::PWY-8279,Lipid metabolism,0.6710867017226378,1,Lipid metabolism,True
+AraCyc::PWY-5083,Nucleotide metabolism,0.990537879035553,1,Energy metabolism,False
+AraCyc::PWY-6163,Amino acid metabolism,0.9996178290023038,1,Amino acid metabolism,True
+AraCyc::ARO-PWY,Amino acid metabolism,0.999611143275343,1,Amino acid metabolism,True
+AraCyc::PENTOSE-P-PWY,Carbohydrate metabolism,0.9998901730974094,1,Carbohydrate metabolism,True
+AraCyc::PWY-6908,Metabolism of cofactors and vitamins,0.9930538555384445,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-5267,Biosynthesis of other secondary metabolites,0.9880225068077714,1,Amino acid metabolism,False
+AraCyc::TRPSYN-PWY,Amino acid metabolism,0.9998710578263529,1,Amino acid metabolism,True
+AraCyc::PWY-724,Amino acid metabolism,0.9999304169021466,1,Amino acid metabolism,True
+AraCyc::PWY-6927,Metabolism of cofactors and vitamins,0.9964014087244757,1,Lipid metabolism,False
+AraCyc::PWY-5203,Metabolism of terpenoids and polyketides,0.9853336296831777,1,Metabolism of terpenoids and polyketides,True
+AraCyc::LEU-DEG2-PWY,Amino acid metabolism,0.9952551986150987,1,Metabolism of cofactors and vitamins,False
+AraCyc::OXIDATIVEPENT-PWY,Carbohydrate metabolism,0.9992982578744265,1,Carbohydrate metabolism,True
+AraCyc::PWY-6754,Metabolism of other amino acids,0.9986426978477252,1,Amino acid metabolism,False
+AraCyc::PWY-7560,Metabolism of terpenoids and polyketides,0.9997787840869122,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-4765,Glycan biosynthesis and metabolism,0.9778028015146802,1,Carbohydrate metabolism,False
+AraCyc::PWY-5918,Metabolism of cofactors and vitamins,0.9991052776500274,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-5156,Lipid metabolism,0.995868790111458,1,Lipid metabolism,True
+AraCyc::VALDEG-PWY,Amino acid metabolism,0.99954339800036,1,Metabolism of other amino acids,False
+AraCyc::PWY-6117,Metabolism of other amino acids,0.7139789618697123,1,Metabolism of other amino acids,True
+AraCyc::PWY66-367,Carbohydrate metabolism,0.9983436910908275,1,Carbohydrate metabolism,True
+AraCyc::PWYQT-4477,Biosynthesis of other secondary metabolites,0.9992545574019224,1,Biosynthesis of other secondary metabolites,True
+AraCyc::PWY-5837,Metabolism of cofactors and vitamins,0.9367407375185178,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY0-1507,Metabolism of cofactors and vitamins,0.9190159892281939,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-102,Metabolism of terpenoids and polyketides,0.542813983140984,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-2161,Metabolism of cofactors and vitamins,0.9997844145552128,1,Amino acid metabolism,False
+AraCyc::PWY0-162,Nucleotide metabolism,0.9950692912163865,1,Nucleotide metabolism,True
+AraCyc::PWY-6613,Metabolism of cofactors and vitamins,0.9991581552932567,1,Nucleotide metabolism,False
+AraCyc::PWY-7851,Metabolism of cofactors and vitamins,0.9996785829942534,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-7036,Lipid metabolism,0.995228479056579,1,Amino acid metabolism,False
+AraCyc::PWY0-662,Nucleotide metabolism,0.9988066629495546,1,Carbohydrate metabolism,False
+AraCyc::PWY-6014,Lipid metabolism,0.9892788240507173,1,Lipid metabolism,True
+AraCyc::COMPLETE-ARO-ARA-PWY,Amino acid metabolism,0.9998325215866035,1,Amino acid metabolism,True
+AraCyc::PWY-4661,Glycan biosynthesis and metabolism,0.9889816814917182,1,Carbohydrate metabolism,False
+AraCyc::THISYNARA-PWY,Metabolism of cofactors and vitamins,0.9995607166981202,1,Metabolism of cofactors and vitamins,True
+AraCyc::PWY-7388,Lipid metabolism,0.9939691459336611,1,Lipid metabolism,True
+AraCyc::PWY-5041,Metabolism of other amino acids,0.9997325990110955,1,Metabolism of other amino acids,True
+AraCyc::PWY-6745,Metabolism of other amino acids,0.9884558539511986,1,Metabolism of other amino acids,True
+AraCyc::PWY-4821,Carbohydrate metabolism,0.9977109321251716,1,Carbohydrate metabolism,True
+AraCyc::DTDPRHAMSYN-PWY,Carbohydrate metabolism,0.9977991454390402,1,Carbohydrate metabolism,True
+AraCyc::PWY-6115,Metabolism of terpenoids and polyketides,0.515955248629958,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-5381,Nucleotide metabolism,0.9995201474444922,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-2541,Metabolism of terpenoids and polyketides,0.7036712576508392,1,Lipid metabolism,False
+AraCyc::PWY-5120,Metabolism of terpenoids and polyketides,0.9978230349149121,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-5859,Biosynthesis of other secondary metabolites,0.598424237698845,1,Carbohydrate metabolism,False
+AraCyc::PWY-702,Amino acid metabolism,0.999381497012391,1,Metabolism of other amino acids,False
+AraCyc::PWY-6936,Metabolism of other amino acids,0.9912908830491076,1,Energy metabolism,False
+AraCyc::PWY-6803,Lipid metabolism,0.9535779014309117,1,Lipid metabolism,True
+AraCyc::PWY-3781,Energy metabolism,0.9624632533003864,1,Carbohydrate metabolism,False
+AraCyc::PWY3O-4107,Nucleotide metabolism,0.9127618860933424,1,Metabolism of cofactors and vitamins,False
+AraCyc::PWY-5690,Carbohydrate metabolism,0.9996757888046751,1,Carbohydrate metabolism,True
+AraCyc::PWY-7176,Nucleotide metabolism,0.977961795041524,1,Nucleotide metabolism,True
+AraCyc::PHOTOALL-PWY,Energy metabolism,0.9998918734000465,1,Carbohydrate metabolism,False
+AraCyc::ARGSYN-PWY,Amino acid metabolism,0.9812674720696619,1,Amino acid metabolism,True
+AraCyc::PWY-882,Carbohydrate metabolism,0.9117639142333471,1,Glycan biosynthesis and metabolism,False
+AraCyc::PWY-5973,Lipid metabolism,0.27766455866141293,0,Lipid metabolism,False
+AraCyc::NONOXIPENT-PWY,Carbohydrate metabolism,0.9999042596074919,1,Carbohydrate metabolism,True
+AraCyc::PWY18C3-22,Biosynthesis of other secondary metabolites,0.06185910921571281,0,Lipid metabolism,False
+AraCyc::PWY-7238,Carbohydrate metabolism,0.9993518652869778,1,Carbohydrate metabolism,True
+AraCyc::PWY-8142,Carbohydrate metabolism,0.996464290941635,1,Carbohydrate metabolism,True
+AraCyc::PWY-5971,Lipid metabolism,0.7951306774296206,1,Lipid metabolism,True
+AraCyc::PWY0-1182,Carbohydrate metabolism,0.9904013061757759,1,Carbohydrate metabolism,True
+AraCyc::PWY-7039,Lipid metabolism,0.9339748938495638,1,Lipid metabolism,True
+AraCyc::PWY-6717,Glycan biosynthesis and metabolism,0.9993828625392915,1,Metabolism of other amino acids,False
+AraCyc::GLYSYN-ALA-PWY,Amino acid metabolism,0.9995459980790505,1,Amino acid metabolism,True
+AraCyc::PWY-5027,Metabolism of cofactors and vitamins,0.9956360461856955,1,Metabolism of cofactors and vitamins,True
+AraCyc::PYRUVDEHYD-PWY,Carbohydrate metabolism,0.9996295424359001,1,Carbohydrate metabolism,True
+AraCyc::PWY-3801,Carbohydrate metabolism,0.9996967000781357,1,Glycan biosynthesis and metabolism,False
+AraCyc::PWY-561,Carbohydrate metabolism,0.9886847088970908,1,Carbohydrate metabolism,True
+AraCyc::PWY66-430,Lipid metabolism,0.19525543799194006,0,Lipid metabolism,False
+AraCyc::PWY-6663,Metabolism of terpenoids and polyketides,0.12952132283581827,0,Lipid metabolism,False
+AraCyc::PWY-7221,Nucleotide metabolism,0.9989391038093639,1,Nucleotide metabolism,True
+AraCyc::PWY-3001,Amino acid metabolism,0.9997997298672603,1,Metabolism of cofactors and vitamins,False
+AraCyc::MANNOSYL-CHITO-DOLICHOL-BIOSYNTHESIS,Glycan biosynthesis and metabolism,0.9948472280186355,1,Glycan biosynthesis and metabolism,True
+AraCyc::PWY-4221ARA,Metabolism of cofactors and vitamins,0.9987465853067653,1,Metabolism of cofactors and vitamins,True
+AraCyc::ASPARTATESYN-PWY,Amino acid metabolism,0.9996996600968648,1,Biosynthesis of other secondary metabolites,False
+AraCyc::PWY-7450,Biosynthesis of other secondary metabolites,0.935894268833925,1,Carbohydrate metabolism,False
+AraCyc::PWY-5084,Carbohydrate metabolism,0.9997796967169882,1,Amino acid metabolism,False
+AraCyc::PWY-2681,Metabolism of terpenoids and polyketides,0.9882239375734752,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-7546,Metabolism of cofactors and vitamins,0.021530178182647377,0,Carbohydrate metabolism,False
+AraCyc::PWY-5386-1,Carbohydrate metabolism,0.9962546857723243,1,Carbohydrate metabolism,True
+AraCyc::PWY-6544,Metabolism of terpenoids and polyketides,0.9989867516785673,1,Metabolism of terpenoids and polyketides,True
+AraCyc::PWY-4081,Metabolism of other amino acids,0.9998844174735321,1,Lipid metabolism,False
+AraCyc::PWY-181,Energy metabolism,0.9998543138613518,1,Amino acid metabolism,False
+AraCyc::PWY-6952,Lipid metabolism,0.9806537113161904,1,Lipid metabolism,True

@@ -1,0 +1,82 @@
+{
+  "implementation": "gene_set_seed_v2",
+  "point": {
+    "endpoint_version": "closed_catalog_v2",
+    "output_families": [
+      "Amino acid metabolism",
+      "Biosynthesis of other secondary metabolites",
+      "Carbohydrate metabolism",
+      "Energy metabolism",
+      "Glycan biosynthesis and metabolism",
+      "Lipid metabolism",
+      "Metabolism of cofactors and vitamins",
+      "Metabolism of other amino acids",
+      "Metabolism of terpenoids and polyketides",
+      "Nucleotide metabolism"
+    ],
+    "stage1_test_n": 170,
+    "stage2_test_n": 84,
+    "stage1_auroc": 0.8932871972318339,
+    "stage1_auprc": 0.8623086600734697,
+    "stage1_balanced_accuracy": 0.8294117647058823,
+    "stage2_accuracy": 0.7976190476190477,
+    "stage2_balanced_accuracy": 0.7996825396825397,
+    "stage2_macro_f1": 0.7710172490048651,
+    "stage2_weighted_f1": 0.7961946181981564,
+    "end_to_end_n": 169,
+    "end_to_end_excluded_n": 1,
+    "end_to_end_accuracy": 0.7337278106508875,
+    "end_to_end_macro_f1": 0.6608455204220279,
+    "end_to_end_weighted_f1": 0.7418921408260105
+  },
+  "ci95": {
+    "stage2_accuracy": {
+      "low": 0.7051282051282052,
+      "high": 0.88,
+      "n_successful": 2000
+    },
+    "stage2_balanced_accuracy": {
+      "low": 0.6957740864843267,
+      "high": 0.8943711361737676,
+      "n_successful": 2000
+    },
+    "stage2_macro_f1": {
+      "low": 0.6223622235177962,
+      "high": 0.8588246784111722,
+      "n_successful": 2000
+    },
+    "stage2_weighted_f1": {
+      "low": 0.701419665166546,
+      "high": 0.8794713605632415,
+      "n_successful": 2000
+    },
+    "stage1_auroc": {
+      "low": 0.8428144715692184,
+      "high": 0.9380393000573723,
+      "n_successful": 2000
+    },
+    "stage1_auprc": {
+      "low": 0.778364865424067,
+      "high": 0.9339694525130272,
+      "n_successful": 2000
+    },
+    "end_to_end_accuracy": {
+      "low": 0.6686046511627907,
+      "high": 0.7988165680473372,
+      "n_successful": 2000
+    },
+    "end_to_end_macro_f1": {
+      "low": 0.541812281153836,
+      "high": 0.737150419484301,
+      "n_successful": 2000
+    },
+    "end_to_end_weighted_f1": {
+      "low": 0.677367097856176,
+      "high": 0.8074714095657719,
+      "n_successful": 2000
+    }
+  },
+  "n_resamples": 2000,
+  "seed": 42,
+  "unit": "similarity_group"
+}

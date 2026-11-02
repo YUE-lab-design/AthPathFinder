@@ -1,0 +1,513 @@
+sample_id,label,true_family,stage1_score,stage1_pred,stage2_pred,end_to_end_pred,tag,outer_fold
+canonical::1::2cc171eec006,1,Carbohydrate metabolism,0.9859551480878683,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::223d9ac659a9,1,Lipid metabolism,0.5920361770576545,1,Lipid metabolism,Lipid metabolism,outer_fold_1,1
+canonical::1::d9d647efd21e,1,Energy metabolism,0.24884516265101714,1,Energy metabolism,Energy metabolism,outer_fold_1,1
+canonical::1::e8a14f0c4935,1,Energy metabolism,0.2284133799169953,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::9c6e2c2e558a,1,Amino acid metabolism,0.8284432821094008,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_1,1
+canonical::1::b51c599414bf,1,Amino acid metabolism,0.08932013819620038,0,Amino acid metabolism,Non-metabolic,outer_fold_1,1
+canonical::1::1851d9bbb51d,1,Metabolism of other amino acids,0.9107624501593093,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::5e55e9bd7153,1,Metabolism of other amino acids,0.25313604563819847,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::15b60372572b,1,Carbohydrate metabolism,0.9318973765150493,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_1,1
+canonical::1::86a1c2dd9f46,1,Glycan biosynthesis and metabolism,0.07443258537169284,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::1::d429a0ac0178,1,Lipid metabolism,0.38261154793234065,1,Lipid metabolism,Lipid metabolism,outer_fold_1,1
+canonical::1::cdf6b34a1907,1,Lipid metabolism,0.005512989698709506,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+canonical::1::48058d9ec29f,1,Carbohydrate metabolism,0.7757182279392344,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::7b361f4dcc88,1,Carbohydrate metabolism,0.8753598838483306,1,Amino acid metabolism,Amino acid metabolism,outer_fold_1,1
+canonical::1::6b74744785a9,1,Metabolism of cofactors and vitamins,0.7243772965477525,1,Nucleotide metabolism,Nucleotide metabolism,outer_fold_1,1
+canonical::1::60fc3e6d382b,1,Metabolism of cofactors and vitamins,0.3851693447548783,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::93bb2ddb54a7,1,Metabolism of terpenoids and polyketides,0.40426970263652934,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::1::4229c31617f7,1,Energy metabolism,0.7517461005117055,1,Energy metabolism,Energy metabolism,outer_fold_1,1
+canonical::1::f5bef1c2f04e,1,Biosynthesis of other secondary metabolites,0.9211577454969201,1,Amino acid metabolism,Amino acid metabolism,outer_fold_1,1
+canonical::1::7190f1902dfc,1,Lipid metabolism,0.9845655353387639,1,Lipid metabolism,Lipid metabolism,outer_fold_1,1
+canonical::0::ddf168d2b70b,0,Rice curated non-metabolic,0.3987448804389222,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_1,1
+canonical::0::a66804fc2c70,0,Rice curated non-metabolic,0.003643237175160676,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::9859cba50574,0,Rice curated non-metabolic,0.04369691498889926,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::527462fb5194,0,Rice curated non-metabolic,0.008456347057450311,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::6c8fc4f90300,0,Rice curated non-metabolic,0.0164582112224902,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::cb57e576199a,0,Rice curated non-metabolic,0.6503543569525793,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+canonical::0::e04c3c771ff1,0,Rice curated non-metabolic,0.08292142046324247,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::50555991e489,0,Rice curated non-metabolic,0.002025894038126721,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::567748ba37ba,0,Rice curated non-metabolic,0.001067483019769687,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::b564f5127c4c,0,Rice curated non-metabolic,0.03612966818304911,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::0::30427c085cca,0,Rice curated non-metabolic,0.07452868319362928,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0005,0,Control,0.0005071555935047445,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0014,0,Control,0.001485677400041952,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0020,0,Control,0.0004537575300604744,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0021,0,Control,0.0005206703812052287,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0029,0,Control,0.0006096039296045861,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0034,0,Control,0.0008081699025130602,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0039,0,Control,0.0006181014932352314,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0045,0,Control,0.0007933406340891228,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0050,0,Control,0.0005314702764333299,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::random_gene_set::0056,0,Control,0.0007959191798892322,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0002,0,Control,0.010337570424686702,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0005,0,Control,0.008682091747955872,0,Energy metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0008,0,Control,0.006856006286204277,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0013,0,Control,0.002063762377290788,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0018,0,Control,0.0049893075336129855,0,Metabolism of other amino acids,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0024,0,Control,0.0028183953470056486,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0027,0,Control,0.0017053335704200964,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0032,0,Control,0.0035463219631620404,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0037,0,Control,0.001072563312617298,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0043,0,Control,0.0043645271168728855,0,Amino acid metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0050,0,Control,0.0021937022346232527,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0051,0,Control,0.001139372808334506,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0056,0,Control,0.001754056417531442,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::shuffled_pathway::0057,0,Control,0.0016183190562212364,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0003,0,Control,0.11817800551165644,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0008,0,Control,0.2919581586613593,1,Lipid metabolism,Lipid metabolism,outer_fold_1,1
+grouped_360::partial_pathway::0013,0,Control,0.3035369924288137,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_1,1
+grouped_360::partial_pathway::0018,0,Control,0.02447536164086912,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0023,0,Control,0.9120616898886006,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_1,1
+grouped_360::partial_pathway::0028,0,Control,0.033540678670952465,0,Metabolism of other amino acids,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0033,0,Control,0.22615685256175597,1,Energy metabolism,Energy metabolism,outer_fold_1,1
+grouped_360::partial_pathway::0038,0,Control,0.22029699890346627,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+grouped_360::partial_pathway::0043,0,Control,0.011239436255004039,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0048,0,Control,0.0835937807689142,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::partial_pathway::0053,0,Control,0.17170244196722248,1,Amino acid metabolism,Amino acid metabolism,outer_fold_1,1
+grouped_360::partial_pathway::0060,0,Control,0.9392905436450308,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0008,0,Control,0.15782097318580432,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0009,0,Control,0.003333491712776861,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0014,0,Control,0.9813001214572316,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0016,0,Control,0.3241289153400126,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0022,0,Control,0.2754394606067536,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0028,0,Control,0.14865781452086355,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0034,0,Control,0.8873773379031507,1,Amino acid metabolism,Amino acid metabolism,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0039,0,Control,0.14636415394871918,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0043,0,Control,0.8105360253729009,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0050,0,Control,0.0019972767938903927,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::cross_pathway_mixture::0056,0,Control,0.06266581564385626,0,Lipid metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0003,0,Control,0.015617523298790565,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0004,0,Control,0.007677079377222291,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0010,0,Control,0.009193916701215171,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0015,0,Control,0.007460752539546444,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0020,0,Control,0.11089241328165107,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0025,0,Control,0.0802310329061128,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0028,0,Control,0.0018894711176927054,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0031,0,Control,0.011062484150718255,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0038,0,Control,0.014163824747441319,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0047,0,Control,0.004337899802373655,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::go_coherent_control::0055,0,Control,0.25129606791312586,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_1,1
+grouped_360::go_coherent_control::0060,0,Control,0.0009192328084534123,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0002,0,Control,0.006909017807667612,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0007,0,Control,0.0002344579690888589,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0013,0,Control,0.0012778704661177153,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0014,0,Control,0.0005496401395692367,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0019,0,Control,0.006795159580897038,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0026,0,Control,0.0012416863938454138,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0032,0,Control,0.004237920793393493,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0037,0,Control,0.0004210132861671834,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0042,0,Control,0.005904998971092859,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0049,0,Control,0.0004242995005846867,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+grouped_360::annotation_sparse_control::0056,0,Control,0.00023756725225146784,0,Carbohydrate metabolism,Non-metabolic,outer_fold_1,1
+canonical::1::e3cea293e350,1,Lipid metabolism,0.9816044467866242,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+canonical::1::e14c005c977e,1,Energy metabolism,0.8215695441076222,1,Energy metabolism,Energy metabolism,outer_fold_2,2
+canonical::1::84a164d69fee,1,Amino acid metabolism,0.9345705356852038,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+canonical::1::1f65595d33b8,1,Amino acid metabolism,0.9917761585875065,1,Energy metabolism,Energy metabolism,outer_fold_2,2
+canonical::1::58e82a681765,1,Amino acid metabolism,0.08856113658039676,0,Amino acid metabolism,Non-metabolic,outer_fold_2,2
+canonical::1::343f0a4ba1ba,1,Amino acid metabolism,0.9888750850129353,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_2,2
+canonical::1::810912a8adc4,1,Metabolism of other amino acids,0.627506116864112,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+canonical::1::59860dcafa95,1,Glycan biosynthesis and metabolism,0.7601945599461934,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_2,2
+canonical::1::e66909272fcb,1,Glycan biosynthesis and metabolism,0.08875633409387135,0,Energy metabolism,Non-metabolic,outer_fold_2,2
+canonical::1::5052275ec3ca,1,Carbohydrate metabolism,0.3626160997964761,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+canonical::1::15aff7fddfa5,1,Carbohydrate metabolism,0.8718505878637605,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+canonical::1::0669b911a444,1,Metabolism of cofactors and vitamins,0.7365646194635069,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+canonical::1::1c4bc23d44ae,1,Metabolism of cofactors and vitamins,0.9679587285693687,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+canonical::1::ef80bb15151e,1,Metabolism of cofactors and vitamins,0.06395834536235079,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_2,2
+canonical::1::22dccc91202c,1,Metabolism of terpenoids and polyketides,0.8207170847334947,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+canonical::1::8f5a2b6fdaca,1,Metabolism of terpenoids and polyketides,0.7529123422952488,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+canonical::1::cb6fa1d6adca,1,Biosynthesis of other secondary metabolites,0.953859509473956,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_2,2
+canonical::1::8588c765daaa,1,Biosynthesis of other secondary metabolites,0.8626321238332031,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_2,2
+canonical::1::62b7c0a35dce,1,Amino acid metabolism,0.7922935568816817,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+canonical::0::b979f9e52dfa,0,Rice curated non-metabolic,0.7668184079316488,1,Nucleotide metabolism,Nucleotide metabolism,outer_fold_2,2
+canonical::0::e51fb730654b,0,Rice curated non-metabolic,0.007727222537265393,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::12bd52d8e196,0,Rice curated non-metabolic,0.015022466955486766,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::330c4b99a116,0,Rice curated non-metabolic,0.008360509931133875,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::cb9a74211c34,0,Rice curated non-metabolic,0.0019184718732281642,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::9de06450a354,0,Rice curated non-metabolic,0.04180991092431471,0,Amino acid metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::7d2fbede1206,0,Rice curated non-metabolic,0.025217579782848883,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::0a6158340bfb,0,Rice curated non-metabolic,0.002579107551113488,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::dca8fa6fbb34,0,Rice curated non-metabolic,0.060682297003381215,0,Lipid metabolism,Non-metabolic,outer_fold_2,2
+canonical::0::dc08019abfa5,0,Rice curated non-metabolic,0.8263766941072493,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_2,2
+canonical::0::1cdf01032ad1,0,Rice curated non-metabolic,0.09770851019687984,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0007,0,Control,0.0009182032434972122,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0015,0,Control,0.000227430924622021,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0016,0,Control,0.0009831741061427238,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0022,0,Control,0.0005665840833493023,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0023,0,Control,0.0005184063429378719,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0030,0,Control,0.0008276677649915773,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0035,0,Control,0.000332632397878237,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0040,0,Control,0.00024543814562253584,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0046,0,Control,0.0014188406345722298,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0051,0,Control,0.0004967985680675892,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0057,0,Control,0.004167920699839652,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::random_gene_set::0059,0,Control,0.0007264988682695873,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0006,0,Control,0.0011313113830214855,0,Lipid metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0011,0,Control,0.002172926424079058,0,Metabolism of other amino acids,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0016,0,Control,0.0015655462217468927,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0022,0,Control,0.0026999215571297803,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0028,0,Control,0.07890685403197917,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0031,0,Control,0.0020138796584526983,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0035,0,Control,0.003220611662417534,0,Lipid metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0040,0,Control,0.0005001665182636412,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0041,0,Control,0.0011648169013947706,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0047,0,Control,0.006674567238559343,0,Lipid metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0053,0,Control,0.016714647322198857,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_2,2
+grouped_360::shuffled_pathway::0059,0,Control,0.0011236058789328642,0,Metabolism of other amino acids,Non-metabolic,outer_fold_2,2
+grouped_360::partial_pathway::0005,0,Control,0.14616541133886093,0,Energy metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::partial_pathway::0010,0,Control,0.49638161958148536,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0015,0,Control,0.3876932703322055,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0020,0,Control,0.014046981262054831,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::partial_pathway::0025,0,Control,0.26131735947646845,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0030,0,Control,0.8667873882778735,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0035,0,Control,0.44085076411251417,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_2,2
+grouped_360::partial_pathway::0040,0,Control,0.5545081049036467,1,Energy metabolism,Energy metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0045,0,Control,0.2992713696748415,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0050,0,Control,0.9011876824171894,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+grouped_360::partial_pathway::0055,0,Control,0.8344909083927747,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0001,0,Control,0.8052003179936998,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0003,0,Control,0.848608640855005,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0011,0,Control,0.0026617906223794837,0,Energy metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0018,0,Control,0.45508058196467677,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0024,0,Control,0.02621389549214678,0,Metabolism of other amino acids,Non-metabolic,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0027,0,Control,0.9791495122292603,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0031,0,Control,0.8947647682872402,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0037,0,Control,0.3925639518225372,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0040,0,Control,0.5066036471962188,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0045,0,Control,0.34401402581877955,1,Amino acid metabolism,Amino acid metabolism,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0047,0,Control,0.5440316891976728,1,Lipid metabolism,Lipid metabolism,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0052,0,Control,0.8311503047541401,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_2,2
+grouped_360::cross_pathway_mixture::0058,0,Control,0.018678340861975052,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0006,0,Control,0.016783470297873974,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0007,0,Control,0.14967204890431599,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0012,0,Control,0.47670629215313154,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_2,2
+grouped_360::go_coherent_control::0017,0,Control,0.0029689589404989594,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0022,0,Control,0.003243450994659629,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0027,0,Control,0.04337158379685723,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0033,0,Control,0.004219760690709805,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0040,0,Control,0.005501700522463242,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0042,0,Control,0.0041052313346056956,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0045,0,Control,0.010883932297572427,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0049,0,Control,0.004640885323744785,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0057,0,Control,0.04048866018890443,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::go_coherent_control::0058,0,Control,0.04281296927677554,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0004,0,Control,0.005961817863248909,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0009,0,Control,0.00043176416307979496,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0016,0,Control,0.0019693188894757763,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0021,0,Control,0.00025487639317084464,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0022,0,Control,0.0004316712601699366,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0029,0,Control,0.00636845579874505,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0034,0,Control,0.0023338114880301587,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0039,0,Control,0.0006503491321192238,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0045,0,Control,0.0014642558505616446,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0046,0,Control,0.0010051934831309874,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0051,0,Control,0.0010275171663880677,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0053,0,Control,0.001997908683792998,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+grouped_360::annotation_sparse_control::0058,0,Control,0.003540384942898413,0,Carbohydrate metabolism,Non-metabolic,outer_fold_2,2
+canonical::1::c64a8301f270,1,Carbohydrate metabolism,0.951877933083715,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::1::8d8285152429,1,Carbohydrate metabolism,0.9546554092725751,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::1::6465db4be606,1,Lipid metabolism,0.3971336351452333,1,Lipid metabolism,Lipid metabolism,outer_fold_3,3
+canonical::1::ffdb9f8ee3aa,1,Amino acid metabolism,0.748724475481405,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+canonical::1::7ae86f7045de,1,Biosynthesis of other secondary metabolites,0.897204439902048,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+canonical::1::392140652c5c,1,Amino acid metabolism,0.14846972828225882,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::1::283c3293ae68,1,Amino acid metabolism,0.7080545038916689,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_3,3
+canonical::1::72a8d809dafa,1,Metabolism of other amino acids,0.07844289482611147,1,Energy metabolism,Energy metabolism,outer_fold_3,3
+canonical::1::8bd982043bd5,1,Metabolism of other amino acids,0.25578045510478326,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_3,3
+canonical::1::31816ce8852f,1,Glycan biosynthesis and metabolism,0.004287787994522949,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::1::1709d806d496,1,Lipid metabolism,0.7564536103582991,1,Lipid metabolism,Lipid metabolism,outer_fold_3,3
+canonical::1::2c38084eeb25,1,Lipid metabolism,0.24622100349822787,1,Lipid metabolism,Lipid metabolism,outer_fold_3,3
+canonical::1::81baf0414439,1,Lipid metabolism,0.6297116475812501,1,Lipid metabolism,Lipid metabolism,outer_fold_3,3
+canonical::1::5b021a9aa3c3,1,Glycan biosynthesis and metabolism,0.5137567298216759,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_3,3
+canonical::1::9e24143ca7f3,1,Metabolism of cofactors and vitamins,0.5870292600270072,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+canonical::1::376915313664,1,Metabolism of cofactors and vitamins,0.1993503591103202,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_3,3
+canonical::1::a65fc024e1fa,1,Metabolism of terpenoids and polyketides,0.7269302963790985,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::1::67119d006a0b,1,Metabolism of terpenoids and polyketides,0.7388558523561028,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::1::81d014de6e7c,1,Biosynthesis of other secondary metabolites,0.9059115064190535,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_3,3
+canonical::1::019dc7bbcc1f,1,Lipid metabolism,0.9417875008083262,1,Lipid metabolism,Lipid metabolism,outer_fold_3,3
+canonical::1::5f45a5c0933d,1,Metabolism of cofactors and vitamins,0.41035057571668554,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::0::35b0e301fc28,0,Rice curated non-metabolic,0.19937128305676166,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::0::13989ff8d754,0,Rice curated non-metabolic,0.03757258841805976,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::0::3186adb3eb6a,0,Rice curated non-metabolic,0.002058265042071513,0,Amino acid metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::5c819cce3177,0,Rice curated non-metabolic,0.0021344240244199394,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::e3930029e878,0,Rice curated non-metabolic,0.009034063253327512,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::d0fd860bf8d1,0,Rice curated non-metabolic,0.2211644545076074,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+canonical::0::24403ad13f38,0,Rice curated non-metabolic,0.02636956817309241,0,Energy metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::e4ebaa9e2554,0,Rice curated non-metabolic,0.011819390016256662,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::d2d299274ad7,0,Rice curated non-metabolic,0.0010418079951549613,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::0::71df41dd9a3c,0,Rice curated non-metabolic,0.012048650089872888,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0001,0,Control,0.0007831530829993157,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0006,0,Control,0.0006722975364355773,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0009,0,Control,0.0007592913695523261,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0017,0,Control,0.0010280741817143362,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0025,0,Control,0.0003036971943163518,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0027,0,Control,0.0042228122330302716,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0031,0,Control,0.0003726683506575486,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0036,0,Control,0.0006424206209350766,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0041,0,Control,0.000402235883002326,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0047,0,Control,0.011215382095872114,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0052,0,Control,0.0002598553433085059,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::random_gene_set::0058,0,Control,0.0005074331115543655,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0003,0,Control,0.008337784817698271,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0009,0,Control,0.004654695823669768,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0014,0,Control,0.001731014980305677,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0019,0,Control,0.004561895792046546,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0025,0,Control,0.000834572169139672,0,Lipid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0029,0,Control,0.004298345246715086,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0033,0,Control,0.0021378668055902325,0,Metabolism of other amino acids,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0038,0,Control,0.003229441337131627,0,Amino acid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0044,0,Control,0.0020045717679901282,0,Lipid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0048,0,Control,0.0011815608756011828,0,Energy metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0054,0,Control,0.0011922829164184535,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_3,3
+grouped_360::shuffled_pathway::0060,0,Control,0.0012944609625151714,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_3,3
+grouped_360::partial_pathway::0001,0,Control,0.20925720204826728,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0006,0,Control,0.03346697422834721,0,Lipid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::partial_pathway::0011,0,Control,0.11447013196362761,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0016,0,Control,0.10739841588335321,1,Energy metabolism,Energy metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0021,0,Control,0.6792595232298555,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0026,0,Control,0.7214290319482826,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_3,3
+grouped_360::partial_pathway::0031,0,Control,0.903087955983764,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0036,0,Control,0.20885258900816994,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_3,3
+grouped_360::partial_pathway::0041,0,Control,0.7803628434775823,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0046,0,Control,0.9045850114673462,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::partial_pathway::0051,0,Control,0.3436800672848907,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_3,3
+grouped_360::partial_pathway::0056,0,Control,0.010678782763067801,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0004,0,Control,0.7417241182544967,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0007,0,Control,0.04457099626243398,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0012,0,Control,0.022336007356041125,0,Glycan biosynthesis and metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0015,0,Control,0.0013618175965003964,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0019,0,Control,0.0014478836027316778,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0025,0,Control,0.04427105830773496,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0032,0,Control,0.07416753572478348,1,Amino acid metabolism,Amino acid metabolism,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0038,0,Control,0.1999951640850342,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0041,0,Control,0.09493568534731081,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0048,0,Control,0.0019637202758108585,0,Lipid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0053,0,Control,0.7164228811303686,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_3,3
+grouped_360::cross_pathway_mixture::0060,0,Control,0.01589361784307513,0,Lipid metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0002,0,Control,0.007655468818302657,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0008,0,Control,0.009603538920508758,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0013,0,Control,0.02625127582107814,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0018,0,Control,0.0035262937627200063,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0023,0,Control,0.0615327408353338,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::go_coherent_control::0029,0,Control,0.0011121944873326323,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0034,0,Control,0.0012586517380449177,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0037,0,Control,0.18310583795682703,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::go_coherent_control::0044,0,Control,0.0009485123945318238,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0052,0,Control,0.0037565722648417086,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0054,0,Control,0.008339107469465765,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::go_coherent_control::0059,0,Control,0.06071307250827466,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_3,3
+grouped_360::annotation_sparse_control::0005,0,Control,0.0009071490979831406,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0010,0,Control,0.011880674578247902,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0017,0,Control,0.0025360755138048503,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0024,0,Control,0.0005540460945332544,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0027,0,Control,0.0005061084490840956,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0030,0,Control,0.0008289238107363479,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0035,0,Control,0.0025387530279049973,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0040,0,Control,0.0008173922791054045,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0047,0,Control,0.000510633452797405,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0052,0,Control,0.008131279441224177,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+grouped_360::annotation_sparse_control::0059,0,Control,0.006495510635667108,0,Carbohydrate metabolism,Non-metabolic,outer_fold_3,3
+canonical::1::c829e5bd52c4,1,Carbohydrate metabolism,0.3870550533801495,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_4,4
+canonical::1::cc16c92e3185,1,Carbohydrate metabolism,0.535092747669691,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+canonical::1::837de33dbd4f,1,Lipid metabolism,0.975191668941264,1,Lipid metabolism,Lipid metabolism,outer_fold_4,4
+canonical::1::300bfc8d53ac,1,Nucleotide metabolism,0.31422027648574363,1,Nucleotide metabolism,Nucleotide metabolism,outer_fold_4,4
+canonical::1::74dcd9644bd6,1,Amino acid metabolism,0.7555199824284915,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+canonical::1::dac44db72789,1,Amino acid metabolism,0.6977852802689447,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+canonical::1::3c4ef5779883,1,Metabolism of other amino acids,0.10887198299661632,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+canonical::1::877e206fae28,1,Glycan biosynthesis and metabolism,0.38492018491849933,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+canonical::1::66839984c8bb,1,Glycan biosynthesis and metabolism,0.20191172461529064,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+canonical::1::9b026197f627,1,Carbohydrate metabolism,0.1515516647129905,1,Lipid metabolism,Lipid metabolism,outer_fold_4,4
+canonical::1::ad7b2a2d0a27,1,Glycan biosynthesis and metabolism,0.3365866187663474,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+canonical::1::5b90aaf8fec1,1,Lipid metabolism,0.7794956145851194,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+canonical::1::08be52f39b5a,1,Carbohydrate metabolism,0.5989028083548141,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_4,4
+canonical::1::dc75ab697d9e,1,Metabolism of cofactors and vitamins,0.08441035136753032,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+canonical::1::295cd62404bd,1,Metabolism of cofactors and vitamins,0.12324816376912395,1,Nucleotide metabolism,Nucleotide metabolism,outer_fold_4,4
+canonical::1::8a1599f003eb,1,Biosynthesis of other secondary metabolites,0.16446270419679132,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+canonical::1::b386c70cff5e,1,Metabolism of terpenoids and polyketides,0.22643075926882786,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_4,4
+canonical::1::c897a6094134,1,Biosynthesis of other secondary metabolites,0.9356018011309306,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+canonical::1::13a22d279c42,1,Carbohydrate metabolism,0.8636832196466119,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+canonical::1::e46c3b01b80e,1,Carbohydrate metabolism,0.6950591633471848,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+canonical::0::dcf9153cd2da,0,Rice curated non-metabolic,0.0018136262771180774,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_4,4
+canonical::0::f2fef3f3f3c7,0,Rice curated non-metabolic,0.006049294446103765,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::7bb24dec9764,0,Rice curated non-metabolic,0.0019803218343241256,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::62e415205787,0,Rice curated non-metabolic,0.03188795408976129,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::5e7557e810a6,0,Rice curated non-metabolic,0.0016983956028302756,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::9c69eaaa3e2e,0,Rice curated non-metabolic,0.08527401635207704,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+canonical::0::6ade952f0730,0,Rice curated non-metabolic,0.02292508977761368,0,Lipid metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::a552ece2f580,0,Rice curated non-metabolic,0.011680152951236632,0,Energy metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::ad099e26ed31,0,Rice curated non-metabolic,0.03758576916952339,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::0::e716c7b32780,0,Rice curated non-metabolic,0.04235266329132868,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0004,0,Control,0.004449079949317349,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0008,0,Control,0.0004724622502528801,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0010,0,Control,0.000900781321426343,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0012,0,Control,0.00043777583221838487,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0019,0,Control,0.0009139510032302714,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0028,0,Control,0.0008433614181700633,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0033,0,Control,0.00035821454547156205,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0038,0,Control,0.00019455740233364227,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0043,0,Control,0.00024156405233973023,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0049,0,Control,0.0013522001082567066,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0054,0,Control,0.000790592593997052,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::random_gene_set::0055,0,Control,0.0006601485947137843,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0001,0,Control,0.0009831064250495365,0,Amino acid metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0007,0,Control,0.0036915334432628304,0,Lipid metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0012,0,Control,0.011591487614685056,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0017,0,Control,0.004168388168461607,0,Metabolism of other amino acids,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0020,0,Control,0.000492018109764726,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0023,0,Control,0.0038566208610981757,0,Energy metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0030,0,Control,0.00194201878645219,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0036,0,Control,0.004928062298204136,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0042,0,Control,0.0007418400075156236,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0049,0,Control,0.00221253190265772,0,Amino acid metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::shuffled_pathway::0055,0,Control,0.0019482374500595114,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::partial_pathway::0002,0,Control,0.38182020278674056,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0007,0,Control,0.9723253263624533,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0012,0,Control,0.33044196692245836,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::partial_pathway::0017,0,Control,0.4511040571613259,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_4,4
+grouped_360::partial_pathway::0022,0,Control,0.010835047944062544,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_4,4
+grouped_360::partial_pathway::0027,0,Control,0.832382709947157,1,Lipid metabolism,Lipid metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0032,0,Control,0.11372267303719509,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_4,4
+grouped_360::partial_pathway::0037,0,Control,0.5700673656829288,1,Energy metabolism,Energy metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0042,0,Control,0.5338459690869269,1,Lipid metabolism,Lipid metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0047,0,Control,0.7660168511308444,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+grouped_360::partial_pathway::0052,0,Control,0.1047435703173624,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::partial_pathway::0058,0,Control,0.07809212346721768,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::partial_pathway::0059,0,Control,0.31739143026033934,1,Amino acid metabolism,Amino acid metabolism,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0005,0,Control,0.2816507982449948,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0006,0,Control,0.012468902909929318,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0013,0,Control,0.24225156014387506,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0021,0,Control,0.1325539257905222,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0026,0,Control,0.6397322633161515,1,Lipid metabolism,Lipid metabolism,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0030,0,Control,0.01400255200404573,0,Metabolism of terpenoids and polyketides,Non-metabolic,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0033,0,Control,0.17793913407981557,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0042,0,Control,0.1833375149735239,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0046,0,Control,0.2696494919158823,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0049,0,Control,0.09500847575762558,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0054,0,Control,0.00423168773475042,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_4,4
+grouped_360::cross_pathway_mixture::0059,0,Control,0.002278356127387629,0,Amino acid metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0001,0,Control,0.018353599655757502,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0009,0,Control,0.006270381499407265,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0014,0,Control,0.052393349462644505,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0019,0,Control,0.0642484751695351,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0024,0,Control,0.007530060700491737,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0030,0,Control,0.01602877874858189,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0036,0,Control,0.32304105949233375,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+grouped_360::go_coherent_control::0041,0,Control,0.018172736510704005,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0043,0,Control,0.010775114928488014,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0046,0,Control,0.012294598481107557,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0050,0,Control,0.005918167164038316,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::go_coherent_control::0053,0,Control,0.8620218512537213,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_4,4
+grouped_360::annotation_sparse_control::0001,0,Control,0.0018012098321034387,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0006,0,Control,0.0007270242732642297,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0011,0,Control,0.002759478327961917,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0012,0,Control,0.0029076879375547716,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0018,0,Control,0.0006711417140990466,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0025,0,Control,0.003316705151044352,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0031,0,Control,0.00044715301337694185,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0036,0,Control,0.000414344296161319,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0041,0,Control,0.0005010637102115057,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0044,0,Control,0.0004271864137051366,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0048,0,Control,0.0012884493749546336,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0054,0,Control,0.003423490403779701,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+grouped_360::annotation_sparse_control::0060,0,Control,0.0018033281374111268,0,Carbohydrate metabolism,Non-metabolic,outer_fold_4,4
+canonical::1::792f9e450441,1,Carbohydrate metabolism,0.9436580854279842,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::1::a56f464bcad4,1,Carbohydrate metabolism,0.9733714431099038,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+canonical::1::2bbbbe956890,1,Lipid metabolism,0.9559112915537065,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+canonical::1::adf994dff69f,1,Metabolism of cofactors and vitamins,0.7876003047253399,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_5,5
+canonical::1::5fc198e3e439,1,Nucleotide metabolism,0.7794989878892651,1,Nucleotide metabolism,Nucleotide metabolism,outer_fold_5,5
+canonical::1::4c0eec9e87fc,1,Amino acid metabolism,0.6608515764714649,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_5,5
+canonical::1::d66419390644,1,Amino acid metabolism,0.0709330239897845,1,Metabolism of other amino acids,Metabolism of other amino acids,outer_fold_5,5
+canonical::1::83890e681895,1,Amino acid metabolism,0.9273354950844966,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+canonical::1::206f9528db1f,1,Metabolism of other amino acids,0.9953659989949437,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+canonical::1::8e10c47d84b5,1,Glycan biosynthesis and metabolism,0.6655284694983833,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+canonical::1::f2d0703aa268,1,Glycan biosynthesis and metabolism,0.6364826892838076,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+canonical::1::17ce566a2e9b,1,Glycan biosynthesis and metabolism,0.032826776427694174,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+canonical::1::df5224ac5eef,1,Lipid metabolism,0.9515592851250926,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+canonical::1::d2c932083315,1,Carbohydrate metabolism,0.8608474240052101,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::1::2a85016f8bee,1,Energy metabolism,0.9843287748460259,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::1::d10fb1808d46,1,Metabolism of cofactors and vitamins,0.7277187763928004,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+canonical::1::4a5793b33a9e,1,Metabolism of terpenoids and polyketides,0.7064444489376283,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::1::f564069e67aa,1,Energy metabolism,0.6401266851491596,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+canonical::1::1c949d1415d4,1,Biosynthesis of other secondary metabolites,0.9753270147273231,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_5,5
+canonical::1::d1f7425be9d6,1,Biosynthesis of other secondary metabolites,0.9016472360138358,1,Biosynthesis of other secondary metabolites,Biosynthesis of other secondary metabolites,outer_fold_5,5
+canonical::1::6ce6ff013bff,1,Metabolism of other amino acids,0.790634950228899,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::1::a2d65a76ac19,1,Energy metabolism,0.15776235080004627,1,Energy metabolism,Energy metabolism,outer_fold_5,5
+canonical::0::b1537dc7e297,0,Rice curated non-metabolic,0.3060025313985889,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::0::d0f3ad623a11,0,Rice curated non-metabolic,0.01854941100304039,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+canonical::0::5ed303aacd8e,0,Rice curated non-metabolic,0.017040443511315853,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+canonical::0::402f33f84c2f,0,Rice curated non-metabolic,0.004812911255261123,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+canonical::0::5d2395d6ac7e,0,Rice curated non-metabolic,0.038517280654191986,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+canonical::0::59e3f45f8e47,0,Rice curated non-metabolic,0.14328763132425965,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+canonical::0::6e2e2e599cc1,0,Rice curated non-metabolic,0.878656069802058,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+canonical::0::e132f49e0269,0,Rice curated non-metabolic,0.06472894451428257,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+grouped_360::random_gene_set::0002,0,Control,0.010682316083479597,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0003,0,Control,0.0008533708423325368,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0011,0,Control,0.0005460805447544379,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0013,0,Control,0.00047662230374044534,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0018,0,Control,0.0003772347502234514,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0024,0,Control,0.0007624287107484259,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0026,0,Control,0.00041195754689330973,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0032,0,Control,0.0003573148175112911,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0037,0,Control,0.0003460971160787317,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0042,0,Control,0.0005704364337133364,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0044,0,Control,0.0010528475104525541,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0048,0,Control,0.0016346698049654453,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0053,0,Control,0.0016701397963749323,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::random_gene_set::0060,0,Control,0.0005387307077918457,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0004,0,Control,0.003971053725162721,0,Energy metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0010,0,Control,0.0035561161307402895,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0015,0,Control,0.003124359539879181,0,Amino acid metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0021,0,Control,0.0024158439058471048,0,Lipid metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0026,0,Control,0.0018674901115215178,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0034,0,Control,0.004918093891047581,0,Metabolism of other amino acids,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0039,0,Control,0.0013264618759323468,0,Lipid metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0045,0,Control,0.0008822994732209427,0,Energy metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0046,0,Control,0.000615187127805444,0,Metabolism of cofactors and vitamins,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0052,0,Control,0.002746106764611138,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_5,5
+grouped_360::shuffled_pathway::0058,0,Control,0.0006110378935416356,0,Biosynthesis of other secondary metabolites,Non-metabolic,outer_fold_5,5
+grouped_360::partial_pathway::0004,0,Control,0.6346945867871242,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0009,0,Control,0.647506837084949,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0014,0,Control,0.5746271232871367,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0019,0,Control,0.9068926767745221,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0024,0,Control,0.15555829315565803,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_5,5
+grouped_360::partial_pathway::0029,0,Control,0.9261390038786788,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0034,0,Control,0.8436576144527089,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0039,0,Control,0.20056032214450412,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0044,0,Control,0.5047013805426371,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::partial_pathway::0049,0,Control,0.08614900334361973,1,Metabolism of terpenoids and polyketides,Metabolism of terpenoids and polyketides,outer_fold_5,5
+grouped_360::partial_pathway::0054,0,Control,0.02461245755029201,0,Amino acid metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::partial_pathway::0057,0,Control,0.4566022315741389,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0002,0,Control,0.820837486765089,1,Lipid metabolism,Lipid metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0010,0,Control,0.22528404514974715,1,Energy metabolism,Energy metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0017,0,Control,0.6988754506777775,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0020,0,Control,0.3026215961832988,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0023,0,Control,0.23149174050843974,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0029,0,Control,0.15750475235621017,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0035,0,Control,0.0677322516035614,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0036,0,Control,0.044356402927016536,1,Amino acid metabolism,Amino acid metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0044,0,Control,0.4460278059541264,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0051,0,Control,0.6528056786564832,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0055,0,Control,0.035340698662271644,1,Metabolism of cofactors and vitamins,Metabolism of cofactors and vitamins,outer_fold_5,5
+grouped_360::cross_pathway_mixture::0057,0,Control,0.9427559880041505,1,Glycan biosynthesis and metabolism,Glycan biosynthesis and metabolism,outer_fold_5,5
+grouped_360::go_coherent_control::0005,0,Control,0.02282625390983458,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0011,0,Control,0.017459643957281067,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0016,0,Control,0.22271563586530166,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::go_coherent_control::0021,0,Control,0.02347894068626474,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0026,0,Control,0.012828586102703897,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0032,0,Control,0.015435452786013767,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0035,0,Control,0.06620723866369155,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::go_coherent_control::0039,0,Control,0.0008984351289606854,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0048,0,Control,0.0010350090976816177,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0051,0,Control,0.009134677562728552,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::go_coherent_control::0056,0,Control,0.15640065770184336,1,Carbohydrate metabolism,Carbohydrate metabolism,outer_fold_5,5
+grouped_360::annotation_sparse_control::0003,0,Control,0.0012540907728639274,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0008,0,Control,0.001203025637589018,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0015,0,Control,0.0037883232618167954,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0020,0,Control,0.0053620254752868015,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0023,0,Control,0.0006653101642731354,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0028,0,Control,0.0029164222293622303,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0033,0,Control,0.002375312187693,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0038,0,Control,0.002418755488746785,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0043,0,Control,0.0034643025485913644,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0050,0,Control,0.0031012055385259197,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0055,0,Control,0.000614210841445219,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5
+grouped_360::annotation_sparse_control::0057,0,Control,0.0009032629181117113,0,Carbohydrate metabolism,Non-metabolic,outer_fold_5,5

@@ -1,0 +1,74 @@
+{
+  "implementation": "gene_set_seed_v2",
+  "outer_folds": "archived membership, unchanged",
+  "output_families": [
+    "Amino acid metabolism",
+    "Biosynthesis of other secondary metabolites",
+    "Carbohydrate metabolism",
+    "Energy metabolism",
+    "Glycan biosynthesis and metabolism",
+    "Lipid metabolism",
+    "Metabolism of cofactors and vitamins",
+    "Metabolism of other amino acids",
+    "Metabolism of terpenoids and polyketides",
+    "Nucleotide metabolism"
+  ],
+  "raw_min_support_audit": {
+    "dropped": {
+      "overview": 2,
+      "no_family": 6,
+      "too_small": 3,
+      "xenobiotics": 0
+    },
+    "n_positives_before_collapse": 102,
+    "n_curated_before_collapse": 50,
+    "family_counts_before_collapse": {
+      "Carbohydrate metabolism": 17,
+      "Amino acid metabolism": 15,
+      "Lipid metabolism": 14,
+      "Metabolism of cofactors and vitamins": 12,
+      "Glycan biosynthesis and metabolism": 11,
+      "Biosynthesis of other secondary metabolites": 9,
+      "Metabolism of other amino acids": 8,
+      "Energy metabolism": 7,
+      "Metabolism of terpenoids and polyketides": 7,
+      "Nucleotide metabolism": 2
+    },
+    "families_passing_FAMILY_MIN": [
+      "Amino acid metabolism",
+      "Biosynthesis of other secondary metabolites",
+      "Carbohydrate metabolism",
+      "Glycan biosynthesis and metabolism",
+      "Lipid metabolism",
+      "Metabolism of cofactors and vitamins",
+      "Metabolism of other amino acids"
+    ]
+  },
+  "effective_policy": "all ten mapped unambiguous families; no FAMILY_MIN applied for rice",
+  "mean_sd": {
+    "stage1_auroc": {
+      "mean": 0.8892179951739034,
+      "sd": 0.031818415046125384
+    },
+    "stage1_auprc": {
+      "mean": 0.6449434381367372,
+      "sd": 0.08641880433511712
+    },
+    "stage2_macro_f1": {
+      "mean": 0.36123809523809525,
+      "sd": 0.11179998472058168
+    },
+    "end_to_end_accuracy": {
+      "mean": 0.6326955227702183,
+      "sd": 0.02982372742960008
+    },
+    "end_to_end_macro_f1": {
+      "mean": 0.2865380971410557,
+      "sd": 0.08077493740753475
+    },
+    "end_to_end_weighted_f1": {
+      "mean": 0.7001138775610307,
+      "sd": 0.017006997066808336
+    }
+  }
+}

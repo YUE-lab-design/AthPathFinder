@@ -1,0 +1,11 @@
+held_family,method,n_pathways,n_controls,training_n,auroc,auprc
+Amino acid metabolism,LightGBM,52,52,595,0.9097633136094675,0.9199644052062823
+Biosynthesis of other secondary metabolites,LightGBM,38,38,623,0.8538781163434903,0.8232698878451442
+Carbohydrate metabolism,LightGBM,55,55,589,0.8753719008264462,0.8565998261195112
+Energy metabolism,LightGBM,17,17,664,0.8512110726643598,0.8553941133635179
+Glycan biosynthesis and metabolism,LightGBM,22,22,655,0.7809917355371901,0.7408521778555063
+Lipid metabolism,LightGBM,55,55,589,0.8099173553719008,0.7633653358512126
+Metabolism of cofactors and vitamins,LightGBM,35,35,629,0.9036734693877551,0.8864653706112875
+Metabolism of other amino acids,LightGBM,23,23,653,0.8922495274102079,0.8909062667888401
+Metabolism of terpenoids and polyketides,LightGBM,32,32,635,0.923828125,0.9231315406465134
+Nucleotide metabolism,LightGBM,26,26,647,0.8831360946745562,0.8845647797184697

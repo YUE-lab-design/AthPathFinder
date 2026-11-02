@@ -1,0 +1,8 @@
+{
+  "gate": 0.06976744186046512,
+  "original_gate": 0.0697674418604651,
+  "development_only": true,
+  "same_archived_folds": true,
+  "auroc": 0.8200571895424837,
+  "auprc": 0.8150889619705852
+}

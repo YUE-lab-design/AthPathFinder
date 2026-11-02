@@ -1,0 +1,50 @@
+{
+  "n_resamples": 2000,
+  "seed": 42,
+  "direction": "A minus B",
+  "fixed_models_and_gates": true,
+  "endpoints": {
+    "stage1": {
+      "n": 170,
+      "groups": 167,
+      "difference": {
+        "auroc": {
+          "point": 0.09660899653979249,
+          "low": 0.03722222222222227,
+          "high": 0.16186054865009353,
+          "n_successful": 2000
+        },
+        "auprc": {
+          "point": 0.07102329017319797,
+          "low": -0.009607688111375839,
+          "high": 0.160912879785623,
+          "n_successful": 2000
+        }
+      }
+    },
+    "end_to_end": {
+      "n": 169,
+      "groups": 166,
+      "difference": {
+        "end_to_end_accuracy": {
+          "point": 0.053254437869822424,
+          "low": -0.01124077046548959,
+          "high": 0.1124260355029586,
+          "n_successful": 2000
+        },
+        "end_to_end_macro_f1": {
+          "point": 0.04625004957837209,
+          "low": -0.020069978469779887,
+          "high": 0.11087389915004393,
+          "n_successful": 2000
+        },
+        "end_to_end_weighted_f1": {
+          "point": 0.05092043976558658,
+          "low": -0.010792089098123434,
+          "high": 0.10931793411880147,
+          "n_successful": 2000
+        }
+      }
+    }
+  }
+}

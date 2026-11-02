@@ -1,0 +1,97 @@
+[
+  {
+    "path": "data/input_data/data/ATH_GO_GOSLIM.txt",
+    "bytes": 70972263,
+    "sha256": "8cf1478d2c81259309a22ab23e42459a9a7cd79cb900b44aa8a891ad3ec81580"
+  },
+  {
+    "path": "data/input_data/data/aracyc_pathways.20251021.txt",
+    "bytes": 1317875,
+    "sha256": "8e612ff73be6a70cfdb740cd11abc71cd6ee855e9bf6d0c8f957454d620a29f5"
+  },
+  {
+    "path": "data/input_data/data/historical/AraCyc_2011_TAIR_GO_2012/org.At.tair.sqlite",
+    "bytes": 170302464,
+    "sha256": "1b27b9170bc834a91203766195e9220257d3e65041b243ea4d3ae4dc6efb4f6a"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/01_pathway_level_comparison.csv",
+    "bytes": 17710,
+    "sha256": "13f8f497873e7c216df132949c12bfd3521a36605237c7e0d1eeb3a8f57e8080"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/02_common_pathway_gene_membership_changes_NCBI_matched.csv",
+    "bytes": 59967,
+    "sha256": "343f46689c26571307f8c9da70aff9c9aa0d639a375215f7bdba44a8b5ce4a4d"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/03_added_after_2011_pathways_with_current_genes_NCBI_matched.csv",
+    "bytes": 20694,
+    "sha256": "6548dea49a464971a8f6605a074072ab9c52a6138e3f4f462a2757d407ac91f0"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/04_2011_ath_pathway_gene_pairs_NCBI.csv",
+    "bytes": 124397,
+    "sha256": "a60e663aa39f2b30a7e6b4b0348a3212b20b96cd5e5f364db7842719d72cba33"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/05_current_ath_pathway_gene_pairs_NCBI.csv",
+    "bytes": 232168,
+    "sha256": "323011f83b745235790736ca79794777f679066a43be065dc026b5739eda17c4"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/06_kegg_gene_to_ncbi_mapping.csv",
+    "bytes": 503339,
+    "sha256": "268049823549d7fa5b7b3d2c7a84a0cedf3d3bd0b0d199175e2a9a393a32ff8f"
+  },
+  {
+    "path": "data/input_data/data/historical/KEGG_2011_vs_current/07_unmapped_current_genes.csv",
+    "bytes": 31,
+    "sha256": "d1fa8b5a795e69b2203069cff26e457eb329cb14f8672d617a9f8e2858c258b1"
+  },
+  {
+    "path": "data/input_data/data/kegg_ath_pathway_gene.txt",
+    "bytes": 398294,
+    "sha256": "dd6f3e8c9d189dfce5f4f3211c193f6930a0413533d605366f72481a49b6b3ba"
+  },
+  {
+    "path": "data/input_data/data/kegg_ath_pathways.txt",
+    "bytes": 11907,
+    "sha256": "5c1004ef3bf32b5890ccbd4226dfdecf720602e90f73917a6a1508480b7d819c"
+  },
+  {
+    "path": "data/input_data/lofo/training_samples/model_13_comparison_curated/ratio_360_M/training_dataset_ratio_360_M_with_features.csv",
+    "bytes": 1139629,
+    "sha256": "29639026e4d992779646be1810312b7632a2d76592e64ff5d42dd3f298be1ba6"
+  },
+  {
+    "path": "data/input_data/rice_sources/ensembl_biomart_osativa.tsv",
+    "bytes": 5057534,
+    "sha256": "18576d946f103f65c2a268644752936efb07016346264eeab2714ab20e49add5"
+  },
+  {
+    "path": "data/input_data/rice_sources/kegg_conv_uniprot.txt",
+    "bytes": 454974,
+    "sha256": "a13bacf265876627796c2962abb7652d6a62740408da789e6e182c81de3c7e3a"
+  },
+  {
+    "path": "data/input_data/rice_sources/link_pathway.txt",
+    "bytes": 368152,
+    "sha256": "2a2e72efd85b7cd1d04808a1617983511ecd0a7c0b3c843b9e1d562bff39643b"
+  },
+  {
+    "path": "data/input_data/rice_sources/list_pathway.txt",
+    "bytes": 12569,
+    "sha256": "de6984af45798a1df3a927202267936ab9b5d91281f3bee1db61af06ec527131"
+  },
+  {
+    "path": "data/input_data/rice_sources/mygene_osa_go.json",
+    "bytes": 519900,
+    "sha256": "b031fc47d53d23f2746c2a60c28d8406db470af9d240ef2f2477b891f66b2f7b"
+  },
+  {
+    "path": "data/input_data/rice_sources/uniprot_osa_all_go.tsv.gz",
+    "bytes": 433874,
+    "sha256": "271cbc2b695bf96f0aa406937e997387057c9b8c2152afaf751e42ee9e030ca2"
+  }
+]

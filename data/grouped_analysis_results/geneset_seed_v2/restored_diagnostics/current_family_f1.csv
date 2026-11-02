@@ -1,0 +1,11 @@
+family,precision,recall,f1,support
+Amino acid metabolism,0.6875,0.7857142857142857,0.7333333333333333,14
+Biosynthesis of other secondary metabolites,0.75,0.6,0.6666666666666666,10
+Carbohydrate metabolism,0.9375,0.8333333333333334,0.8823529411764706,18
+Energy metabolism,0.75,1.0,0.8571428571428571,3
+Glycan biosynthesis and metabolism,0.625,0.8333333333333334,0.7142857142857143,6
+Lipid metabolism,0.8,0.8888888888888888,0.8421052631578947,9
+Metabolism of cofactors and vitamins,1.0,0.5555555555555556,0.7142857142857143,9
+Metabolism of other amino acids,0.5,0.5,0.5,2
+Metabolism of terpenoids and polyketides,0.6666666666666666,1.0,0.8,4
+Nucleotide metabolism,1.0,1.0,1.0,9

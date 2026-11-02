@@ -1,0 +1,15 @@
+{
+  "feature_version": "gene_set_seed_v2",
+  "seed": 42,
+  "single_stage": "LightGBM multiclass, 11 labels, argmax; no separate gate",
+  "parameters": "same 500 rounds/depth5/lr.03/colsample.7/L1.1/L2=1/class_weight balanced as original; 2 threads",
+  "matched_comparator": "binary LightGBM screening plus unchanged Jaccard 1-NN, on exactly the same closed-catalog development rows and fold-specific features",
+  "training_eligibility": "all controls plus unambiguous positives in the ten-family alphabet; exclude Xenobiotics/ambiguous positives, not relabel them as controls",
+  "split": "archived outer split and archived five development folds, intersected with eligible rows",
+  "feature_selection": "binary training-positive gene union, identical GO terms/features in both matched methods per fold; no heldout feature selection",
+  "threshold": "matched binary: original maximum-balanced-accuracy rule on grouped development OOF only; original deployed threshold unchanged",
+  "primary_endpoint": "11-label end-to-end macro-F1 on same 169 eligible heldout rows; accuracy/weighted-F1 complementary",
+  "uncertainty": "paired group-bootstrap, 2000 draws seed42, identical groups, fixed fits/decisions; zero for absent fixed labels",
+  "method_selection": "fixed protocol; do not adopt an architecture or threshold based on holdout outcome",
+  "limitations": "exploratory comparison on previously consulted holdout; multiclass objective produces more trees per boosting round; comparison is one specific baseline, not proof of universal architecture necessity"
+}

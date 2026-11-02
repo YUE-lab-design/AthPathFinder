@@ -1,0 +1,147 @@
+{
+  "feature_version": "gene_set_seed_v2",
+  "endpoint_version": "closed_catalog_v2",
+  "tests": {
+    "passed": 15,
+    "log": "revision_v2/tests.log"
+  },
+  "integration": {
+    "feature_version": "gene_set_seed_v2",
+    "all_passed": true,
+    "real_long_query_invariance_n": 81,
+    "valid_cli_exit": 0,
+    "invalid_duplicate_unknown_cli_exit": 2,
+    "unknown_cli_reported": true,
+    "unknown_does_not_change_retained_query_prediction": true,
+    "real_zero_overlap_flag_and_unchanged_family": true,
+    "fit_if_missing": false
+  },
+  "recalculation": {
+    "current_n": 170,
+    "stage2_n": 84,
+    "e2e_n": 169,
+    "current_family_predictions_unchanged": true,
+    "historical_memberships_preserved": true,
+    "rice_archived_outer_folds_preserved": true,
+    "rice_family_predictions_unchanged": true,
+    "final_lightgbm_fits": 7,
+    "development_lightgbm_fits": 35,
+    "learned_lightgbm_fits_total": 42,
+    "new_model_classes_added": 0,
+    "feature_version": "gene_set_seed_v2",
+    "all_summary_points_rechecked": true
+  },
+  "pdf": {
+    "main_pages": 8,
+    "supplement_pages": 6,
+    "latexmk_exit": 0,
+    "all_pages_rendered_and_visually_inspected": true,
+    "visible_table_overflow_found": false,
+    "visible_TODO_found": false,
+    "warnings": "Publisher class unused-option/output-routine overfull warnings persist; supplement float placement warnings."
+  },
+  "limitations": [
+    "Exploratory heldout: archived family-head adoption used holdout outcomes.",
+    "Historical/rice original inner-fold IDs unavailable; training-only folds regenerated.",
+    "No independent new confirmatory cohort.",
+    "Old multi-model, ablation, SHAP and LOFO outputs not rerun for this feature version.",
+    "Submission metadata remain unconfirmed."
+  ],
+  "reader_comments_20261029": {
+    "date": "2026-10-29",
+    "current_sets": 170,
+    "current_similarity_groups": 167,
+    "singleton_groups": 166,
+    "four_set_groups": 1,
+    "family_scored_sets": 84,
+    "e2e_scored_sets": 169,
+    "excluded_family": "Xenobiotics biodegradation and metabolism",
+    "rice_sets": 512,
+    "rice_pathways": 102,
+    "rice_controls": 410,
+    "rice_outer_folds": 5,
+    "new_training_runs": 0,
+    "new_performance_estimates": 0,
+    "main_pdf_pages": 6,
+    "supplement_pdf_pages": 5,
+    "both_compiled_and_all_pages_visually_checked": true,
+    "prediction_file_sha256": {
+      "current_predictions.csv": "264045f569e4cac855d65040bd00519ee29a26a487a052d386abeba9e89a3912",
+      "rice_all_predictions.csv": "3288216eda9854efe8beab10391aa497f0172c95fc49167a29fbf68a2c064d20"
+    }
+  },
+  "figure_refresh_20261029": {
+    "main_figures": 4,
+    "supplement_figures": 1,
+    "input_predictions_and_scientific_summaries_unchanged": true,
+    "fit_or_threshold_changes": false,
+    "existing_summary_points_rechecked": true,
+    "vector_pdf_used_in_LaTeX": true,
+    "all_final_pages_visually_inspected": true,
+    "main_pages": 6,
+    "supplement_pages": 5,
+    "generation_manifest": "manuscript/overleaf/figures/source_data/figure_manifest.json",
+    "isolated_overleaf_zip_main_and_supplement_compile_passed": true
+  },
+  "restored_diagnostics_20261029": {
+    "additional_lightgbm_fits": 10,
+    "previous_primary_evaluations_fits": 42,
+    "cumulative_lightgbm_fits": 52,
+    "new_model_classes": 0,
+    "lofo_summary": {
+      "feature_version": "gene_set_seed_v2",
+      "method": "fixed LightGBM; Stage-1 recognition only",
+      "fits_completed": 10,
+      "model_selection_performed": false,
+      "threshold_selection_performed": false,
+      "data_scope": "original Arabidopsis development cohort only; original outer holdout never used",
+      "control_selection": "seed-42 GroupShuffleSplit with legacy test-size formula; candidate prefix targets held-family size, then complete control groups are retained",
+      "group_policy": "remove entire union of held-family and selected-control similarity groups from training; unambiguous positives only",
+      "family_mean_auroc": 0.8684020710825374,
+      "family_mean_auprc": 0.8544513704006285,
+      "lowest_auroc_family": "Glycan biosynthesis and metabolism",
+      "no_claim": "not a new independent confirmatory cohort, not unseen-family label assignment"
+    },
+    "verification": {
+      "all_passed": true,
+      "lofo_fits_reloaded": 10,
+      "lofo_group_and_id_separation_verified": true,
+      "outer_holdout_not_used_in_lofo": true,
+      "all_lofo_metrics_recomputed_from_saved_scores": true,
+      "all_exported_lofo_model_scores_reproduced": true,
+      "current_family_f1_matches_current_macro_f1": true,
+      "new_model_classes": 0,
+      "primary_fit_or_gate_changed": false
+    },
+    "primary_predictions_and_gate_specs_hashes_unchanged": true,
+    "independent_validation_created": false,
+    "main_pages": 6,
+    "supplement_pages": 7,
+    "compiled_and_all_pages_visually_inspected": true,
+    "isolated_overleaf_zip_main_and_supplement_compile_passed": true
+  },
+  "figure_placement_20261029": {
+    "main_figures": 7,
+    "supplement_figures": 1,
+    "moved_figures": {
+      "lofo": {
+        "figure": 3,
+        "pdf_page": 4
+      },
+      "family_f1": {
+        "figure": 4,
+        "pdf_page": 5
+      },
+      "historical_diagnostics": {
+        "figure": 7,
+        "pdf_page": 7
+      }
+    },
+    "main_pages": 8,
+    "supplement_pages": 6,
+    "new_fits_or_metrics": false,
+    "scientific_output_hashes_unchanged": true,
+    "compiled_and_all_pages_visually_checked": true,
+    "isolated_source_bundle_main_and_supp_compile_passed": true
+  }
+}
